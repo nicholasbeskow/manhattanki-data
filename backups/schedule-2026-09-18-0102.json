@@ -257,32 +257,22 @@
           "code": "C1T3L01",
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405",
+          "tags": [
+            "ManhattanProject::C1::T3::L01_Introduction_to_Microbiology"
+          ],
           "cards": 59,
           "links": [
             {
               "label": "Download here first",
               "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L01/C1T3L01.apkg"
             }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L01_Introduction_to_Microbiology"
           ]
         },
         {
           "label": "Bacterial Pathogenesis",
           "code": "C1T3L02",
           "instructor": "Anderson",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409",
-          "tags": [
-            "ManhattanProject::C1::T3::L02_Bacterial_Pathogenesis"
-          ],
-          "cards": 100,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L02/C1T3L02.apkg"
-            }
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409"
         },
         {
           "label": "Bacterial Flora & Pathogenesis",
@@ -306,15 +296,15 @@
           "code": "C1T3L05",
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407",
+          "tags": [
+            "ManhattanProject::C1::T3::L05_High-Impact_Bacterial_Infections"
+          ],
           "cards": 71,
           "links": [
             {
               "label": "Download here first",
               "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L05/C1T3L05.apkg"
             }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L05_High-Impact_Bacterial_Infections"
           ]
         },
         {
