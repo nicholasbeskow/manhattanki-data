@@ -289,15 +289,15 @@
           "code": "C1T3L03",
           "instructor": "Pross",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511",
+          "tags": [
+            "ManhattanProject::C1::T3::L03_Bacterial_Flora_and_Pathogenesis"
+          ],
           "cards": 89,
           "links": [
             {
               "label": "Download here first",
               "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L03/C1T3L03.apkg"
             }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L03_Bacterial_Flora_and_Pathogenesis"
           ]
         },
         {
@@ -332,15 +332,15 @@
           "code": "C1T3L06",
           "instructor": "Pross",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043547",
+          "tags": [
+            "ManhattanProject::C1::T3::L06_Introduction_to_Immunology_and_Innate_Immune_System"
+          ],
           "cards": 122,
           "links": [
             {
               "label": "Download here first",
               "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L06/C1T3L06.apkg"
             }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L06_Introduction_to_Immunology_and_Innate_Immune_System"
           ]
         },
         {
@@ -364,15 +364,15 @@
           "code": "C1T3L08",
           "instructor": "Wiranowska",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48051943",
+          "tags": [
+            "ManhattanProject::C1::T3::L08_Lymph_Nodes_and_Lymphatic_System"
+          ],
           "cards": 56,
           "links": [
             {
               "label": "Download here first",
               "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L08/C1T3L08.apkg"
             }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L08_Lymph_Nodes_and_Lymphatic_System"
           ]
         },
         {
@@ -425,17 +425,7 @@
           "label": "Introduction to Virology",
           "code": "C1T3L11",
           "instructor": "Teng",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083121",
-          "tags": [
-            "ManhattanProject::C1::T3::L11_Introduction_to_Virology_and_Viral_Pathogenesis"
-          ],
-          "cards": 73,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L11/C1T3L11.apkg"
-            }
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083121"
         },
         {
           "label": "EL – High-Impact Viral Infections",
