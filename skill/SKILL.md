@@ -291,9 +291,24 @@ a bug — do not go looking for one, and do not republish to force it.
 
 ## Backing out a bad write
 
-`git revert` the commit in `manhattanki-data` and hit **Refresh** in the add-on's
-dialog. That is the whole fix — the add-on caches the fetch and nothing else.
-Every write also drops a timestamped copy in `backups/`.
+Nothing is ever lost: every push is a commit, and the watcher writes a
+timestamped copy into `backups/` before each one.
+
+```bash
+cd ~/Documents/AnkiUnlocks
+python3 scripts/restore_schedule.py --pool manhattanki --list
+python3 scripts/restore_schedule.py --pool manhattanki --show a1b2c3d
+python3 scripts/restore_schedule.py --pool manhattanki --restore a1b2c3d --reason "..."
+```
+
+`--show` says what restoring would remove and bring back before anything moves;
+`--restore` drops it and the watcher pushes it as a **new** commit, so the
+history it undoes stays readable. `git revert` in the repo does the same thing by
+hand.
+
+Either way, hit **Refresh** in the add-on's dialog afterwards. That is the whole
+fix — the add-on caches the fetch and nothing else, so there is no local state to
+clean up and nothing to uninstall.
 
 ---
 
