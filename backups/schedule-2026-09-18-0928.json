@@ -256,49 +256,19 @@
           "label": "Introduction to Microbiology",
           "code": "C1T3L01",
           "instructor": "Anderson",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405",
-          "cards": 59,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L01/C1T3L01.apkg"
-            }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L01_Introduction_to_Microbiology"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405"
         },
         {
           "label": "Bacterial Pathogenesis",
           "code": "C1T3L02",
           "instructor": "Anderson",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409",
-          "cards": 100,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L02/C1T3L02.apkg"
-            }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L02_Bacterial_Pathogenesis"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409"
         },
         {
           "label": "Bacterial Flora & Pathogenesis",
           "code": "C1T3L03",
           "instructor": "Pross",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511",
-          "tags": [
-            "ManhattanProject::C1::T3::L03_Bacterial_Flora_and_Pathogenesis"
-          ],
-          "cards": 89,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L03/C1T3L03.apkg"
-            }
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511"
         },
         {
           "label": "Prelab – Gluteal Region & Posterior Thigh",
@@ -315,17 +285,7 @@
           "label": "EL – High-Impact Bacterial Infections",
           "code": "C1T3L05",
           "instructor": "Anderson",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407",
-          "cards": 71,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L05/C1T3L05.apkg"
-            }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L05_High-Impact_Bacterial_Infections"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407"
         },
         {
           "label": "Introduction to Immunology & Innate Immune System",
@@ -337,17 +297,7 @@
           "label": "Adaptive Immune System",
           "code": "C1T3L07",
           "instructor": "Mohapatra",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397",
-          "cards": 99,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L07/C1T3L07.apkg"
-            }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L07_Adaptive_Immunity"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397"
         },
         {
           "label": "Lymph Nodes & Lymphatic System",
@@ -368,17 +318,7 @@
         {
           "label": "MHC & Antigen Presentation",
           "code": "C1T3L09",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001",
-          "cards": 103,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L09/C1T3L09.apkg"
-            }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L09_MHC_and_Antigen_Presentation"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001"
         },
         {
           "label": "Cytokines & Complement",
@@ -389,7 +329,7 @@
           "links": [
             {
               "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L10/C1T3L10.apkg"
+              "url": "https://usf.box.com/s/3gfehgdaiw0ecewx8h036cau7jm27lla"
             }
           ],
           "tags": [
