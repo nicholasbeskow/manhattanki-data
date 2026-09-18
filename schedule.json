@@ -256,7 +256,17 @@
           "label": "Introduction to Microbiology",
           "code": "C1T3L01",
           "instructor": "Anderson",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405"
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405",
+          "tags": [
+            "ManhattanProject::C1::T3::L01_Introduction_to_Microbiology"
+          ],
+          "cards": 59,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L01/C1T3L01.apkg"
+            }
+          ]
         },
         {
           "label": "Bacterial Pathogenesis",
@@ -285,7 +295,17 @@
           "label": "EL – High-Impact Bacterial Infections",
           "code": "C1T3L05",
           "instructor": "Anderson",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407"
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407",
+          "tags": [
+            "ManhattanProject::C1::T3::L05_High-Impact_Bacterial_Infections"
+          ],
+          "cards": 71,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L05/C1T3L05.apkg"
+            }
+          ]
         },
         {
           "label": "Introduction to Immunology & Innate Immune System",
@@ -297,7 +317,17 @@
           "label": "Adaptive Immune System",
           "code": "C1T3L07",
           "instructor": "Mohapatra",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397"
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397",
+          "cards": 99,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L07/C1T3L07.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L07_Adaptive_Immunity"
+          ]
         },
         {
           "label": "Lymph Nodes & Lymphatic System",
@@ -318,7 +348,17 @@
         {
           "label": "MHC & Antigen Presentation",
           "code": "C1T3L09",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001"
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001",
+          "cards": 103,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L09/C1T3L09.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L09_MHC_and_Antigen_Presentation"
+          ]
         },
         {
           "label": "Cytokines & Complement",
@@ -329,7 +369,7 @@
           "links": [
             {
               "label": "Download here first",
-              "url": "https://usf.box.com/s/3gfehgdaiw0ecewx8h036cau7jm27lla"
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L10/C1T3L10.apkg"
             }
           ],
           "tags": [
