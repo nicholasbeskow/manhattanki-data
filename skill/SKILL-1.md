@@ -122,17 +122,6 @@ right one.
    `--from YYYY-MM-DD` limits reseeding to days on or after a date; earlier days
    are passed through untouched.
 
-   **Do not reseed in the minute after a `morsanki-data` push.** The GitHub API
-   can still be serving the copy from just before it, and the seed would be built
-   from stale shells. Read the upstream file back and check it looks like what was
-   just pushed before seeding from it. This bit on 2026-09-17: a reseed run ~10
-   seconds after a class-side fix produced 29 slide links instead of 38.
-
-   The seeder now also **keeps a seeded field it already published when upstream
-   stops supplying one**, and says so on stderr. That covers both the stale read
-   above and a real class-side regression. If it reports rescues, go and look at
-   `morsanki-data` — something dropped a field there.
-
 4. **Seed the whole day, not just the lectures with pool cards.** The dialog
    answers "what was on today, and what have we made for it". A lecture with no
    pool deck is a useful, honest blank — and it is the row somebody fills in next
@@ -302,24 +291,9 @@ a bug — do not go looking for one, and do not republish to force it.
 
 ## Backing out a bad write
 
-Nothing is ever lost: every push is a commit, and the watcher writes a
-timestamped copy into `backups/` before each one.
-
-```bash
-cd ~/Documents/AnkiUnlocks
-python3 scripts/restore_schedule.py --pool manhattanki --list
-python3 scripts/restore_schedule.py --pool manhattanki --show a1b2c3d
-python3 scripts/restore_schedule.py --pool manhattanki --restore a1b2c3d --reason "..."
-```
-
-`--show` says what restoring would remove and bring back before anything moves;
-`--restore` drops it and the watcher pushes it as a **new** commit, so the
-history it undoes stays readable. `git revert` in the repo does the same thing by
-hand.
-
-Either way, hit **Refresh** in the add-on's dialog afterwards. That is the whole
-fix — the add-on caches the fetch and nothing else, so there is no local state to
-clean up and nothing to uninstall.
+`git revert` the commit in `manhattanki-data` and hit **Refresh** in the add-on's
+dialog. That is the whole fix — the add-on caches the fetch and nothing else.
+Every write also drops a timestamped copy in `backups/`.
 
 ---
 
