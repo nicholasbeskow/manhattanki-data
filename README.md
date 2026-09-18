@@ -16,11 +16,11 @@ which holds the class schedule. This one holds what *we* made.
       "date": "2026-09-17",
       "lectures": [
         {
-          "label": "Nerve Injuries of Upper Limb",
-          "code": "C1T2L21",
-          "instructor": "Kothari",
-          "tags": ["#Manhattanki::MSK::Nerve_Injuries_Upper_Limb"],
-          "cards": 48
+          "label": "Cytokines & Complement",
+          "code": "C1T3L10",
+          "instructor": "Pross",
+          "cards": 96,
+          "tags": ["ManhattanProject::C1::T3::L10_Cytokines_and_Complement"]
         }
       ]
     }
@@ -28,7 +28,7 @@ which holds the class schedule. This one holds what *we* made.
 }
 ```
 
-Full field reference: `cowork/reference/schema.md` in the add-on repo.
+Full field reference: `skill/reference/schema.md`.
 
 ## The one rule
 
@@ -36,16 +36,16 @@ Every lecture object is half **seeded** and half **ours**:
 
 | Seeded from `morsanki-data`, copy verbatim | Ours, only from the person who made the deck |
 |---|---|
-| `label`, `code`, `instructor`, `optional_unlock`, `slides` | `tags`, `query`, `note`, `links`, `cards` |
+| `label`, `code`, `instructor`, `slides` | `tags`, `query`, `note`, `links`, `cards`, `optional_unlock` |
 
 Manhattanki lists the same lectures on the same days as Morsanki — same
-curriculum. Retyping a lecture title is how the two quietly stop matching, so
-the shells are copied, never typed.
+curriculum. Retyping a lecture title is how the two quietly stop matching, so the
+shells are copied by `AnkiUnlocks/scripts/seed_manhattanki.py`, never typed.
 
 **Never copy a `#Morsanki::` tag into this file.** It points at the class's
 cards, and copying it makes Manhattanki's "Open in Browse" open Morsanki's
-deck — exactly the mixing this add-on exists to prevent. Pool tags are prefixed
-`#Manhattanki::`.
+deck — exactly the mixing this add-on exists to prevent. Pool tags are
+`ManhattanProject::<COURSE>::<TEST>::<LECTURE>`.
 
 ## Other rules
 
@@ -54,9 +54,26 @@ deck — exactly the mixing this add-on exists to prevent. Pool tags are prefixe
   `morsanki-data` and one copy is enough.
 - Seed the *whole* day, not just the lectures with pool cards. A blank row is
   honest, and it is the row someone fills in next.
+- Upstream's `optional_unlock` rows are **not** seeded: each one is a class-deck
+  artifact with no pool equivalent. Here the flag marks a pool extra.
 - Omit `tags` entirely rather than guessing one. A guessed tag gives a Browse
   button that returns zero cards while the row still claims a count.
+- `cards` counts cards, measured in live Anki with `findCards`. Never estimated.
 - 2-space indent, trailing newline, so diffs stay readable.
+
+## How a write reaches here
+
+Cowork has no GitHub credentials. A launchd agent on Nick's Mac watches
+`/Users/Shared/morsanki-push/drop/` and pushes what lands there:
+
+| Drop file | Lands in |
+|---|---|
+| `schedule.json` | `morsanki-data/schedule.json` |
+| `manhattanki.json` | `manhattanki-data/schedule.json` |
+| `manhattanki-skill.json` | `manhattanki-data/skill/*.md` |
+
+Separate clones and separate validators, so a drop for one pool cannot reach the
+other's repo.
 
 ## Backups
 
@@ -66,6 +83,6 @@ caches the fetch and nothing else, so that is the whole fix.
 
 ## Who can write
 
-Everyone in the pool. Pull before you write; the skill merges rather than
-replaces, so adding to a day a roommate already filled leaves their entries
-alone.
+Everyone in the pool. The skill reads the live file before every write and merges
+rather than replaces, so adding to a day a roommate already filled leaves their
+entries alone.
