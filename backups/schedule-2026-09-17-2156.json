@@ -318,17 +318,7 @@
         {
           "label": "MHC & Antigen Presentation",
           "code": "C1T3L09",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001",
-          "cards": 103,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/xbs7ol4ee6t74i8gu5vknwwjrc08v3l7"
-            }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L09_MHC_and_Antigen_Presentation"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001"
         },
         {
           "label": "Cytokines & Complement",
