@@ -297,17 +297,7 @@
           "label": "Adaptive Immune System",
           "code": "C1T3L07",
           "instructor": "Mohapatra",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397",
-          "tags": [
-            "ManhattanProject::C1::T3::L07_Adaptive_Immunity"
-          ],
-          "cards": 99,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L07/C1T3L07.apkg"
-            }
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397"
         },
         {
           "label": "Lymph Nodes & Lymphatic System",
