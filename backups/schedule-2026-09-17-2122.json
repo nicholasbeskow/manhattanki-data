@@ -315,14 +315,14 @@
           "code": "C1T3L10",
           "instructor": "Pross",
           "cards": 96,
+          "tags": [
+            "ManhattanProject::C1::T3::L10_Cytokines_and_Complement"
+          ],
           "links": [
             {
               "label": "Download here first",
               "url": "https://usf.box.com/s/3gfehgdaiw0ecewx8h036cau7jm27lla"
             }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L10_Cytokines_and_Complement"
           ]
         }
       ]
