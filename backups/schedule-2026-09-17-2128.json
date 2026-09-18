@@ -296,14 +296,12 @@
         {
           "label": "Adaptive Immune System",
           "code": "C1T3L07",
-          "instructor": "Mohapatra",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397"
+          "instructor": "Mohapatra"
         },
         {
           "label": "Lymph Nodes & Lymphatic System",
           "code": "C1T3L08",
-          "instructor": "Wiranowska",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48051943"
+          "instructor": "Wiranowska"
         },
         {
           "label": "Lab – Gluteal Region & Posterior Thigh",
@@ -318,13 +316,13 @@
         {
           "label": "MHC & Antigen Presentation",
           "code": "C1T3L09",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001"
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043553"
         },
         {
           "label": "Cytokines & Complement",
           "code": "C1T3L10",
           "instructor": "Pross",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059975",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043559",
           "cards": 96,
           "links": [
             {
@@ -344,26 +342,22 @@
         {
           "label": "Introduction to Virology",
           "code": "C1T3L11",
-          "instructor": "Teng",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083121"
+          "instructor": "Teng"
         },
         {
           "label": "EL – High-Impact Viral Infections",
           "code": "C1T3L12",
-          "instructor": "Teng",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48090425"
+          "instructor": "Teng"
         },
         {
           "label": "Effector Function of Humoral & Cellular Immune Responses",
           "code": "C1T3L13",
-          "instructor": "Bahner",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069387"
+          "instructor": "Bahner"
         },
         {
           "label": "Immunological Memory",
           "code": "C1T3L14",
-          "instructor": "Bahner",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069679"
+          "instructor": "Bahner"
         }
       ]
     }
