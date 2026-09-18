@@ -273,32 +273,22 @@
           "code": "C1T3L02",
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409",
+          "tags": [
+            "ManhattanProject::C1::T3::L02_Bacterial_Pathogenesis"
+          ],
           "cards": 100,
           "links": [
             {
               "label": "Download here first",
               "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L02/C1T3L02.apkg"
             }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L02_Bacterial_Pathogenesis"
           ]
         },
         {
           "label": "Bacterial Flora & Pathogenesis",
           "code": "C1T3L03",
           "instructor": "Pross",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511",
-          "tags": [
-            "ManhattanProject::C1::T3::L03_Bacterial_Flora_and_Pathogenesis"
-          ],
-          "cards": 89,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L03/C1T3L03.apkg"
-            }
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511"
         },
         {
           "label": "Prelab – Gluteal Region & Posterior Thigh",
