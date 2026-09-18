@@ -55,7 +55,12 @@ So a day is half **seeded** from `morsanki-data` and half **ours**:
 |---|---|
 | `label`, `code`, `instructor`, `slides` | `tags`, `query`, `note`, `links`, `cards`, `optional_unlock` |
 
-Read `reference/schema.md` before your first write. It documents every field.
+Read the field reference before your first write. It documents every field, and
+it is the half of this skill that is not in this file:
+
+- installed beside this one as `reference/schema.md`, or
+- `curl -s https://raw.githubusercontent.com/nicholasbeskow/manhattanki-data/main/skill/reference/schema.md`
+  when the Cowork copy is a lone `SKILL.md` (a proposed skill carries one file).
 
 **`optional_unlock` is a pool field, not a seeded one.** Upstream it marks a
 class-deck artifact — a Box re-export, somebody's alternate deck, the mock
