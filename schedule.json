@@ -1,3 +1,350 @@
 {
-  "unlocks": []
+  "unlocks": [
+    {
+      "date": "2026-08-25",
+      "lectures": [
+        {
+          "label": "Cytoskeleton & Cellular Substructures",
+          "code": "C1T2L01",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47501227"
+        },
+        {
+          "label": "Extracellular Matrix",
+          "code": "C1T2L02",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47501415"
+        },
+        {
+          "label": "Prelab: Axilla",
+          "code": "C1T2L03",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47620233"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "lectures": [
+        {
+          "label": "Connective & Epithelial Tissue",
+          "code": "C1T2L04",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47521305"
+        },
+        {
+          "label": "Anatomy Lab 3 — Axilla",
+          "instructor": "Bharadwaj"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "lectures": [
+        {
+          "label": "Early Embryology I",
+          "code": "C1T2L05",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47630629"
+        },
+        {
+          "label": "Early Embryology II",
+          "code": "C1T2L06",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47433245"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "lectures": [
+        {
+          "label": "Early Embryology III",
+          "code": "C1T2L07",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47433241"
+        },
+        {
+          "label": "Prelab: Forearm and Hand",
+          "code": "C1T2L08",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47503549"
+        },
+        {
+          "label": "Postlab EL: Axilla",
+          "code": "C1T2L09",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46776587"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "lectures": [
+        {
+          "label": "Diffusion, Osmosis, & Transport Proteins",
+          "code": "C1T2L10",
+          "instructor": "Dominguez Rieg",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47652335"
+        },
+        {
+          "label": "Bone & Cartilage",
+          "code": "C1T2L11",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47691323"
+        },
+        {
+          "label": "Lab – Anterior Forearm & Hand",
+          "instructor": "Bharadwaj"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "lectures": [
+        {
+          "label": "Concepts of Diagnosis & Pathology",
+          "code": "C1T2L12",
+          "instructor": "Kruk",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47700571"
+        },
+        {
+          "label": "EL – Breast & Ovarian Cancer, BRCA mutations",
+          "code": "C1T2L13",
+          "instructor": "Kruk",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47701765"
+        },
+        {
+          "label": "EL – Lung Cancer",
+          "code": "C1T2L14",
+          "instructor": "Davé",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704931"
+        },
+        {
+          "label": "Bone & Cartilage",
+          "code": "C1T2L15",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47691323"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "lectures": [
+        {
+          "label": "Skin",
+          "code": "C1T2L16",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704849"
+        },
+        {
+          "label": "Foundations in Cutaneous Pathology",
+          "code": "C1T2L17",
+          "instructor": "Albers",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704925"
+        },
+        {
+          "label": "EL – Melanoma",
+          "code": "C1T2L18",
+          "instructor": "Bharadwaj & Albers",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47689747"
+        },
+        {
+          "label": "Musculoskeletal System",
+          "code": "C1T2L19",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47630633"
+        },
+        {
+          "label": "Lab – Posterior Forearm & Hand",
+          "instructor": "Bharadwaj"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "lectures": [
+        {
+          "label": "Skeletal Muscle",
+          "code": "C1T2L20",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47755711"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "lectures": [
+        {
+          "label": "EL – Nerve Injuries of Upper Limb",
+          "code": "C1T2L21",
+          "instructor": "Kothari",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47601087"
+        },
+        {
+          "label": "Elbow & Wrist Joint",
+          "code": "C1T2L22",
+          "instructor": "Riveros",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47912889"
+        },
+        {
+          "label": "Membrane Potential & Ion Channels",
+          "code": "C1T2L23",
+          "instructor": "Noujaim",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078239"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "lectures": [
+        {
+          "label": "Electrical Signaling",
+          "code": "C1T2L24",
+          "instructor": "Noujaim",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078243"
+        },
+        {
+          "label": "Skeletal Muscle",
+          "code": "C1T2L25",
+          "instructor": "Scallan",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47958331"
+        },
+        {
+          "label": "Excitation-Contraction Coupling",
+          "code": "C1T2L26",
+          "instructor": "Scallan",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47958329"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "lectures": [
+        {
+          "label": "Postlab EL – Forearm & Hand",
+          "code": "C1T2L27",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47730497"
+        },
+        {
+          "label": "EL – Musculoskeletal System",
+          "code": "C1T2L28",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47689773"
+        },
+        {
+          "label": "Neuromuscular Junction",
+          "code": "C1T2L29",
+          "instructor": "Crofton",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48007113"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "lectures": [
+        {
+          "label": "TEST 2!!!"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "lectures": [
+        {
+          "label": "Introduction to Microbiology",
+          "code": "C1T3L01",
+          "instructor": "Anderson"
+        },
+        {
+          "label": "Bacterial Pathogenesis",
+          "code": "C1T3L02",
+          "instructor": "Anderson"
+        },
+        {
+          "label": "Bacterial Flora & Pathogenesis",
+          "code": "C1T3L03",
+          "instructor": "Pross"
+        },
+        {
+          "label": "Prelab – Gluteal Region & Posterior Thigh",
+          "code": "C1T3L04",
+          "instructor": "PRERECORDED — Bharadwaj"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "lectures": [
+        {
+          "label": "EL – High-Impact Bacterial Infections",
+          "code": "C1T3L05",
+          "instructor": "Anderson"
+        },
+        {
+          "label": "Introduction to Immunology & Innate Immune System",
+          "code": "C1T3L06",
+          "instructor": "Pross"
+        },
+        {
+          "label": "Adaptive Immune System",
+          "code": "C1T3L07",
+          "instructor": "Mohapatra"
+        },
+        {
+          "label": "Lymph Nodes & Lymphatic System",
+          "code": "C1T3L08",
+          "instructor": "Wiranowska"
+        },
+        {
+          "label": "Lab – Gluteal Region & Posterior Thigh",
+          "instructor": "Bharadwaj"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "lectures": [
+        {
+          "label": "MHC & Antigen Presentation",
+          "code": "C1T3L09"
+        },
+        {
+          "label": "Cytokines & Complement",
+          "code": "C1T3L10",
+          "instructor": "Pross",
+          "cards": 96,
+          "tags": [
+            "ManhattanProject::C1::T3::L10_Cytokines_and_Complement"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "lectures": [
+        {
+          "label": "Introduction to Virology",
+          "code": "C1T3L11",
+          "instructor": "Teng"
+        },
+        {
+          "label": "EL – High-Impact Viral Infections",
+          "code": "C1T3L12",
+          "instructor": "Teng"
+        },
+        {
+          "label": "Effector Function of Humoral & Cellular Immune Responses",
+          "code": "C1T3L13",
+          "instructor": "Bahner"
+        },
+        {
+          "label": "Immunological Memory",
+          "code": "C1T3L14",
+          "instructor": "Bahner"
+        }
+      ]
+    }
+  ]
 }
