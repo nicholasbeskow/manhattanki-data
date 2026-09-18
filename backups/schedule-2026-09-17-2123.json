@@ -255,26 +255,22 @@
         {
           "label": "Introduction to Microbiology",
           "code": "C1T3L01",
-          "instructor": "Anderson",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405"
+          "instructor": "Anderson"
         },
         {
           "label": "Bacterial Pathogenesis",
           "code": "C1T3L02",
-          "instructor": "Anderson",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409"
+          "instructor": "Anderson"
         },
         {
           "label": "Bacterial Flora & Pathogenesis",
           "code": "C1T3L03",
-          "instructor": "Pross",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511"
+          "instructor": "Pross"
         },
         {
           "label": "Prelab – Gluteal Region & Posterior Thigh",
           "code": "C1T3L04",
-          "instructor": "PRERECORDED — Bharadwaj",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47963649"
+          "instructor": "PRERECORDED — Bharadwaj"
         }
       ]
     },
@@ -284,14 +280,12 @@
         {
           "label": "EL – High-Impact Bacterial Infections",
           "code": "C1T3L05",
-          "instructor": "Anderson",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407"
+          "instructor": "Anderson"
         },
         {
           "label": "Introduction to Immunology & Innate Immune System",
           "code": "C1T3L06",
-          "instructor": "Pross",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043547"
+          "instructor": "Pross"
         },
         {
           "label": "Adaptive Immune System",
@@ -305,8 +299,7 @@
         },
         {
           "label": "Lab – Gluteal Region & Posterior Thigh",
-          "instructor": "Bharadwaj",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47963693"
+          "instructor": "Bharadwaj"
         }
       ]
     },
@@ -315,14 +308,12 @@
       "lectures": [
         {
           "label": "MHC & Antigen Presentation",
-          "code": "C1T3L09",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043553"
+          "code": "C1T3L09"
         },
         {
           "label": "Cytokines & Complement",
           "code": "C1T3L10",
           "instructor": "Pross",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043559",
           "cards": 96,
           "links": [
             {
