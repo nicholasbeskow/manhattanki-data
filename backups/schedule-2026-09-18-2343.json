@@ -257,7 +257,7 @@
           "code": "C1T3L01",
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405",
-          "cards": 51,
+          "cards": 59,
           "links": [
             {
               "label": "Download here first",
@@ -274,7 +274,7 @@
           "code": "C1T3L02",
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409",
-          "cards": 83,
+          "cards": 100,
           "links": [
             {
               "label": "Download here first",
@@ -291,7 +291,7 @@
           "code": "C1T3L03",
           "instructor": "Pross",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511",
-          "cards": 62,
+          "cards": 89,
           "links": [
             {
               "label": "Download here first",
@@ -324,7 +324,7 @@
           "code": "C1T3L05",
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407",
-          "cards": 53,
+          "cards": 71,
           "links": [
             {
               "label": "Download here first",
@@ -341,7 +341,7 @@
           "code": "C1T3L06",
           "instructor": "Pross",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043547",
-          "cards": 86,
+          "cards": 122,
           "links": [
             {
               "label": "Download here first",
@@ -358,7 +358,7 @@
           "code": "C1T3L07",
           "instructor": "Mohapatra",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397",
-          "cards": 64,
+          "cards": 99,
           "links": [
             {
               "label": "Download here first",
@@ -375,7 +375,7 @@
           "code": "C1T3L08",
           "instructor": "Wiranowska",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48051943",
-          "cards": 45,
+          "cards": 56,
           "links": [
             {
               "label": "Download here first",
@@ -401,7 +401,7 @@
           "label": "MHC & Antigen Presentation",
           "code": "C1T3L09",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001",
-          "cards": 48,
+          "cards": 103,
           "links": [
             {
               "label": "Download here first",
@@ -418,7 +418,7 @@
           "code": "C1T3L10",
           "instructor": "Pross",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059975",
-          "cards": 59,
+          "cards": 96,
           "links": [
             {
               "label": "Download here first",
@@ -440,7 +440,7 @@
           "code": "C1T3L11",
           "instructor": "Teng",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083121",
-          "cards": 64,
+          "cards": 73,
           "links": [
             {
               "label": "Download here first",
@@ -457,7 +457,6 @@
           "code": "C1T3L12",
           "instructor": "Teng",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48090425",
-          "cards": 50,
           "tags": [
             "ManhattanProject::C1::T3::L12_High-Impact_Viral_Infections",
             "AnkiHub_Optional::Manhattanki::C1::T3::L12_High-Impact_Viral_Infections"
@@ -468,7 +467,6 @@
           "code": "C1T3L13",
           "instructor": "Bahner",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069387",
-          "cards": 47,
           "tags": [
             "ManhattanProject::C1::T3::L13_Effector_Function_of_Humoral_and_Cellular_Immune_Responses",
             "AnkiHub_Optional::Manhattanki::C1::T3::L13_Effector_Function_of_Humoral_and_Cellular_Immune_Responses"
@@ -479,7 +477,6 @@
           "code": "C1T3L14",
           "instructor": "Bahner",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069679",
-          "cards": 29,
           "tags": [
             "ManhattanProject::C1::T3::L14_Immunological_Memory",
             "AnkiHub_Optional::Manhattanki::C1::T3::L14_Immunological_Memory"
