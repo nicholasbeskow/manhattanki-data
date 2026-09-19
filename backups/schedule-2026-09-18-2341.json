@@ -265,8 +265,7 @@
             }
           ],
           "tags": [
-            "ManhattanProject::C1::T3::L01_Introduction_to_Microbiology",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L01_Introduction_to_Microbiology"
+            "ManhattanProject::C1::T3::L01_Introduction_to_Microbiology"
           ]
         },
         {
@@ -282,8 +281,7 @@
             }
           ],
           "tags": [
-            "ManhattanProject::C1::T3::L02_Bacterial_Pathogenesis",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L02_Bacterial_Pathogenesis"
+            "ManhattanProject::C1::T3::L02_Bacterial_Pathogenesis"
           ]
         },
         {
@@ -299,20 +297,14 @@
             }
           ],
           "tags": [
-            "ManhattanProject::C1::T3::L03_Bacterial_Flora_and_Pathogenesis",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L03_Bacterial_Flora_and_Pathogenesis"
+            "ManhattanProject::C1::T3::L03_Bacterial_Flora_and_Pathogenesis"
           ]
         },
         {
           "label": "Prelab – Gluteal Region & Posterior Thigh",
           "code": "C1T3L04",
           "instructor": "PRERECORDED — Bharadwaj",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47963649",
-          "query": "tag:ManhattanProject::C1::T3::L04_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L04_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L04_Prelab_Gluteal_Region_and_Posterior_Thigh",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L04_Prelab_Gluteal_Region_and_Posterior_Thigh"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47963649"
         }
       ]
     },
@@ -332,8 +324,7 @@
             }
           ],
           "tags": [
-            "ManhattanProject::C1::T3::L05_High-Impact_Bacterial_Infections",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L05_High-Impact_Bacterial_Infections"
+            "ManhattanProject::C1::T3::L05_High-Impact_Bacterial_Infections"
           ]
         },
         {
@@ -349,8 +340,7 @@
             }
           ],
           "tags": [
-            "ManhattanProject::C1::T3::L06_Introduction_to_Immunology_and_Innate_Immune_System",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L06_Introduction_to_Immunology_and_Innate_Immune_System"
+            "ManhattanProject::C1::T3::L06_Introduction_to_Immunology_and_Innate_Immune_System"
           ]
         },
         {
@@ -366,8 +356,7 @@
             }
           ],
           "tags": [
-            "ManhattanProject::C1::T3::L07_Adaptive_Immunity",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L07_Adaptive_Immunity"
+            "ManhattanProject::C1::T3::L07_Adaptive_Immunity"
           ]
         },
         {
@@ -383,8 +372,7 @@
             }
           ],
           "tags": [
-            "ManhattanProject::C1::T3::L08_Lymph_Nodes_and_Lymphatic_System",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L08_Lymph_Nodes_and_Lymphatic_System"
+            "ManhattanProject::C1::T3::L08_Lymph_Nodes_and_Lymphatic_System"
           ]
         },
         {
@@ -409,8 +397,7 @@
             }
           ],
           "tags": [
-            "ManhattanProject::C1::T3::L09_MHC_and_Antigen_Presentation",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L09_MHC_and_Antigen_Presentation"
+            "ManhattanProject::C1::T3::L09_MHC_and_Antigen_Presentation"
           ]
         },
         {
@@ -426,8 +413,7 @@
             }
           ],
           "tags": [
-            "ManhattanProject::C1::T3::L10_Cytokines_and_Complement",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L10_Cytokines_and_Complement"
+            "ManhattanProject::C1::T3::L10_Cytokines_and_Complement"
           ]
         }
       ]
@@ -440,47 +426,34 @@
           "code": "C1T3L11",
           "instructor": "Teng",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083121",
+          "tags": [
+            "ManhattanProject::C1::T3::L11_Introduction_to_Virology_and_Viral_Pathogenesis"
+          ],
           "cards": 73,
           "links": [
             {
               "label": "Download here first",
               "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L11/C1T3L11.apkg"
             }
-          ],
-          "tags": [
-            "ManhattanProject::C1::T3::L11_Introduction_to_Virology_and_Viral_Pathogenesis",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L11_Introduction_to_Virology_and_Viral_Pathogenesis"
           ]
         },
         {
           "label": "EL – High-Impact Viral Infections",
           "code": "C1T3L12",
           "instructor": "Teng",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48090425",
-          "tags": [
-            "ManhattanProject::C1::T3::L12_High-Impact_Viral_Infections",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L12_High-Impact_Viral_Infections"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48090425"
         },
         {
           "label": "Effector Function of Humoral & Cellular Immune Responses",
           "code": "C1T3L13",
           "instructor": "Bahner",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069387",
-          "tags": [
-            "ManhattanProject::C1::T3::L13_Effector_Function_of_Humoral_and_Cellular_Immune_Responses",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L13_Effector_Function_of_Humoral_and_Cellular_Immune_Responses"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069387"
         },
         {
           "label": "Immunological Memory",
           "code": "C1T3L14",
           "instructor": "Bahner",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069679",
-          "tags": [
-            "ManhattanProject::C1::T3::L14_Immunological_Memory",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L14_Immunological_Memory"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069679"
         }
       ]
     },
@@ -491,23 +464,13 @@
           "label": "Postlab EL – Gluteal Region & Posterior Thigh",
           "code": "C1T3L15",
           "instructor": "Bharadwaj",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47965449",
-          "query": "tag:ManhattanProject::C1::T3::L15_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L15_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L15_Postlab_EL_Gluteal_Region_and_Posterior_Thigh",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L15_Postlab_EL_Gluteal_Region_and_Posterior_Thigh"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47965449"
         },
         {
           "label": "Prelab – Anterior Thigh & Leg",
           "code": "C1T3L16",
           "instructor": "Bharadwaj",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966469",
-          "query": "tag:ManhattanProject::C1::T3::L16_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L16_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L16_Prelab_Anterior_Thigh_and_Leg",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L16_Prelab_Anterior_Thigh_and_Leg"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966469"
         },
         {
           "label": "EL – Diagnostic Testing for Infectious Diseases",
@@ -518,12 +481,7 @@
           "label": "Concepts of Vaccination and Immunotherapies",
           "code": "C1T3L17",
           "instructor": "Seyfang",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
-          "query": "tag:ManhattanProject::C1::T3::L17_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L17_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L17_Concepts_of_Vaccination_and_Immunotherapies",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L17_Concepts_of_Vaccination_and_Immunotherapies"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289"
         }
       ]
     },
@@ -534,32 +492,17 @@
           "label": "Prelab – Posterior Leg & Foot",
           "code": "C1T3L19",
           "instructor": "Bharadwaj",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966845",
-          "query": "tag:ManhattanProject::C1::T3::L19_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L19_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L19_Prelab_Posterior_Leg_and_Foot",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L19_Prelab_Posterior_Leg_and_Foot"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966845"
         },
         {
           "label": "Radiology Lower Limb",
           "code": "C1T3L20",
-          "instructor": "Meyer",
-          "query": "tag:ManhattanProject::C1::T3::L20_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L20_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L20_Radiology_Lower_Limb",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L20_Radiology_Lower_Limb"
-          ]
+          "instructor": "Meyer"
         },
         {
           "label": "Joints of Lower Limb",
           "code": "C1T3L21",
-          "instructor": "Riveros",
-          "query": "tag:ManhattanProject::C1::T3::L21_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L21_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L21_Joints_of_Lower_Limb",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L21_Joints_of_Lower_Limb"
-          ]
+          "instructor": "Riveros"
         }
       ]
     },
@@ -569,34 +512,19 @@
         {
           "label": "EL – Ligaments & Tear",
           "code": "C1T3L22",
-          "instructor": "Remaley & Wiranowska & Prakash",
-          "query": "tag:ManhattanProject::C1::T3::L22_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L22_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L22_Ligaments_and_Tear",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L22_Ligaments_and_Tear"
-          ]
+          "instructor": "Remaley & Wiranowska & Prakash"
         },
         {
           "label": "Postlab EL – Anterior Thigh & Leg",
           "code": "C1T3L23",
           "instructor": "Bharadwaj",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966487",
-          "query": "tag:ManhattanProject::C1::T3::L23_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L23_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L23_Postlab_EL_Anterior_Thigh_and_Leg",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L23_Postlab_EL_Anterior_Thigh_and_Leg"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966487"
         },
         {
           "label": "Diseases of the Musculoskeletal System",
           "code": "C1T3L24",
           "instructor": "Bharadwaj",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48004575",
-          "query": "tag:ManhattanProject::C1::T3::L24_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L24_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L24_Diseases_of_the_Musculoskeletal_System",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L24_Diseases_of_the_Musculoskeletal_System"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48004575"
         }
       ]
     },
@@ -606,23 +534,13 @@
         {
           "label": "EL – Trauma",
           "code": "C1T3L25",
-          "instructor": "Remaley & Prakash",
-          "query": "tag:ManhattanProject::C1::T3::L25_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L25_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L25_Trauma",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L25_Trauma"
-          ]
+          "instructor": "Remaley & Prakash"
         },
         {
           "label": "EL – Osteoarthritis",
           "code": "C1T3L26",
           "instructor": "Alsaleh",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48084593",
-          "query": "tag:ManhattanProject::C1::T3::L26_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L26_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L26_Osteoarthritis",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L26_Osteoarthritis"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48084593"
         }
       ]
     },
@@ -633,34 +551,19 @@
           "label": "Postlab EL – Posterior Leg & Foot",
           "code": "C1T3L27",
           "instructor": "Bharadwaj",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47967003",
-          "query": "tag:ManhattanProject::C1::T3::L27_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L27_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L27_Postlab_EL_Posterior_Leg_and_Foot",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L27_Postlab_EL_Posterior_Leg_and_Foot"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47967003"
         },
         {
           "label": "EL – Nerve Injury of Lower Limb",
           "code": "C1T3L28",
           "instructor": "Kothari",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075531",
-          "query": "tag:ManhattanProject::C1::T3::L28_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L28_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L28_Nerve_Injury_of_Lower_Limb",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L28_Nerve_Injury_of_Lower_Limb"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075531"
         },
         {
           "label": "EL – Muscular Dystrophy",
           "code": "C1T3L29",
           "instructor": "Seyfang & Chen",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075333",
-          "query": "tag:ManhattanProject::C1::T3::L29_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L29_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L29_Muscular_Dystrophy",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L29_Muscular_Dystrophy"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075333"
         },
         {
           "label": "EL – Immunology Reasoning & Review",
