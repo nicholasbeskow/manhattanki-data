@@ -105,6 +105,17 @@ so a whole course or a single test can be selected at once
 (`tag:ManhattanProject::C1::T3::*`). One lecture tag carries both the pool's new
 cards and the AnKing cards tagged in place, so one tag covers the lecture.
 
+**Every lecture row lists two tags with the same leaf** — the pool's own
+`ManhattanProject::C1::T3::L##_Name` and the AnkiHub optional tag
+`AnkiHub_Optional::Manhattanki::C1::T3::L##_Name`. They are OR'd, so the button works
+both for whoever has the cards locally and for a roommate whose AnKing cards carry only
+the optional tag from the Manhattanki tag group. The SKILL's optional-tag section has
+the mirror rule.
+
+A lecture nobody has built yet may carry a placeholder pair plus a wildcard `query`
+(`tag:ManhattanProject::C1::T3::L20_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L20_*`)
+and no `cards` count. Replace the placeholder with the real tag once the lecture is built.
+
 **Omit this key entirely if you do not have a real tag.** A guessed tag produces
 a Browse button that confidently returns zero cards while the row still claims a
 card count — a wrong answer that looks like a right one.
