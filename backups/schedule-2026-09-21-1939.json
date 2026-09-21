@@ -491,28 +491,6 @@
       "date": "2026-09-21",
       "lectures": [
         {
-          "label": "EL – Diagnostic Testing for Infectious Diseases",
-          "code": "C1T3L17",
-          "instructor": "Anderson & Teng",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285",
-          "query": "tag:ManhattanProject::C1::T3::L17_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L17_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases"
-          ]
-        },
-        {
-          "label": "Concepts of Vaccination and Immunotherapies",
-          "code": "C1T3L18",
-          "instructor": "Seyfang",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
-          "query": "tag:ManhattanProject::C1::T3::L18_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L18_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies"
-          ]
-        },
-        {
           "label": "Postlab EL – Gluteal Region & Posterior Thigh",
           "code": "C1T3L15",
           "instructor": "Bharadwaj",
@@ -535,23 +513,20 @@
           ]
         },
         {
-          "label": "C1T3L16 (Nathanki)",
-          "optional_unlock": true,
-          "cards": 67,
-          "note": "Thanks to Nathan for making these cards!",
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/w2dcply0psguj7phidud6o449t6tff2s"
-            }
-          ],
-          "tags": [
-            "Nathanki::Anterior_Lateral_Leg"
-          ]
+          "label": "EL – Diagnostic Testing for Infectious Diseases",
+          "instructor": "Anderson & Teng",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285"
         },
         {
-          "label": "Lab – Anterior Thigh & Leg",
-          "instructor": "Bharadwaj"
+          "label": "Concepts of Vaccination and Immunotherapies",
+          "code": "C1T3L17",
+          "instructor": "Seyfang",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
+          "query": "tag:ManhattanProject::C1::T3::L17_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L17_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L17_Concepts_of_Vaccination_and_Immunotherapies",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L17_Concepts_of_Vaccination_and_Immunotherapies"
+          ]
         }
       ]
     },
@@ -573,7 +548,6 @@
           "label": "Radiology Lower Limb",
           "code": "C1T3L20",
           "instructor": "Meyer",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078439",
           "query": "tag:ManhattanProject::C1::T3::L20_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L20_*",
           "tags": [
             "ManhattanProject::C1::T3::L20_Radiology_Lower_Limb",
@@ -584,7 +558,6 @@
           "label": "Joints of Lower Limb",
           "code": "C1T3L21",
           "instructor": "Riveros",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48097627",
           "query": "tag:ManhattanProject::C1::T3::L21_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L21_*",
           "tags": [
             "ManhattanProject::C1::T3::L21_Joints_of_Lower_Limb",
@@ -627,11 +600,6 @@
             "ManhattanProject::C1::T3::L24_Diseases_of_the_Musculoskeletal_System",
             "AnkiHub_Optional::Manhattanki::C1::T3::L24_Diseases_of_the_Musculoskeletal_System"
           ]
-        },
-        {
-          "label": "Lab – Posterior Leg & Foot",
-          "instructor": "Bharadwaj",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47964115"
         }
       ]
     },
@@ -642,7 +610,6 @@
           "label": "EL – Trauma",
           "code": "C1T3L25",
           "instructor": "Remaley & Prakash",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078417",
           "query": "tag:ManhattanProject::C1::T3::L25_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L25_*",
           "tags": [
             "ManhattanProject::C1::T3::L25_Trauma",
