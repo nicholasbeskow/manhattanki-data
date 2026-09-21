@@ -491,6 +491,28 @@
       "date": "2026-09-21",
       "lectures": [
         {
+          "label": "EL – Diagnostic Testing for Infectious Diseases",
+          "code": "C1T3L17",
+          "instructor": "Anderson & Teng",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285",
+          "query": "tag:ManhattanProject::C1::T3::L17_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L17_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases"
+          ]
+        },
+        {
+          "label": "Concepts of Vaccination and Immunotherapies",
+          "code": "C1T3L18",
+          "instructor": "Seyfang",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
+          "query": "tag:ManhattanProject::C1::T3::L18_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L18_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies"
+          ]
+        },
+        {
           "label": "Postlab EL – Gluteal Region & Posterior Thigh",
           "code": "C1T3L15",
           "instructor": "Bharadwaj",
@@ -525,28 +547,6 @@
           ],
           "tags": [
             "Nathanki::Anterior_Lateral_Leg"
-          ]
-        },
-        {
-          "label": "EL – Diagnostic Testing for Infectious Diseases",
-          "code": "C1T3L17",
-          "instructor": "Anderson & Teng",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285",
-          "query": "tag:ManhattanProject::C1::T3::L17_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L17_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases"
-          ]
-        },
-        {
-          "label": "Concepts of Vaccination and Immunotherapies",
-          "code": "C1T3L18",
-          "instructor": "Seyfang",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
-          "query": "tag:ManhattanProject::C1::T3::L18_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L18_*",
-          "tags": [
-            "ManhattanProject::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies",
-            "AnkiHub_Optional::Manhattanki::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies"
           ]
         },
         {
