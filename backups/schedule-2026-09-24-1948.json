@@ -495,44 +495,44 @@
           "code": "C1T3L15",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47965449",
-          "cards": 43,
           "tags": [
             "ManhattanProject::C1::T3::L15_Gluteal_Region_and_Posterior_Thigh",
             "AnkiHub_Optional::Manhattanki::C1::T3::L15_Gluteal_Region_and_Posterior_Thigh"
-          ]
+          ],
+          "cards": 43
         },
         {
           "label": "Prelab – Anterior Thigh & Leg",
           "code": "C1T3L16",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966469",
-          "cards": 92,
           "tags": [
             "ManhattanProject::C1::T3::L16_Prelab_Anterior_Thigh_and_Leg",
             "AnkiHub_Optional::Manhattanki::C1::T3::L16_Prelab_Anterior_Thigh_and_Leg"
-          ]
+          ],
+          "cards": 92
         },
         {
           "label": "EL – Diagnostic Testing for Infectious Diseases",
           "code": "C1T3L17",
           "instructor": "Anderson & Teng",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285",
-          "cards": 41,
           "tags": [
             "ManhattanProject::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases",
             "AnkiHub_Optional::Manhattanki::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases"
-          ]
+          ],
+          "cards": 41
         },
         {
           "label": "Concepts of Vaccination and Immunotherapies",
           "code": "C1T3L18",
           "instructor": "Seyfang",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
-          "cards": 57,
           "tags": [
             "ManhattanProject::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies",
             "AnkiHub_Optional::Manhattanki::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies"
-          ]
+          ],
+          "cards": 57
         },
         {
           "label": "Lab – Anterior Thigh & Leg",
@@ -563,22 +563,22 @@
           "code": "C1T3L19",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966845",
-          "cards": 102,
           "tags": [
             "ManhattanProject::C1::T3::L19_Posterior_Leg_and_Foot",
             "AnkiHub_Optional::Manhattanki::C1::T3::L19_Posterior_Leg_and_Foot"
-          ]
+          ],
+          "cards": 102
         },
         {
           "label": "Radiology Lower Limb",
           "code": "C1T3L20",
           "instructor": "Meyer",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078439",
-          "cards": 69,
           "tags": [
             "ManhattanProject::C1::T3::L20_Radiology_Lower_Limb",
             "AnkiHub_Optional::Manhattanki::C1::T3::L20_Radiology_Lower_Limb"
-          ]
+          ],
+          "cards": 69
         },
         {
           "label": "Joints of Lower Limb",
@@ -658,15 +658,6 @@
           "tags": [
             "ManhattanProject::C1::T3::L26_Osteoarthritis",
             "AnkiHub_Optional::Manhattanki::C1::T3::L26_Osteoarthritis"
-          ]
-        },
-        {
-          "label": "Vaccine Spam",
-          "optional_unlock": true,
-          "cards": 44,
-          "query": "tag:ManhattanProject::C1::T3::Vaccine_Spam",
-          "tags": [
-            "ManhattanProject::C1::T3::Vaccine_Spam"
           ]
         }
       ]
