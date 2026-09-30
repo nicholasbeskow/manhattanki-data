@@ -257,7 +257,7 @@
           "code": "C1T3L01",
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405",
-          "cards": 53,
+          "cards": 51,
           "links": [
             {
               "label": "Download here first",
@@ -274,7 +274,7 @@
           "code": "C1T3L02",
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409",
-          "cards": 119,
+          "cards": 82,
           "links": [
             {
               "label": "Download here first",
@@ -291,7 +291,7 @@
           "code": "C1T3L03",
           "instructor": "Pross",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511",
-          "cards": 86,
+          "cards": 62,
           "links": [
             {
               "label": "Download here first",
@@ -324,7 +324,7 @@
           "code": "C1T3L05",
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407",
-          "cards": 62,
+          "cards": 53,
           "links": [
             {
               "label": "Download here first",
@@ -341,7 +341,7 @@
           "code": "C1T3L06",
           "instructor": "Pross",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043547",
-          "cards": 99,
+          "cards": 86,
           "links": [
             {
               "label": "Download here first",
@@ -358,7 +358,7 @@
           "code": "C1T3L07",
           "instructor": "Mohapatra",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397",
-          "cards": 82,
+          "cards": 64,
           "links": [
             {
               "label": "Download here first",
@@ -375,7 +375,7 @@
           "code": "C1T3L08",
           "instructor": "Wiranowska",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48051943",
-          "cards": 51,
+          "cards": 45,
           "links": [
             {
               "label": "Download here first",
@@ -401,7 +401,7 @@
           "label": "MHC & Antigen Presentation",
           "code": "C1T3L09",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001",
-          "cards": 70,
+          "cards": 48,
           "links": [
             {
               "label": "Download here first",
@@ -418,7 +418,7 @@
           "code": "C1T3L10",
           "instructor": "Pross",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059975",
-          "cards": 112,
+          "cards": 59,
           "links": [
             {
               "label": "Download here first",
@@ -440,7 +440,7 @@
           "code": "C1T3L11",
           "instructor": "Teng",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083121",
-          "cards": 74,
+          "cards": 64,
           "links": [
             {
               "label": "Download here first",
@@ -457,7 +457,7 @@
           "code": "C1T3L12",
           "instructor": "Teng",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48090425",
-          "cards": 57,
+          "cards": 50,
           "tags": [
             "ManhattanProject::C1::T3::L12_High-Impact_Viral_Infections",
             "AnkiHub_Optional::Manhattanki::C1::T3::L12_High-Impact_Viral_Infections"
@@ -468,7 +468,7 @@
           "code": "C1T3L13",
           "instructor": "Bahner",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069387",
-          "cards": 61,
+          "cards": 47,
           "tags": [
             "ManhattanProject::C1::T3::L13_Effector_Function_of_Humoral_and_Cellular_Immune_Responses",
             "AnkiHub_Optional::Manhattanki::C1::T3::L13_Effector_Function_of_Humoral_and_Cellular_Immune_Responses"
@@ -479,7 +479,7 @@
           "code": "C1T3L14",
           "instructor": "Bahner",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069679",
-          "cards": 37,
+          "cards": 29,
           "tags": [
             "ManhattanProject::C1::T3::L14_Immunological_Memory",
             "AnkiHub_Optional::Manhattanki::C1::T3::L14_Immunological_Memory"
@@ -495,7 +495,7 @@
           "code": "C1T3L15",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47965449",
-          "cards": 92,
+          "cards": 43,
           "tags": [
             "ManhattanProject::C1::T3::L15_Gluteal_Region_and_Posterior_Thigh",
             "AnkiHub_Optional::Manhattanki::C1::T3::L15_Gluteal_Region_and_Posterior_Thigh"
@@ -506,7 +506,7 @@
           "code": "C1T3L16",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966469",
-          "cards": 121,
+          "cards": 92,
           "tags": [
             "ManhattanProject::C1::T3::L16_Prelab_Anterior_Thigh_and_Leg",
             "AnkiHub_Optional::Manhattanki::C1::T3::L16_Prelab_Anterior_Thigh_and_Leg"
@@ -517,7 +517,7 @@
           "code": "C1T3L17",
           "instructor": "Anderson & Teng",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285",
-          "cards": 42,
+          "cards": 41,
           "tags": [
             "ManhattanProject::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases",
             "AnkiHub_Optional::Manhattanki::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases"
@@ -528,7 +528,7 @@
           "code": "C1T3L18",
           "instructor": "Seyfang",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
-          "cards": 80,
+          "cards": 57,
           "tags": [
             "ManhattanProject::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies",
             "AnkiHub_Optional::Manhattanki::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies"
@@ -563,7 +563,7 @@
           "code": "C1T3L19",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966845",
-          "cards": 116,
+          "cards": 102,
           "tags": [
             "ManhattanProject::C1::T3::L19_Posterior_Leg_and_Foot",
             "AnkiHub_Optional::Manhattanki::C1::T3::L19_Posterior_Leg_and_Foot"
@@ -574,7 +574,7 @@
           "code": "C1T3L20",
           "instructor": "Meyer",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078439",
-          "cards": 93,
+          "cards": 69,
           "tags": [
             "ManhattanProject::C1::T3::L20_Radiology_Lower_Limb",
             "AnkiHub_Optional::Manhattanki::C1::T3::L20_Radiology_Lower_Limb"
@@ -585,7 +585,6 @@
           "code": "C1T3L21",
           "instructor": "Riveros",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48097627",
-          "cards": 134,
           "query": "tag:ManhattanProject::C1::T3::L21_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L21_*",
           "tags": [
             "ManhattanProject::C1::T3::L21_Joints_of_Lower_Limb",
@@ -601,7 +600,6 @@
           "label": "EL – Ligaments & Tear",
           "code": "C1T3L22",
           "instructor": "Remaley & Wiranowska & Prakash",
-          "cards": 59,
           "query": "tag:ManhattanProject::C1::T3::L22_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L22_*",
           "tags": [
             "ManhattanProject::C1::T3::L22_Ligaments_and_Tear",
@@ -613,7 +611,6 @@
           "code": "C1T3L23",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966487",
-          "cards": 70,
           "query": "tag:ManhattanProject::C1::T3::L23_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L23_*",
           "tags": [
             "ManhattanProject::C1::T3::L23_Postlab_EL_Anterior_Thigh_and_Leg",
@@ -625,7 +622,6 @@
           "code": "C1T3L24",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48004575",
-          "cards": 78,
           "query": "tag:ManhattanProject::C1::T3::L24_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L24_*",
           "tags": [
             "ManhattanProject::C1::T3::L24_Diseases_of_the_Musculoskeletal_System",
@@ -647,7 +643,6 @@
           "code": "C1T3L25",
           "instructor": "Remaley & Prakash",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078417",
-          "cards": 38,
           "query": "tag:ManhattanProject::C1::T3::L25_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L25_*",
           "tags": [
             "ManhattanProject::C1::T3::L25_Trauma",
@@ -659,7 +654,6 @@
           "code": "C1T3L26",
           "instructor": "Alsaleh",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48084593",
-          "cards": 48,
           "query": "tag:ManhattanProject::C1::T3::L26_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L26_*",
           "tags": [
             "ManhattanProject::C1::T3::L26_Osteoarthritis",
@@ -668,8 +662,8 @@
         },
         {
           "label": "Vaccine Spam",
-          "cards": 54,
           "optional_unlock": true,
+          "cards": 44,
           "query": "tag:ManhattanProject::C1::T3::Vaccine_Spam",
           "tags": [
             "ManhattanProject::C1::T3::Vaccine_Spam"
@@ -685,7 +679,6 @@
           "code": "C1T3L27",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47967003",
-          "cards": 62,
           "query": "tag:ManhattanProject::C1::T3::L27_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L27_*",
           "tags": [
             "ManhattanProject::C1::T3::L27_Postlab_EL_Posterior_Leg_and_Foot",
@@ -697,7 +690,6 @@
           "code": "C1T3L28",
           "instructor": "Kothari",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075531",
-          "cards": 60,
           "query": "tag:ManhattanProject::C1::T3::L28_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L28_*",
           "tags": [
             "ManhattanProject::C1::T3::L28_Nerve_Injury_of_Lower_Limb",
@@ -709,7 +701,6 @@
           "code": "C1T3L29",
           "instructor": "Seyfang & Chen",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075333",
-          "cards": 41,
           "query": "tag:ManhattanProject::C1::T3::L29_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L29_*",
           "tags": [
             "ManhattanProject::C1::T3::L29_Muscular_Dystrophy",
