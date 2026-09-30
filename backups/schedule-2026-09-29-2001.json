@@ -712,19 +712,6 @@
           "instructor": "Bahner & Pross"
         }
       ]
-    },
-    {
-      "date": "2026-09-29",
-      "lectures": [
-        {
-          "label": "Missed AnKing cards",
-          "optional_unlock": true,
-          "cards": 481,
-          "tags": [
-            "Manhattan_Skipped::C1T3"
-          ]
-        }
-      ]
     }
   ]
 }
