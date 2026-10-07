@@ -1146,15 +1146,6 @@
       "date": "2026-11-06",
       "lectures": [
         {
-          "label": "Hematopoiesis, Bone Marrow, & Thymus",
-          "code": "C2T2L07",
-          "query": "tag:ManhattanProject::C2::T2::L07_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L07_*",
-          "tags": [
-            "ManhattanProject::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus"
-          ]
-        },
-        {
           "label": "Postlab3: Nasal Cavity & Larynx",
           "code": "C2T2L08",
           "query": "tag:ManhattanProject::C2::T2::L08_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L08_*",
@@ -1523,15 +1514,6 @@
           "tags": [
             "ManhattanProject::C2::T3::L20_Disturbances_of_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T3::L20_Disturbances_of_Blood_Flow"
-          ]
-        },
-        {
-          "label": "VM Lab – Disturbances of Blood Flow",
-          "code": "C2T3L21",
-          "query": "tag:ManhattanProject::C2::T3::L21_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L21_*",
-          "tags": [
-            "ManhattanProject::C2::T3::L21_VM_Lab_Disturbances_of_Blood_Flow",
-            "AnkiHub_Optional::Manhattanki::C2::T3::L21_VM_Lab_Disturbances_of_Blood_Flow"
           ]
         }
       ]
