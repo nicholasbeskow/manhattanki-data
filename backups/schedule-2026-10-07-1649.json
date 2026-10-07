@@ -740,7 +740,12 @@
       "lectures": [
         {
           "label": "Introduction to Cardiopulm",
-          "code": "C2T1L00"
+          "code": "C2T1L00",
+          "query": "tag:ManhattanProject::C2::T1::L00_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L00_*",
+          "tags": [
+            "ManhattanProject::C2::T1::L00_Introduction_to_Cardiopulm",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L00_Introduction_to_Cardiopulm"
+          ]
         },
         {
           "label": "Overview of Circulatory System",
