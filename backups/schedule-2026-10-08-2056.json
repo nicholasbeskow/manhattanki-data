@@ -728,9 +728,9 @@
         {
           "label": "Missed AnKing cards",
           "optional_unlock": true,
-          "cards": 431,
+          "cards": 481,
           "tags": [
-            "AnkiHub_Optional::Manhattanki::C1::T3::Skipped"
+            "Manhattan_Skipped::C1T3"
           ]
         }
       ]
