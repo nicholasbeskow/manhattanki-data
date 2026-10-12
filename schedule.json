@@ -740,11 +740,13 @@
       "lectures": [
         {
           "label": "Introduction to Cardiopulm",
-          "code": "C2T1L01"
+          "code": "C2T1L01",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48332945"
         },
         {
           "label": "Overview of Circulatory System",
           "code": "C2T1L02",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48307405",
           "cards": 116,
           "query": "tag:ManhattanProject::C2::T1::L02_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L02_*",
           "tags": [
@@ -755,6 +757,7 @@
         {
           "label": "Hemodynamics",
           "code": "C2T1L03",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48310777",
           "query": "tag:ManhattanProject::C2::T1::L03_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L03_*",
           "tags": [
             "ManhattanProject::C2::T1::L03_Hemodynamics",
@@ -764,6 +767,7 @@
         {
           "label": "Prelab1: Thoracic Wall",
           "code": "C2T1L04",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48324693",
           "query": "tag:ManhattanProject::C2::T1::L04_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L04_*",
           "tags": [
             "ManhattanProject::C2::T1::L04_Prelab_Thoracic_Wall",
@@ -778,6 +782,7 @@
         {
           "label": "Plasma Proteins",
           "code": "C2T1L05",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333539",
           "query": "tag:ManhattanProject::C2::T1::L05_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L05_*",
           "tags": [
             "ManhattanProject::C2::T1::L05_Plasma_Proteins",
@@ -787,6 +792,7 @@
         {
           "label": "Hemoglobin: O2 & CO2 Carrying Properties",
           "code": "C2T1L06",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333605",
           "query": "tag:ManhattanProject::C2::T1::L06_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L06_*",
           "tags": [
             "ManhattanProject::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties",
@@ -796,6 +802,7 @@
         {
           "label": "Cellular Elements of Blood",
           "code": "C2T1L07",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48334505",
           "query": "tag:ManhattanProject::C2::T1::L07_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L07_*",
           "tags": [
             "ManhattanProject::C2::T1::L07_Cellular_Elements_of_Blood",
@@ -840,6 +847,9 @@
       "date": "2026-10-15",
       "lectures": [
         {
+          "label": "Fundamental Concepts of Study Design I (Diagnosis)"
+        },
+        {
           "label": "Eicosanoids",
           "code": "C2T1L11",
           "query": "tag:ManhattanProject::C2::T1::L11_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L11_*",
@@ -856,6 +866,7 @@
         {
           "label": "Coagulation & Platelet Disorders",
           "code": "C2T1L12",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48155535",
           "query": "tag:ManhattanProject::C2::T1::L12_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L12_*",
           "tags": [
             "ManhattanProject::C2::T1::L12_Coagulation_and_Platelet_Disorders",
@@ -879,6 +890,7 @@
         {
           "label": "Biochemical Properties of Arteries/Veins & Determinants of Blood Pressure",
           "code": "C2T1L14",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48320881",
           "query": "tag:ManhattanProject::C2::T1::L14_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L14_*",
           "tags": [
             "ManhattanProject::C2::T1::L14_Biochemical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure",
@@ -961,6 +973,14 @@
       ]
     },
     {
+      "date": "2026-10-22",
+      "lectures": [
+        {
+          "label": "Fundamental Concepts of Study Design II (Prognosis)"
+        }
+      ]
+    },
+    {
       "date": "2026-10-23",
       "lectures": [
         {
@@ -1005,7 +1025,7 @@
       "date": "2026-10-26",
       "lectures": [
         {
-          "label": "EL – Sickle Cell Disease",
+          "label": "EL: Sickle Cell Disease",
           "code": "C2T1L26",
           "query": "tag:ManhattanProject::C2::T1::L26_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L26_*",
           "tags": [
@@ -1037,7 +1057,7 @@
       "date": "2026-10-27",
       "lectures": [
         {
-          "label": "EL – Syncope & Orthostatic Hypotension",
+          "label": "EL: Syncope & Orthostatic Hypotension",
           "code": "C2T1L29",
           "query": "tag:ManhattanProject::C2::T1::L29_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L29_*",
           "tags": [
@@ -1046,7 +1066,7 @@
           ]
         },
         {
-          "label": "EL – Regulation of Cardiac Output",
+          "label": "EL: Regulation of Cardiac Output",
           "code": "C2T1L30",
           "query": "tag:ManhattanProject::C2::T1::L30_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L30_*",
           "tags": [
@@ -1060,7 +1080,7 @@
       "date": "2026-10-28",
       "lectures": [
         {
-          "label": "EL – Circulation Physiology",
+          "label": "EL: Circulation Physiology",
           "code": "C2T1L31",
           "query": "tag:ManhattanProject::C2::T1::L31_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L31_*",
           "tags": [
@@ -1069,13 +1089,21 @@
           ]
         },
         {
-          "label": "EL – Development of Cardiovascular System",
+          "label": "EL: Development of Cardiovascular System",
           "code": "C2T1L32",
           "query": "tag:ManhattanProject::C2::T1::L32_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L32_*",
           "tags": [
             "ManhattanProject::C2::T1::L32_Development_of_Cardiovascular_System",
             "AnkiHub_Optional::Manhattanki::C2::T1::L32_Development_of_Cardiovascular_System"
           ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "lectures": [
+        {
+          "label": "Fundamental Concepts of Study Design IIIa (Therapy)"
         }
       ]
     },
@@ -1144,6 +1172,14 @@
       ]
     },
     {
+      "date": "2026-11-05",
+      "lectures": [
+        {
+          "label": "Fundamental Concepts of Study Design IIIb (Therapy)"
+        }
+      ]
+    },
+    {
       "date": "2026-11-06",
       "lectures": [
         {
@@ -1195,6 +1231,14 @@
             "ManhattanProject::C2::T2::L11_Microanatomy_of_Respiratory_System",
             "AnkiHub_Optional::Manhattanki::C2::T2::L11_Microanatomy_of_Respiratory_System"
           ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "lectures": [
+        {
+          "label": "Principles of Research Synthesis"
         }
       ]
     },
@@ -1266,7 +1310,7 @@
           ]
         },
         {
-          "label": "EL – Development of Respiratory System",
+          "label": "EL: Development of Respiratory System",
           "code": "C2T2L18",
           "query": "tag:ManhattanProject::C2::T2::L18_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L18_*",
           "tags": [
@@ -1275,7 +1319,7 @@
           ]
         },
         {
-          "label": "EL – Respiratory Physiology",
+          "label": "EL: Respiratory Physiology",
           "code": "C2T2L19",
           "query": "tag:ManhattanProject::C2::T2::L19_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L19_*",
           "tags": [
@@ -1289,7 +1333,7 @@
       "date": "2026-11-18",
       "lectures": [
         {
-          "label": "EL – Cell Injury & Death",
+          "label": "EL: Cell Injury & Death",
           "code": "C2T2L20",
           "query": "tag:ManhattanProject::C2::T2::L20_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L20_*",
           "tags": [
@@ -1298,13 +1342,21 @@
           ]
         },
         {
-          "label": "VM Lab – Cell Injury & Death",
+          "label": "VM Lab -- Cell Injury & Death",
           "code": "C2T2L21",
           "query": "tag:ManhattanProject::C2::T2::L21_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L21_*",
           "tags": [
             "ManhattanProject::C2::T2::L21_VM_Lab_Cell_Injury_and_Death",
             "AnkiHub_Optional::Manhattanki::C2::T2::L21_VM_Lab_Cell_Injury_and_Death"
           ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "lectures": [
+        {
+          "label": "Basic Biostatistics I"
         }
       ]
     },
@@ -1353,7 +1405,7 @@
           ]
         },
         {
-          "label": "EL – Inflammation & Repair",
+          "label": "EL: Inflammation & Repair",
           "code": "C2T3L05",
           "query": "tag:ManhattanProject::C2::T3::L05_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L05_*",
           "tags": [
@@ -1369,6 +1421,9 @@
             "ManhattanProject::C2::T3::L06_Postlab5_Posterior_Mediastinum",
             "AnkiHub_Optional::Manhattanki::C2::T3::L06_Postlab5_Posterior_Mediastinum"
           ]
+        },
+        {
+          "label": "CardioPulm Lab"
         }
       ]
     },
@@ -1385,7 +1440,7 @@
           ]
         },
         {
-          "label": "EL – Heart Valve Dysfunction",
+          "label": "EL: Heart Valve Dysfunction",
           "code": "C2T3L08",
           "query": "tag:ManhattanProject::C2::T3::L08_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L08_*",
           "tags": [
@@ -1408,13 +1463,21 @@
           ]
         },
         {
-          "label": "VM Lab – Inflammation & Repair",
+          "label": "VM Lab -- Inflammation & Repair",
           "code": "C2T3L10",
           "query": "tag:ManhattanProject::C2::T3::L10_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L10_*",
           "tags": [
             "ManhattanProject::C2::T3::L10_VM_Lab_Inflammation_and_Repair",
             "AnkiHub_Optional::Manhattanki::C2::T3::L10_VM_Lab_Inflammation_and_Repair"
           ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "lectures": [
+        {
+          "label": "Basic Biostatistics II"
         }
       ]
     },
@@ -1509,7 +1572,7 @@
       "date": "2026-12-10",
       "lectures": [
         {
-          "label": "EL – Clinical Correlations",
+          "label": "EL: Clinical Correlations",
           "code": "C2T3L19",
           "query": "tag:ManhattanProject::C2::T3::L19_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L19_*",
           "tags": [
@@ -1518,7 +1581,7 @@
           ]
         },
         {
-          "label": "EL – Disturbances of Blood Flow",
+          "label": "EL: Disturbances of Blood Flow",
           "code": "C2T3L20",
           "query": "tag:ManhattanProject::C2::T3::L20_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L20_*",
           "tags": [
@@ -1527,7 +1590,7 @@
           ]
         },
         {
-          "label": "VM Lab – Disturbances of Blood Flow",
+          "label": "VM Lab -- Disturbances of Blood Flow",
           "code": "C2T3L21",
           "query": "tag:ManhattanProject::C2::T3::L21_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L21_*",
           "tags": [
@@ -1541,7 +1604,7 @@
       "date": "2026-12-11",
       "lectures": [
         {
-          "label": "EL – ARDS",
+          "label": "EL: ARDS",
           "code": "C2T3L22",
           "query": "tag:ManhattanProject::C2::T3::L22_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L22_*",
           "tags": [
