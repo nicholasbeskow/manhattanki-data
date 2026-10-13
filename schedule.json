@@ -769,7 +769,7 @@
           "label": "Prelab1: Thoracic Wall",
           "code": "C2T1L04",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48324693",
-          "cards": 153,
+          "cards": 155,
           "query": "tag:ManhattanProject::C2::T1::L04_Prelab_Thoracic_Wall_Updated2 OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L04_Prelab_Thoracic_Wall_Updated2 OR tag:AnkiHub_Optional::ManhattankiBL::C2::T1::L04_Prelab_Thoracic_Wall_Updated2",
           "tags": [
             "ManhattanProject::C2::T1::L04_Prelab_Thoracic_Wall_Updated2",
@@ -791,7 +791,7 @@
             "ManhattanProject::C2::T1::L05_Plasma_Proteins_Updated",
             "AnkiHub_Optional::Manhattanki::C2::T1::L05_Plasma_Proteins_Updated"
           ],
-          "cards": 55
+          "cards": 66
         },
         {
           "label": "Hemoglobin: O2 & CO2 Carrying Properties",
