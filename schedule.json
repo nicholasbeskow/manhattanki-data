@@ -747,7 +747,7 @@
           "label": "Overview of Circulatory System",
           "code": "C2T1L02",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48307405",
-          "cards": 116,
+          "cards": 59,
           "query": "tag:ManhattanProject::C2::T1::L02_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L02_*",
           "tags": [
             "ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System",
@@ -758,7 +758,7 @@
           "label": "Hemodynamics",
           "code": "C2T1L03",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48310777",
-          "cards": 48,
+          "cards": 32,
           "query": "tag:ManhattanProject::C2::T1::L03_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L03_*",
           "tags": [
             "ManhattanProject::C2::T1::L03_Hemodynamics",
