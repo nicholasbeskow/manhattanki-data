@@ -748,10 +748,10 @@
           "code": "C2T1L02",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48307405",
           "cards": 59,
-          "query": "tag:ManhattanProject::C2::T1::L02_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L02_*",
+          "query": "tag:ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L02_Overview_of_the_Circulatory_System_Updated",
           "tags": [
-            "ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System",
-            "AnkiHub_Optional::Manhattanki::C2::T1::L02_Overview_of_the_Circulatory_System"
+            "ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System_Updated",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L02_Overview_of_the_Circulatory_System_Updated"
           ]
         },
         {
@@ -759,10 +759,10 @@
           "code": "C2T1L03",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48310777",
           "cards": 32,
-          "query": "tag:ManhattanProject::C2::T1::L03_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L03_*",
+          "query": "tag:ManhattanProject::C2::T1::L03_Hemodynamics_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L03_Hemodynamics_Updated",
           "tags": [
-            "ManhattanProject::C2::T1::L03_Hemodynamics",
-            "AnkiHub_Optional::Manhattanki::C2::T1::L03_Hemodynamics"
+            "ManhattanProject::C2::T1::L03_Hemodynamics_Updated",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L03_Hemodynamics_Updated"
           ]
         },
         {
@@ -786,11 +786,12 @@
           "label": "Plasma Proteins",
           "code": "C2T1L05",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333539",
-          "query": "tag:ManhattanProject::C2::T1::L05_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L05_*",
+          "query": "tag:ManhattanProject::C2::T1::L05_Plasma_Proteins_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L05_Plasma_Proteins_Updated",
           "tags": [
-            "ManhattanProject::C2::T1::L05_Plasma_Proteins",
-            "AnkiHub_Optional::Manhattanki::C2::T1::L05_Plasma_Proteins"
-          ]
+            "ManhattanProject::C2::T1::L05_Plasma_Proteins_Updated",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L05_Plasma_Proteins_Updated"
+          ],
+          "cards": 55
         },
         {
           "label": "Hemoglobin: O2 & CO2 Carrying Properties",
