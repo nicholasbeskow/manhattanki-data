@@ -843,11 +843,12 @@
         {
           "label": "Postlab1: Thoracic Wall",
           "code": "C2T1L10",
-          "query": "tag:ManhattanProject::C2::T1::L10_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L10_*",
+          "query": "tag:ManhattanProject::C2::T1::L10_Postlab_Thoracic_Wall OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L10_Postlab_Thoracic_Wall",
           "tags": [
-            "ManhattanProject::C2::T1::L10_Postlab1_Thoracic_Wall",
-            "AnkiHub_Optional::Manhattanki::C2::T1::L10_Postlab1_Thoracic_Wall"
-          ]
+            "ManhattanProject::C2::T1::L10_Postlab_Thoracic_Wall",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L10_Postlab_Thoracic_Wall"
+          ],
+          "cards": 50
         }
       ]
     },
