@@ -797,21 +797,23 @@
           "label": "Hemoglobin: O2 & CO2 Carrying Properties",
           "code": "C2T1L06",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333605",
-          "query": "tag:ManhattanProject::C2::T1::L06_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L06_*",
+          "query": "tag:ManhattanProject::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties",
           "tags": [
             "ManhattanProject::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties",
             "AnkiHub_Optional::Manhattanki::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties"
-          ]
+          ],
+          "cards": 89
         },
         {
           "label": "Cellular Elements of Blood",
           "code": "C2T1L07",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48334505",
-          "query": "tag:ManhattanProject::C2::T1::L07_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L07_*",
+          "query": "tag:ManhattanProject::C2::T1::L07_Cellular_Elements_of_Blood OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L07_Cellular_Elements_of_Blood",
           "tags": [
             "ManhattanProject::C2::T1::L07_Cellular_Elements_of_Blood",
             "AnkiHub_Optional::Manhattanki::C2::T1::L07_Cellular_Elements_of_Blood"
-          ]
+          ],
+          "cards": 125
         }
       ]
     },
@@ -821,11 +823,12 @@
         {
           "label": "Hemostasis & Thrombosis",
           "code": "C2T1L08",
-          "query": "tag:ManhattanProject::C2::T1::L08_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L08_*",
+          "query": "tag:ManhattanProject::C2::T1::L08_Hemostasis_and_Thrombosis OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L08_Hemostasis_and_Thrombosis",
           "tags": [
             "ManhattanProject::C2::T1::L08_Hemostasis_and_Thrombosis",
             "AnkiHub_Optional::Manhattanki::C2::T1::L08_Hemostasis_and_Thrombosis"
-          ]
+          ],
+          "cards": 148
         },
         {
           "label": "Autonomic Innervation of Thoracic Organs",
