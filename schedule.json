@@ -833,11 +833,12 @@
         {
           "label": "Autonomic Innervation of Thoracic Organs",
           "code": "C2T1L09",
-          "query": "tag:ManhattanProject::C2::T1::L09_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L09_*",
+          "query": "tag:ManhattanProject::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs",
           "tags": [
             "ManhattanProject::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs",
             "AnkiHub_Optional::Manhattanki::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs"
-          ]
+          ],
+          "cards": 73
         },
         {
           "label": "Postlab1: Thoracic Wall",
