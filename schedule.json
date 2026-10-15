@@ -856,7 +856,13 @@
       "date": "2026-10-15",
       "lectures": [
         {
-          "label": "Fundamental Concepts of Study Design I (Diagnosis)"
+          "label": "Fundamental Concepts of Study Design I (Diagnosis)",
+          "tags": [
+            "ManhattanProject::EBCR::L01_Study_Design_I_Diagnosis",
+            "AnkiHub_Optional::Manhattanki::EBCR::L01_Study_Design_I_Diagnosis"
+          ],
+          "query": "tag:ManhattanProject::EBCR::L01_Study_Design_I_Diagnosis OR tag:AnkiHub_Optional::Manhattanki::EBCR::L01_Study_Design_I_Diagnosis",
+          "cards": 45
         },
         {
           "label": "Eicosanoids",
