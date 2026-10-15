@@ -867,11 +867,12 @@
         {
           "label": "Eicosanoids",
           "code": "C2T1L11",
-          "query": "tag:ManhattanProject::C2::T1::L11_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L11_*",
+          "query": "tag:ManhattanProject::C2::T1::L11_Eicosanoids OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L11_Eicosanoids",
           "tags": [
             "ManhattanProject::C2::T1::L11_Eicosanoids",
             "AnkiHub_Optional::Manhattanki::C2::T1::L11_Eicosanoids"
-          ]
+          ],
+          "cards": 36
         }
       ]
     },
