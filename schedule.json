@@ -747,7 +747,7 @@
           "label": "Overview of Circulatory System",
           "code": "C2T1L02",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48307405",
-          "cards": 59,
+          "cards": 56,
           "query": "tag:ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L02_Overview_of_the_Circulatory_System_Updated",
           "tags": [
             "ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System_Updated",
@@ -802,7 +802,7 @@
             "ManhattanProject::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties",
             "AnkiHub_Optional::Manhattanki::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties"
           ],
-          "cards": 89
+          "cards": 88
         },
         {
           "label": "Cellular Elements of Blood",
@@ -848,7 +848,7 @@
             "ManhattanProject::C2::T1::L10_Postlab_Thoracic_Wall",
             "AnkiHub_Optional::Manhattanki::C2::T1::L10_Postlab_Thoracic_Wall"
           ],
-          "cards": 50
+          "cards": 52
         }
       ]
     },
