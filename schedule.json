@@ -862,7 +862,7 @@
             "AnkiHub_Optional::Manhattanki::EBCR::L01_Study_Design_I_Diagnosis"
           ],
           "query": "tag:ManhattanProject::EBCR::L01_Study_Design_I_Diagnosis OR tag:AnkiHub_Optional::Manhattanki::EBCR::L01_Study_Design_I_Diagnosis",
-          "cards": 45
+          "cards": 46
         },
         {
           "label": "Eicosanoids",
