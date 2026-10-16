@@ -883,11 +883,12 @@
           "label": "Coagulation & Platelet Disorders",
           "code": "C2T1L12",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48155535",
-          "query": "tag:ManhattanProject::C2::T1::L12_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L12_*",
+          "query": "tag:ManhattanProject::C2::T1::L12_Coagulation_and_Platelet_Disorders OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L12_Coagulation_and_Platelet_Disorders",
           "tags": [
             "ManhattanProject::C2::T1::L12_Coagulation_and_Platelet_Disorders",
             "AnkiHub_Optional::Manhattanki::C2::T1::L12_Coagulation_and_Platelet_Disorders"
-          ]
+          ],
+          "cards": 137
         },
         {
           "label": "Prelab2: Pericardium & Heart",
