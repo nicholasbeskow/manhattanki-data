@@ -893,11 +893,13 @@
         {
           "label": "Prelab2: Pericardium & Heart",
           "code": "C2T1L13",
-          "query": "tag:ManhattanProject::C2::T1::L13_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L13_*",
+          "query": "tag:ManhattanProject::C2::T1::L13_Prelab_Pericardium_and_Heart OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L13_Prelab_Pericardium_and_Heart OR tag:AnkiHub_Optional::ManhattankiBL::C2::T1::L13_Prelab_Pericardium_and_Heart",
           "tags": [
-            "ManhattanProject::C2::T1::L13_Prelab2_Pericardium_and_Heart",
-            "AnkiHub_Optional::Manhattanki::C2::T1::L13_Prelab2_Pericardium_and_Heart"
-          ]
+            "ManhattanProject::C2::T1::L13_Prelab_Pericardium_and_Heart",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L13_Prelab_Pericardium_and_Heart",
+            "AnkiHub_Optional::ManhattankiBL::C2::T1::L13_Prelab_Pericardium_and_Heart"
+          ],
+          "cards": 261
         }
       ]
     },
