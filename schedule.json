@@ -769,7 +769,7 @@
           "label": "Prelab1: Thoracic Wall",
           "code": "C2T1L04",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48324693",
-          "cards": 155,
+          "cards": 159,
           "query": "tag:ManhattanProject::C2::T1::L04_Prelab_Thoracic_Wall_Updated2 OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L04_Prelab_Thoracic_Wall_Updated2 OR tag:AnkiHub_Optional::ManhattankiBL::C2::T1::L04_Prelab_Thoracic_Wall_Updated2",
           "tags": [
             "ManhattanProject::C2::T1::L04_Prelab_Thoracic_Wall_Updated2",
@@ -910,11 +910,12 @@
           "label": "Biochemical Properties of Arteries/Veins & Determinants of Blood Pressure",
           "code": "C2T1L14",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48320881",
-          "query": "tag:ManhattanProject::C2::T1::L14_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L14_*",
+          "query": "tag:ManhattanProject::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure",
           "tags": [
-            "ManhattanProject::C2::T1::L14_Biochemical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure",
-            "AnkiHub_Optional::Manhattanki::C2::T1::L14_Biochemical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure"
-          ]
+            "ManhattanProject::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure"
+          ],
+          "cards": 52
         },
         {
           "label": "Microanatomy of CV System",
