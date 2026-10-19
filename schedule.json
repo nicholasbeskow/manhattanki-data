@@ -838,7 +838,7 @@
             "ManhattanProject::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs",
             "AnkiHub_Optional::Manhattanki::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs"
           ],
-          "cards": 73
+          "cards": 74
         },
         {
           "label": "Postlab1: Thoracic Wall",
@@ -848,7 +848,7 @@
             "ManhattanProject::C2::T1::L10_Postlab_Thoracic_Wall",
             "AnkiHub_Optional::Manhattanki::C2::T1::L10_Postlab_Thoracic_Wall"
           ],
-          "cards": 54
+          "cards": 55
         }
       ]
     },
@@ -888,7 +888,7 @@
             "ManhattanProject::C2::T1::L12_Coagulation_and_Platelet_Disorders",
             "AnkiHub_Optional::Manhattanki::C2::T1::L12_Coagulation_and_Platelet_Disorders"
           ],
-          "cards": 137
+          "cards": 138
         },
         {
           "label": "Prelab2: Pericardium & Heart",
@@ -920,11 +920,12 @@
         {
           "label": "Microanatomy of CV System",
           "code": "C2T1L15",
-          "query": "tag:ManhattanProject::C2::T1::L15_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L15_*",
+          "query": "tag:ManhattanProject::C2::T1::L15_Microanatomy_of_CV_System OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L15_Microanatomy_of_CV_System",
           "tags": [
             "ManhattanProject::C2::T1::L15_Microanatomy_of_CV_System",
             "AnkiHub_Optional::Manhattanki::C2::T1::L15_Microanatomy_of_CV_System"
-          ]
+          ],
+          "cards": 128
         }
       ]
     },
