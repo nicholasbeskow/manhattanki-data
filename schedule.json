@@ -955,11 +955,12 @@
         {
           "label": "Iron & Heme Metabolism",
           "code": "C2T1L18",
-          "query": "tag:ManhattanProject::C2::T1::L18_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L18_*",
+          "query": "tag:ManhattanProject::C2::T1::L18_Iron_and_Heme_Metabolism OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L18_Iron_and_Heme_Metabolism",
           "tags": [
             "ManhattanProject::C2::T1::L18_Iron_and_Heme_Metabolism",
             "AnkiHub_Optional::Manhattanki::C2::T1::L18_Iron_and_Heme_Metabolism"
-          ]
+          ],
+          "cards": 108
         }
       ]
     },
