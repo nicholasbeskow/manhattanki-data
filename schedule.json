@@ -935,11 +935,12 @@
         {
           "label": "Cardiac Imaging",
           "code": "C2T1L16",
-          "query": "tag:ManhattanProject::C2::T1::L16_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L16_*",
+          "query": "tag:ManhattanProject::C2::T1::L16_Cardiac_Imaging OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L16_Cardiac_Imaging",
           "tags": [
             "ManhattanProject::C2::T1::L16_Cardiac_Imaging",
             "AnkiHub_Optional::Manhattanki::C2::T1::L16_Cardiac_Imaging"
-          ]
+          ],
+          "cards": 58
         },
         {
           "label": "Autonomic Regulation of CV System",
