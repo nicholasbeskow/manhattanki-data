@@ -945,11 +945,12 @@
         {
           "label": "Autonomic Regulation of CV System",
           "code": "C2T1L17",
-          "query": "tag:ManhattanProject::C2::T1::L17_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L17_*",
+          "query": "tag:ManhattanProject::C2::T1::L17_Autonomic_Regulation_of_CV_System OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L17_Autonomic_Regulation_of_CV_System",
           "tags": [
             "ManhattanProject::C2::T1::L17_Autonomic_Regulation_of_CV_System",
             "AnkiHub_Optional::Manhattanki::C2::T1::L17_Autonomic_Regulation_of_CV_System"
-          ]
+          ],
+          "cards": 43
         },
         {
           "label": "Iron & Heme Metabolism",
