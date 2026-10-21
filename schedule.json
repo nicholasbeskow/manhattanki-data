@@ -970,11 +970,12 @@
         {
           "label": "Autoregulation & Neural Control of Blood Flow",
           "code": "C2T1L19",
-          "query": "tag:ManhattanProject::C2::T1::L19_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L19_*",
+          "query": "tag:ManhattanProject::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow",
           "tags": [
             "ManhattanProject::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow"
-          ]
+          ],
+          "cards": 40
         },
         {
           "label": "Regulation of Coronary Blood Flow",
