@@ -985,16 +985,17 @@
             "ManhattanProject::C2::T1::L20_Regulation_of_Coronary_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L20_Regulation_of_Coronary_Blood_Flow"
           ],
-          "cards": 35
+          "cards": 36
         },
         {
           "label": "Cardiac Electrophysiology",
           "code": "C2T1L21",
-          "query": "tag:ManhattanProject::C2::T1::L21_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L21_*",
+          "query": "tag:ManhattanProject::C2::T1::L21_Cardiac_Electrophysiology OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L21_Cardiac_Electrophysiology",
           "tags": [
             "ManhattanProject::C2::T1::L21_Cardiac_Electrophysiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L21_Cardiac_Electrophysiology"
-          ]
+          ],
+          "cards": 71
         }
       ]
     },
