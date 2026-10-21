@@ -848,7 +848,7 @@
             "ManhattanProject::C2::T1::L10_Postlab_Thoracic_Wall",
             "AnkiHub_Optional::Manhattanki::C2::T1::L10_Postlab_Thoracic_Wall"
           ],
-          "cards": 55
+          "cards": 53
         }
       ]
     },
@@ -975,16 +975,17 @@
             "ManhattanProject::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow"
           ],
-          "cards": 40
+          "cards": 45
         },
         {
           "label": "Regulation of Coronary Blood Flow",
           "code": "C2T1L20",
-          "query": "tag:ManhattanProject::C2::T1::L20_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L20_*",
+          "query": "tag:ManhattanProject::C2::T1::L20_Regulation_of_Coronary_Blood_Flow OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L20_Regulation_of_Coronary_Blood_Flow",
           "tags": [
             "ManhattanProject::C2::T1::L20_Regulation_of_Coronary_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L20_Regulation_of_Coronary_Blood_Flow"
-          ]
+          ],
+          "cards": 35
         },
         {
           "label": "Cardiac Electrophysiology",
