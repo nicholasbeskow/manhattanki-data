@@ -747,7 +747,7 @@
           "label": "Overview of Circulatory System",
           "code": "C2T1L02",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48307405",
-          "cards": 56,
+          "cards": 55,
           "query": "tag:ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L02_Overview_of_the_Circulatory_System_Updated",
           "tags": [
             "ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System_Updated",
@@ -758,7 +758,7 @@
           "label": "Hemodynamics",
           "code": "C2T1L03",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48310777",
-          "cards": 32,
+          "cards": 33,
           "query": "tag:ManhattanProject::C2::T1::L03_Hemodynamics_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L03_Hemodynamics_Updated",
           "tags": [
             "ManhattanProject::C2::T1::L03_Hemodynamics_Updated",
@@ -769,7 +769,7 @@
           "label": "Prelab1: Thoracic Wall",
           "code": "C2T1L04",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48324693",
-          "cards": 159,
+          "cards": 158,
           "query": "tag:ManhattanProject::C2::T1::L04_Prelab_Thoracic_Wall_Updated2 OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L04_Prelab_Thoracic_Wall_Updated2 OR tag:AnkiHub_Optional::ManhattankiBL::C2::T1::L04_Prelab_Thoracic_Wall_Updated2",
           "tags": [
             "ManhattanProject::C2::T1::L04_Prelab_Thoracic_Wall_Updated2",
@@ -813,7 +813,7 @@
             "ManhattanProject::C2::T1::L07_Cellular_Elements_of_Blood",
             "AnkiHub_Optional::Manhattanki::C2::T1::L07_Cellular_Elements_of_Blood"
           ],
-          "cards": 154
+          "cards": 150
         }
       ]
     },
@@ -838,7 +838,7 @@
             "ManhattanProject::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs",
             "AnkiHub_Optional::Manhattanki::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs"
           ],
-          "cards": 74
+          "cards": 75
         },
         {
           "label": "Postlab1: Thoracic Wall",
@@ -862,7 +862,7 @@
             "AnkiHub_Optional::Manhattanki::EBCR::L01_Study_Design_I_Diagnosis"
           ],
           "query": "tag:ManhattanProject::EBCR::L01_Study_Design_I_Diagnosis OR tag:AnkiHub_Optional::Manhattanki::EBCR::L01_Study_Design_I_Diagnosis",
-          "cards": 46
+          "cards": 47
         },
         {
           "label": "Eicosanoids",
@@ -899,7 +899,7 @@
             "AnkiHub_Optional::Manhattanki::C2::T1::L13_Prelab_Pericardium_and_Heart",
             "AnkiHub_Optional::ManhattankiBL::C2::T1::L13_Prelab_Pericardium_and_Heart"
           ],
-          "cards": 261
+          "cards": 258
         }
       ]
     },
@@ -915,7 +915,7 @@
             "ManhattanProject::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure",
             "AnkiHub_Optional::Manhattanki::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure"
           ],
-          "cards": 52
+          "cards": 51
         },
         {
           "label": "Microanatomy of CV System",
@@ -940,7 +940,7 @@
             "ManhattanProject::C2::T1::L16_Cardiac_Imaging",
             "AnkiHub_Optional::Manhattanki::C2::T1::L16_Cardiac_Imaging"
           ],
-          "cards": 58
+          "cards": 57
         },
         {
           "label": "Autonomic Regulation of CV System",
@@ -975,7 +975,7 @@
             "ManhattanProject::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow"
           ],
-          "cards": 45
+          "cards": 46
         },
         {
           "label": "Regulation of Coronary Blood Flow",
@@ -985,7 +985,7 @@
             "ManhattanProject::C2::T1::L20_Regulation_of_Coronary_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L20_Regulation_of_Coronary_Blood_Flow"
           ],
-          "cards": 36
+          "cards": 34
         },
         {
           "label": "Cardiac Electrophysiology",
@@ -995,7 +995,7 @@
             "ManhattanProject::C2::T1::L21_Cardiac_Electrophysiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L21_Cardiac_Electrophysiology"
           ],
-          "cards": 71
+          "cards": 72
         }
       ]
     },
