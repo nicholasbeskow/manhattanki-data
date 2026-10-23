@@ -1019,11 +1019,12 @@
         {
           "label": "Cardiac Muscle Physiology",
           "code": "C2T1L22",
-          "query": "tag:ManhattanProject::C2::T1::L22_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L22_*",
+          "query": "tag:ManhattanProject::C2::T1::L22_Cardiac_Muscle_Physiology OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L22_Cardiac_Muscle_Physiology",
           "tags": [
             "ManhattanProject::C2::T1::L22_Cardiac_Muscle_Physiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L22_Cardiac_Muscle_Physiology"
-          ]
+          ],
+          "cards": 40
         },
         {
           "label": "The Cardiac Cycle",
