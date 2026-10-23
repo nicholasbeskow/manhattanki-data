@@ -1024,16 +1024,17 @@
             "ManhattanProject::C2::T1::L22_Cardiac_Muscle_Physiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L22_Cardiac_Muscle_Physiology"
           ],
-          "cards": 40
+          "cards": 49
         },
         {
           "label": "The Cardiac Cycle",
           "code": "C2T1L23",
-          "query": "tag:ManhattanProject::C2::T1::L23_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L23_*",
+          "query": "tag:ManhattanProject::C2::T1::L23_The_Cardiac_Cycle OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L23_The_Cardiac_Cycle",
           "tags": [
             "ManhattanProject::C2::T1::L23_The_Cardiac_Cycle",
             "AnkiHub_Optional::Manhattanki::C2::T1::L23_The_Cardiac_Cycle"
-          ]
+          ],
+          "cards": 31
         },
         {
           "label": "Postlab2: Pericardium & Heart",
