@@ -1003,7 +1003,13 @@
       "date": "2026-10-22",
       "lectures": [
         {
-          "label": "Fundamental Concepts of Study Design II (Prognosis)"
+          "label": "Fundamental Concepts of Study Design II (Prognosis)",
+          "tags": [
+            "ManhattanProject::EBCR::L02_Study_Design_II_Prognosis",
+            "AnkiHub_Optional::Manhattanki::EBCR::L02_Study_Design_II_Prognosis"
+          ],
+          "query": "tag:ManhattanProject::EBCR::L02_Study_Design_II_Prognosis OR tag:AnkiHub_Optional::Manhattanki::EBCR::L02_Study_Design_II_Prognosis",
+          "cards": 22
         }
       ]
     },
