@@ -368,6 +368,23 @@
       "lecture_of": {
         "1792807513906": "C2T1L10"
       }
+    },
+    {
+      "id": "2026-10-24-c2t1-l10-cervrib-io-fix",
+      "published": "2026-10-24T20:11:29Z",
+      "title": "L10: cervical-rib IO card fixed",
+      "summary": "The slide 26 cervical-rib card now masks only the four label boxes; the ribs and leader lines stay visible on the question side.",
+      "lectures": [
+        "C2T1L10"
+      ],
+      "items": {
+        "edited": [
+          1792807513957
+        ]
+      },
+      "lecture_of": {
+        "1792807513957": "C2T1L10"
+      }
     }
   ]
 }
