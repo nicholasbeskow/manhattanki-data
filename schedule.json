@@ -758,7 +758,7 @@
           "label": "Hemodynamics",
           "code": "C2T1L03",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48310777",
-          "cards": 33,
+          "cards": 36,
           "query": "tag:ManhattanProject::C2::T1::L03_Hemodynamics_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L03_Hemodynamics_Updated",
           "tags": [
             "ManhattanProject::C2::T1::L03_Hemodynamics_Updated",
@@ -769,7 +769,7 @@
           "label": "Prelab1: Thoracic Wall",
           "code": "C2T1L04",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48324693",
-          "cards": 158,
+          "cards": 168,
           "query": "tag:ManhattanProject::C2::T1::L04_Prelab_Thoracic_Wall_Updated2 OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L04_Prelab_Thoracic_Wall_Updated2 OR tag:AnkiHub_Optional::ManhattankiBL::C2::T1::L04_Prelab_Thoracic_Wall_Updated2",
           "tags": [
             "ManhattanProject::C2::T1::L04_Prelab_Thoracic_Wall_Updated2",
@@ -791,7 +791,7 @@
             "ManhattanProject::C2::T1::L05_Plasma_Proteins_Updated",
             "AnkiHub_Optional::Manhattanki::C2::T1::L05_Plasma_Proteins_Updated"
           ],
-          "cards": 66
+          "cards": 71
         },
         {
           "label": "Hemoglobin: O2 & CO2 Carrying Properties",
@@ -802,7 +802,7 @@
             "ManhattanProject::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties",
             "AnkiHub_Optional::Manhattanki::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties"
           ],
-          "cards": 88
+          "cards": 90
         },
         {
           "label": "Cellular Elements of Blood",
@@ -813,7 +813,7 @@
             "ManhattanProject::C2::T1::L07_Cellular_Elements_of_Blood",
             "AnkiHub_Optional::Manhattanki::C2::T1::L07_Cellular_Elements_of_Blood"
           ],
-          "cards": 150
+          "cards": 151
         }
       ]
     },
@@ -828,7 +828,7 @@
             "ManhattanProject::C2::T1::L08_Hemostasis_and_Thrombosis",
             "AnkiHub_Optional::Manhattanki::C2::T1::L08_Hemostasis_and_Thrombosis"
           ],
-          "cards": 148
+          "cards": 152
         },
         {
           "label": "Autonomic Innervation of Thoracic Organs",
@@ -838,7 +838,7 @@
             "ManhattanProject::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs",
             "AnkiHub_Optional::Manhattanki::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs"
           ],
-          "cards": 75
+          "cards": 77
         },
         {
           "label": "Postlab1: Thoracic Wall",
@@ -848,7 +848,7 @@
             "ManhattanProject::C2::T1::L10_Postlab_Thoracic_Wall",
             "AnkiHub_Optional::Manhattanki::C2::T1::L10_Postlab_Thoracic_Wall"
           ],
-          "cards": 53
+          "cards": 56
         }
       ]
     },
@@ -872,7 +872,7 @@
             "ManhattanProject::C2::T1::L11_Eicosanoids",
             "AnkiHub_Optional::Manhattanki::C2::T1::L11_Eicosanoids"
           ],
-          "cards": 47
+          "cards": 49
         }
       ]
     },
@@ -888,7 +888,7 @@
             "ManhattanProject::C2::T1::L12_Coagulation_and_Platelet_Disorders",
             "AnkiHub_Optional::Manhattanki::C2::T1::L12_Coagulation_and_Platelet_Disorders"
           ],
-          "cards": 138
+          "cards": 142
         },
         {
           "label": "Prelab2: Pericardium & Heart",
@@ -899,7 +899,7 @@
             "AnkiHub_Optional::Manhattanki::C2::T1::L13_Prelab_Pericardium_and_Heart",
             "AnkiHub_Optional::ManhattankiBL::C2::T1::L13_Prelab_Pericardium_and_Heart"
           ],
-          "cards": 258
+          "cards": 280
         }
       ]
     },
@@ -915,7 +915,7 @@
             "ManhattanProject::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure",
             "AnkiHub_Optional::Manhattanki::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure"
           ],
-          "cards": 51
+          "cards": 55
         },
         {
           "label": "Microanatomy of CV System",
@@ -925,7 +925,7 @@
             "ManhattanProject::C2::T1::L15_Microanatomy_of_CV_System",
             "AnkiHub_Optional::Manhattanki::C2::T1::L15_Microanatomy_of_CV_System"
           ],
-          "cards": 128
+          "cards": 132
         }
       ]
     },
@@ -975,7 +975,7 @@
             "ManhattanProject::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow"
           ],
-          "cards": 46
+          "cards": 47
         },
         {
           "label": "Regulation of Coronary Blood Flow",
@@ -985,7 +985,7 @@
             "ManhattanProject::C2::T1::L20_Regulation_of_Coronary_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L20_Regulation_of_Coronary_Blood_Flow"
           ],
-          "cards": 34
+          "cards": 39
         },
         {
           "label": "Cardiac Electrophysiology",
@@ -995,7 +995,7 @@
             "ManhattanProject::C2::T1::L21_Cardiac_Electrophysiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L21_Cardiac_Electrophysiology"
           ],
-          "cards": 72
+          "cards": 75
         }
       ]
     },
@@ -1024,7 +1024,7 @@
             "ManhattanProject::C2::T1::L22_Cardiac_Muscle_Physiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L22_Cardiac_Muscle_Physiology"
           ],
-          "cards": 49
+          "cards": 51
         },
         {
           "label": "The Cardiac Cycle",
@@ -1034,7 +1034,7 @@
             "ManhattanProject::C2::T1::L23_The_Cardiac_Cycle",
             "AnkiHub_Optional::Manhattanki::C2::T1::L23_The_Cardiac_Cycle"
           ],
-          "cards": 32
+          "cards": 38
         },
         {
           "label": "Postlab2: Pericardium & Heart",
@@ -1044,7 +1044,7 @@
             "ManhattanProject::C2::T1::L24_Postlab_Pericardium_and_Heart",
             "AnkiHub_Optional::Manhattanki::C2::T1::L24_Postlab_Pericardium_and_Heart"
           ],
-          "cards": 42
+          "cards": 56
         },
         {
           "label": "Clinical ECG",
