@@ -940,7 +940,7 @@
             "ManhattanProject::C2::T1::L16_Cardiac_Imaging",
             "AnkiHub_Optional::Manhattanki::C2::T1::L16_Cardiac_Imaging"
           ],
-          "cards": 61
+          "cards": 62
         },
         {
           "label": "Autonomic Regulation of CV System",
@@ -960,7 +960,7 @@
             "ManhattanProject::C2::T1::L18_Iron_and_Heme_Metabolism",
             "AnkiHub_Optional::Manhattanki::C2::T1::L18_Iron_and_Heme_Metabolism"
           ],
-          "cards": 108
+          "cards": 109
         }
       ]
     },
@@ -995,7 +995,7 @@
             "ManhattanProject::C2::T1::L21_Cardiac_Electrophysiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L21_Cardiac_Electrophysiology"
           ],
-          "cards": 75
+          "cards": 76
         }
       ]
     },
@@ -1054,7 +1054,7 @@
             "ManhattanProject::C2::T1::L25_Clinical_ECG",
             "AnkiHub_Optional::Manhattanki::C2::T1::L25_Clinical_ECG"
           ],
-          "cards": 50
+          "cards": 60
         }
       ]
     },
