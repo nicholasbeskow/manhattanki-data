@@ -1049,11 +1049,12 @@
         {
           "label": "Clinical ECG",
           "code": "C2T1L25",
-          "query": "tag:ManhattanProject::C2::T1::L25_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L25_*",
+          "query": "tag:ManhattanProject::C2::T1::L25_Clinical_ECG OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L25_Clinical_ECG",
           "tags": [
             "ManhattanProject::C2::T1::L25_Clinical_ECG",
             "AnkiHub_Optional::Manhattanki::C2::T1::L25_Clinical_ECG"
-          ]
+          ],
+          "cards": 50
         }
       ]
     },
