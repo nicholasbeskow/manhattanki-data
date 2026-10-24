@@ -1034,16 +1034,17 @@
             "ManhattanProject::C2::T1::L23_The_Cardiac_Cycle",
             "AnkiHub_Optional::Manhattanki::C2::T1::L23_The_Cardiac_Cycle"
           ],
-          "cards": 31
+          "cards": 32
         },
         {
           "label": "Postlab2: Pericardium & Heart",
           "code": "C2T1L24",
-          "query": "tag:ManhattanProject::C2::T1::L24_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L24_*",
+          "query": "tag:ManhattanProject::C2::T1::L24_Postlab_Pericardium_and_Heart OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L24_Postlab_Pericardium_and_Heart",
           "tags": [
-            "ManhattanProject::C2::T1::L24_Postlab2_Pericardium_and_Heart",
-            "AnkiHub_Optional::Manhattanki::C2::T1::L24_Postlab2_Pericardium_and_Heart"
-          ]
+            "ManhattanProject::C2::T1::L24_Postlab_Pericardium_and_Heart",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L24_Postlab_Pericardium_and_Heart"
+          ],
+          "cards": 42
         },
         {
           "label": "Clinical ECG",
