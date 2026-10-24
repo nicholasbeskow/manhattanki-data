@@ -330,6 +330,27 @@
         "1792814149882": "C2T1L18",
         "1471224766592": "C2T1L16"
       }
+    },
+    {
+      "id": "2026-10-24-c2t1-l16-rv-mri",
+      "published": "2026-10-24T04:57:54Z",
+      "title": "L16: chambers on short-axis MRI",
+      "summary": "3 image-occlusion cards (RV, LV, septum) on the lecture short-axis MRI, tested by the 10/22 peer SGT deck.",
+      "lectures": [
+        "C2T1L16"
+      ],
+      "items": {
+        "new": [
+          1792817457828,
+          1792817457829,
+          1792817457830
+        ]
+      },
+      "lecture_of": {
+        "1792817457828": "C2T1L16",
+        "1792817457829": "C2T1L16",
+        "1792817457830": "C2T1L16"
+      }
     }
   ]
 }
