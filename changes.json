@@ -351,6 +351,23 @@
         "1792817457829": "C2T1L16",
         "1792817457830": "C2T1L16"
       }
+    },
+    {
+      "id": "2026-10-24-c2t1-l10-ribfx-io-fix",
+      "published": "2026-10-24T20:09:51Z",
+      "title": "L10: rib-fracture IO card fixed",
+      "summary": "The slide 21 'where is the lesion?' card no longer masks the fractured ribs; the film is now clean and the mask hides only the arrows + label.",
+      "lectures": [
+        "C2T1L10"
+      ],
+      "items": {
+        "edited": [
+          1792807513906
+        ]
+      },
+      "lecture_of": {
+        "1792807513906": "C2T1L10"
+      }
     }
   ]
 }
