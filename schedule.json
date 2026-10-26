@@ -747,7 +747,7 @@
           "label": "Overview of Circulatory System",
           "code": "C2T1L02",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48307405",
-          "cards": 55,
+          "cards": 56,
           "query": "tag:ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L02_Overview_of_the_Circulatory_System_Updated",
           "tags": [
             "ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System_Updated",
@@ -758,7 +758,7 @@
           "label": "Hemodynamics",
           "code": "C2T1L03",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48310777",
-          "cards": 36,
+          "cards": 42,
           "query": "tag:ManhattanProject::C2::T1::L03_Hemodynamics_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L03_Hemodynamics_Updated",
           "tags": [
             "ManhattanProject::C2::T1::L03_Hemodynamics_Updated",
@@ -791,7 +791,7 @@
             "ManhattanProject::C2::T1::L05_Plasma_Proteins_Updated",
             "AnkiHub_Optional::Manhattanki::C2::T1::L05_Plasma_Proteins_Updated"
           ],
-          "cards": 71
+          "cards": 72
         },
         {
           "label": "Hemoglobin: O2 & CO2 Carrying Properties",
@@ -802,7 +802,7 @@
             "ManhattanProject::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties",
             "AnkiHub_Optional::Manhattanki::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties"
           ],
-          "cards": 90
+          "cards": 99
         },
         {
           "label": "Cellular Elements of Blood",
@@ -813,7 +813,7 @@
             "ManhattanProject::C2::T1::L07_Cellular_Elements_of_Blood",
             "AnkiHub_Optional::Manhattanki::C2::T1::L07_Cellular_Elements_of_Blood"
           ],
-          "cards": 151
+          "cards": 159
         }
       ]
     },
@@ -828,7 +828,7 @@
             "ManhattanProject::C2::T1::L08_Hemostasis_and_Thrombosis",
             "AnkiHub_Optional::Manhattanki::C2::T1::L08_Hemostasis_and_Thrombosis"
           ],
-          "cards": 152
+          "cards": 158
         },
         {
           "label": "Autonomic Innervation of Thoracic Organs",
@@ -872,7 +872,7 @@
             "ManhattanProject::C2::T1::L11_Eicosanoids",
             "AnkiHub_Optional::Manhattanki::C2::T1::L11_Eicosanoids"
           ],
-          "cards": 49
+          "cards": 54
         }
       ]
     },
@@ -888,7 +888,7 @@
             "ManhattanProject::C2::T1::L12_Coagulation_and_Platelet_Disorders",
             "AnkiHub_Optional::Manhattanki::C2::T1::L12_Coagulation_and_Platelet_Disorders"
           ],
-          "cards": 142
+          "cards": 171
         },
         {
           "label": "Prelab2: Pericardium & Heart",
@@ -915,7 +915,7 @@
             "ManhattanProject::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure",
             "AnkiHub_Optional::Manhattanki::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure"
           ],
-          "cards": 55
+          "cards": 58
         },
         {
           "label": "Microanatomy of CV System",
@@ -940,7 +940,7 @@
             "ManhattanProject::C2::T1::L16_Cardiac_Imaging",
             "AnkiHub_Optional::Manhattanki::C2::T1::L16_Cardiac_Imaging"
           ],
-          "cards": 65
+          "cards": 67
         },
         {
           "label": "Autonomic Regulation of CV System",
@@ -950,7 +950,7 @@
             "ManhattanProject::C2::T1::L17_Autonomic_Regulation_of_CV_System",
             "AnkiHub_Optional::Manhattanki::C2::T1::L17_Autonomic_Regulation_of_CV_System"
           ],
-          "cards": 44
+          "cards": 46
         },
         {
           "label": "Iron & Heme Metabolism",
@@ -960,7 +960,7 @@
             "ManhattanProject::C2::T1::L18_Iron_and_Heme_Metabolism",
             "AnkiHub_Optional::Manhattanki::C2::T1::L18_Iron_and_Heme_Metabolism"
           ],
-          "cards": 109
+          "cards": 133
         }
       ]
     },
@@ -975,7 +975,7 @@
             "ManhattanProject::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow"
           ],
-          "cards": 47
+          "cards": 53
         },
         {
           "label": "Regulation of Coronary Blood Flow",
@@ -985,7 +985,7 @@
             "ManhattanProject::C2::T1::L20_Regulation_of_Coronary_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L20_Regulation_of_Coronary_Blood_Flow"
           ],
-          "cards": 39
+          "cards": 43
         },
         {
           "label": "Cardiac Electrophysiology",
@@ -995,7 +995,7 @@
             "ManhattanProject::C2::T1::L21_Cardiac_Electrophysiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L21_Cardiac_Electrophysiology"
           ],
-          "cards": 76
+          "cards": 84
         }
       ]
     },
@@ -1024,7 +1024,7 @@
             "ManhattanProject::C2::T1::L22_Cardiac_Muscle_Physiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L22_Cardiac_Muscle_Physiology"
           ],
-          "cards": 51
+          "cards": 54
         },
         {
           "label": "The Cardiac Cycle",

@@ -1,0 +1,1655 @@
+{
+  "unlocks": [
+    {
+      "date": "2026-08-25",
+      "lectures": [
+        {
+          "label": "Cytoskeleton & Cellular Substructures",
+          "code": "C1T2L01",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47501227"
+        },
+        {
+          "label": "Extracellular Matrix",
+          "code": "C1T2L02",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47501415"
+        },
+        {
+          "label": "Prelab: Axilla",
+          "code": "C1T2L03",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47620233"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "lectures": [
+        {
+          "label": "Connective & Epithelial Tissue",
+          "code": "C1T2L04",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47521305"
+        },
+        {
+          "label": "Anatomy Lab 3 — Axilla",
+          "instructor": "Bharadwaj"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "lectures": [
+        {
+          "label": "Early Embryology I",
+          "code": "C1T2L05",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47630629"
+        },
+        {
+          "label": "Early Embryology II",
+          "code": "C1T2L06",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47433245"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "lectures": [
+        {
+          "label": "Early Embryology III",
+          "code": "C1T2L07",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47433241"
+        },
+        {
+          "label": "Prelab: Forearm and Hand",
+          "code": "C1T2L08",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47503549"
+        },
+        {
+          "label": "Postlab EL: Axilla",
+          "code": "C1T2L09",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46776587"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "lectures": [
+        {
+          "label": "Diffusion, Osmosis, & Transport Proteins",
+          "code": "C1T2L10",
+          "instructor": "Dominguez Rieg",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47652335"
+        },
+        {
+          "label": "Bone & Cartilage",
+          "code": "C1T2L11",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47691323"
+        },
+        {
+          "label": "Lab – Anterior Forearm & Hand",
+          "instructor": "Bharadwaj"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "lectures": [
+        {
+          "label": "Concepts of Diagnosis & Pathology",
+          "code": "C1T2L12",
+          "instructor": "Kruk",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47700571"
+        },
+        {
+          "label": "EL – Breast & Ovarian Cancer, BRCA mutations",
+          "code": "C1T2L13",
+          "instructor": "Kruk",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47701765"
+        },
+        {
+          "label": "EL – Lung Cancer",
+          "code": "C1T2L14",
+          "instructor": "Davé",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704931"
+        },
+        {
+          "label": "Bone & Cartilage",
+          "code": "C1T2L15",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47691323"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "lectures": [
+        {
+          "label": "Skin",
+          "code": "C1T2L16",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704849"
+        },
+        {
+          "label": "Foundations in Cutaneous Pathology",
+          "code": "C1T2L17",
+          "instructor": "Albers",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704925"
+        },
+        {
+          "label": "EL – Melanoma",
+          "code": "C1T2L18",
+          "instructor": "Bharadwaj & Albers",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47689747"
+        },
+        {
+          "label": "Musculoskeletal System",
+          "code": "C1T2L19",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47630633"
+        },
+        {
+          "label": "Lab – Posterior Forearm & Hand",
+          "instructor": "Bharadwaj"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "lectures": [
+        {
+          "label": "Skeletal Muscle",
+          "code": "C1T2L20",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47755711"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "lectures": [
+        {
+          "label": "EL – Nerve Injuries of Upper Limb",
+          "code": "C1T2L21",
+          "instructor": "Kothari",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47601087"
+        },
+        {
+          "label": "Elbow & Wrist Joint",
+          "code": "C1T2L22",
+          "instructor": "Riveros",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47912889"
+        },
+        {
+          "label": "Membrane Potential & Ion Channels",
+          "code": "C1T2L23",
+          "instructor": "Noujaim",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078239"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "lectures": [
+        {
+          "label": "Electrical Signaling",
+          "code": "C1T2L24",
+          "instructor": "Noujaim",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078243"
+        },
+        {
+          "label": "Skeletal Muscle",
+          "code": "C1T2L25",
+          "instructor": "Scallan",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47958331"
+        },
+        {
+          "label": "Excitation-Contraction Coupling",
+          "code": "C1T2L26",
+          "instructor": "Scallan",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47958329"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "lectures": [
+        {
+          "label": "Postlab EL – Forearm & Hand",
+          "code": "C1T2L27",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47730497"
+        },
+        {
+          "label": "EL – Musculoskeletal System",
+          "code": "C1T2L28",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47689773"
+        },
+        {
+          "label": "Neuromuscular Junction",
+          "code": "C1T2L29",
+          "instructor": "Crofton",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48007113"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "lectures": [
+        {
+          "label": "TEST 2!!!"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "lectures": [
+        {
+          "label": "Introduction to Microbiology",
+          "code": "C1T3L01",
+          "instructor": "Anderson",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405",
+          "cards": 53,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L01/C1T3L01.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L01_Introduction_to_Microbiology",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L01_Introduction_to_Microbiology"
+          ]
+        },
+        {
+          "label": "Bacterial Pathogenesis",
+          "code": "C1T3L02",
+          "instructor": "Anderson",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409",
+          "cards": 121,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L02/C1T3L02.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L02_Bacterial_Pathogenesis",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L02_Bacterial_Pathogenesis"
+          ]
+        },
+        {
+          "label": "Bacterial Flora & Pathogenesis",
+          "code": "C1T3L03",
+          "instructor": "Pross",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511",
+          "cards": 86,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L03/C1T3L03.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L03_Bacterial_Flora_and_Pathogenesis",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L03_Bacterial_Flora_and_Pathogenesis"
+          ]
+        },
+        {
+          "label": "Prelab – Gluteal Region & Posterior Thigh",
+          "code": "C1T3L04",
+          "instructor": "PRERECORDED — Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47963649",
+          "query": "tag:ManhattanProject::C1::T3::L04_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L04_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L04_Prelab_Gluteal_Region_and_Posterior_Thigh",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L04_Prelab_Gluteal_Region_and_Posterior_Thigh"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "lectures": [
+        {
+          "label": "EL – High-Impact Bacterial Infections",
+          "code": "C1T3L05",
+          "instructor": "Anderson",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407",
+          "cards": 62,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L05/C1T3L05.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L05_High-Impact_Bacterial_Infections",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L05_High-Impact_Bacterial_Infections"
+          ]
+        },
+        {
+          "label": "Introduction to Immunology & Innate Immune System",
+          "code": "C1T3L06",
+          "instructor": "Pross",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043547",
+          "cards": 99,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L06/C1T3L06.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L06_Introduction_to_Immunology_and_Innate_Immune_System",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L06_Introduction_to_Immunology_and_Innate_Immune_System"
+          ]
+        },
+        {
+          "label": "Adaptive Immune System",
+          "code": "C1T3L07",
+          "instructor": "Mohapatra",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397",
+          "cards": 82,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L07/C1T3L07.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L07_Adaptive_Immunity",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L07_Adaptive_Immunity"
+          ]
+        },
+        {
+          "label": "Lymph Nodes & Lymphatic System",
+          "code": "C1T3L08",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48051943",
+          "cards": 51,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L08/C1T3L08.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L08_Lymph_Nodes_and_Lymphatic_System",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L08_Lymph_Nodes_and_Lymphatic_System"
+          ]
+        },
+        {
+          "label": "Lab – Gluteal Region & Posterior Thigh",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47963693"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "lectures": [
+        {
+          "label": "MHC & Antigen Presentation",
+          "code": "C1T3L09",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001",
+          "cards": 70,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L09/C1T3L09.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L09_MHC_and_Antigen_Presentation",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L09_MHC_and_Antigen_Presentation"
+          ]
+        },
+        {
+          "label": "Cytokines & Complement",
+          "code": "C1T3L10",
+          "instructor": "Pross",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059975",
+          "cards": 112,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L10/C1T3L10.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L10_Cytokines_and_Complement",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L10_Cytokines_and_Complement"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "lectures": [
+        {
+          "label": "Introduction to Virology",
+          "code": "C1T3L11",
+          "instructor": "Teng",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083121",
+          "cards": 74,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L11/C1T3L11.apkg"
+            }
+          ],
+          "tags": [
+            "ManhattanProject::C1::T3::L11_Introduction_to_Virology_and_Viral_Pathogenesis",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L11_Introduction_to_Virology_and_Viral_Pathogenesis"
+          ]
+        },
+        {
+          "label": "EL – High-Impact Viral Infections",
+          "code": "C1T3L12",
+          "instructor": "Teng",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48090425",
+          "cards": 57,
+          "tags": [
+            "ManhattanProject::C1::T3::L12_High-Impact_Viral_Infections",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L12_High-Impact_Viral_Infections"
+          ]
+        },
+        {
+          "label": "Effector Function of Humoral & Cellular Immune Responses",
+          "code": "C1T3L13",
+          "instructor": "Bahner",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069387",
+          "cards": 61,
+          "tags": [
+            "ManhattanProject::C1::T3::L13_Effector_Function_of_Humoral_and_Cellular_Immune_Responses",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L13_Effector_Function_of_Humoral_and_Cellular_Immune_Responses"
+          ]
+        },
+        {
+          "label": "Immunological Memory",
+          "code": "C1T3L14",
+          "instructor": "Bahner",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069679",
+          "cards": 37,
+          "tags": [
+            "ManhattanProject::C1::T3::L14_Immunological_Memory",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L14_Immunological_Memory"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "lectures": [
+        {
+          "label": "Postlab EL – Gluteal Region & Posterior Thigh",
+          "code": "C1T3L15",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47965449",
+          "cards": 92,
+          "tags": [
+            "ManhattanProject::C1::T3::L15_Gluteal_Region_and_Posterior_Thigh",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L15_Gluteal_Region_and_Posterior_Thigh"
+          ]
+        },
+        {
+          "label": "Prelab – Anterior Thigh & Leg",
+          "code": "C1T3L16",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966469",
+          "cards": 121,
+          "tags": [
+            "ManhattanProject::C1::T3::L16_Prelab_Anterior_Thigh_and_Leg",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L16_Prelab_Anterior_Thigh_and_Leg"
+          ]
+        },
+        {
+          "label": "EL – Diagnostic Testing for Infectious Diseases",
+          "code": "C1T3L17",
+          "instructor": "Anderson & Teng",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285",
+          "cards": 42,
+          "tags": [
+            "ManhattanProject::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L17_Diagnostic_Testing_for_Infectious_Diseases"
+          ]
+        },
+        {
+          "label": "Concepts of Vaccination and Immunotherapies",
+          "code": "C1T3L18",
+          "instructor": "Seyfang",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
+          "cards": 80,
+          "tags": [
+            "ManhattanProject::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L18_Concepts_of_Vaccination_and_Immunotherapies"
+          ]
+        },
+        {
+          "label": "Lab – Anterior Thigh & Leg",
+          "instructor": "Bharadwaj"
+        },
+        {
+          "label": "C1T3L16 (Nathanki)",
+          "optional_unlock": true,
+          "cards": 67,
+          "note": "Thanks to Nathan for making these cards!",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/w2dcply0psguj7phidud6o449t6tff2s"
+            }
+          ],
+          "tags": [
+            "Nathanki::Anterior_Lateral_Leg"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "lectures": [
+        {
+          "label": "Prelab – Posterior Leg & Foot",
+          "code": "C1T3L19",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966845",
+          "cards": 116,
+          "tags": [
+            "ManhattanProject::C1::T3::L19_Posterior_Leg_and_Foot",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L19_Posterior_Leg_and_Foot"
+          ]
+        },
+        {
+          "label": "Radiology Lower Limb",
+          "code": "C1T3L20",
+          "instructor": "Meyer",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078439",
+          "cards": 93,
+          "tags": [
+            "ManhattanProject::C1::T3::L20_Radiology_Lower_Limb",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L20_Radiology_Lower_Limb"
+          ]
+        },
+        {
+          "label": "Joints of Lower Limb",
+          "code": "C1T3L21",
+          "instructor": "Riveros",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48097627",
+          "cards": 134,
+          "query": "tag:ManhattanProject::C1::T3::L21_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L21_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L21_Joints_of_Lower_Limb",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L21_Joints_of_Lower_Limb"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "lectures": [
+        {
+          "label": "EL – Ligaments & Tear",
+          "code": "C1T3L22",
+          "instructor": "Remaley & Wiranowska & Prakash",
+          "cards": 59,
+          "query": "tag:ManhattanProject::C1::T3::L22_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L22_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L22_Ligaments_and_Tear",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L22_Ligaments_and_Tear"
+          ]
+        },
+        {
+          "label": "Postlab EL – Anterior Thigh & Leg",
+          "code": "C1T3L23",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966487",
+          "cards": 70,
+          "query": "tag:ManhattanProject::C1::T3::L23_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L23_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L23_Postlab_EL_Anterior_Thigh_and_Leg",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L23_Postlab_EL_Anterior_Thigh_and_Leg"
+          ]
+        },
+        {
+          "label": "Diseases of the Musculoskeletal System",
+          "code": "C1T3L24",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48004575",
+          "cards": 78,
+          "query": "tag:ManhattanProject::C1::T3::L24_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L24_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L24_Diseases_of_the_Musculoskeletal_System",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L24_Diseases_of_the_Musculoskeletal_System"
+          ]
+        },
+        {
+          "label": "Lab – Posterior Leg & Foot",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47964115"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "lectures": [
+        {
+          "label": "EL – Trauma",
+          "code": "C1T3L25",
+          "instructor": "Remaley & Prakash",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078417",
+          "cards": 38,
+          "query": "tag:ManhattanProject::C1::T3::L25_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L25_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L25_Trauma",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L25_Trauma"
+          ]
+        },
+        {
+          "label": "EL – Osteoarthritis",
+          "code": "C1T3L26",
+          "instructor": "Alsaleh",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48084593",
+          "cards": 48,
+          "query": "tag:ManhattanProject::C1::T3::L26_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L26_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L26_Osteoarthritis",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L26_Osteoarthritis"
+          ]
+        },
+        {
+          "label": "Vaccine Spam",
+          "optional_unlock": true,
+          "cards": 54,
+          "query": "tag:ManhattanProject::C1::T3::Vaccine_Spam",
+          "tags": [
+            "ManhattanProject::C1::T3::Vaccine_Spam"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "lectures": [
+        {
+          "label": "Postlab EL – Posterior Leg & Foot",
+          "code": "C1T3L27",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47967003",
+          "cards": 62,
+          "query": "tag:ManhattanProject::C1::T3::L27_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L27_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L27_Postlab_EL_Posterior_Leg_and_Foot",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L27_Postlab_EL_Posterior_Leg_and_Foot"
+          ]
+        },
+        {
+          "label": "EL – Nerve Injury of Lower Limb",
+          "code": "C1T3L28",
+          "instructor": "Kothari",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075531",
+          "cards": 60,
+          "query": "tag:ManhattanProject::C1::T3::L28_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L28_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L28_Nerve_Injury_of_Lower_Limb",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L28_Nerve_Injury_of_Lower_Limb"
+          ]
+        },
+        {
+          "label": "EL – Muscular Dystrophy",
+          "code": "C1T3L29",
+          "instructor": "Seyfang & Chen",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075333",
+          "cards": 41,
+          "query": "tag:ManhattanProject::C1::T3::L29_* OR tag:AnkiHub_Optional::Manhattanki::C1::T3::L29_*",
+          "tags": [
+            "ManhattanProject::C1::T3::L29_Muscular_Dystrophy",
+            "AnkiHub_Optional::Manhattanki::C1::T3::L29_Muscular_Dystrophy"
+          ]
+        },
+        {
+          "label": "EL – Immunology Reasoning & Review",
+          "instructor": "Bahner & Pross"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "lectures": [
+        {
+          "label": "Missed AnKing cards",
+          "optional_unlock": true,
+          "cards": 431,
+          "tags": [
+            "AnkiHub_Optional::Manhattanki::C1::T3::Skipped"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "lectures": [
+        {
+          "label": "Introduction to Cardiopulm",
+          "code": "C2T1L01",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48332945"
+        },
+        {
+          "label": "Overview of Circulatory System",
+          "code": "C2T1L02",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48307405",
+          "cards": 55,
+          "query": "tag:ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L02_Overview_of_the_Circulatory_System_Updated",
+          "tags": [
+            "ManhattanProject::C2::T1::L02_Overview_of_the_Circulatory_System_Updated",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L02_Overview_of_the_Circulatory_System_Updated"
+          ]
+        },
+        {
+          "label": "Hemodynamics",
+          "code": "C2T1L03",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48310777",
+          "cards": 36,
+          "query": "tag:ManhattanProject::C2::T1::L03_Hemodynamics_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L03_Hemodynamics_Updated",
+          "tags": [
+            "ManhattanProject::C2::T1::L03_Hemodynamics_Updated",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L03_Hemodynamics_Updated"
+          ]
+        },
+        {
+          "label": "Prelab1: Thoracic Wall",
+          "code": "C2T1L04",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48324693",
+          "cards": 168,
+          "query": "tag:ManhattanProject::C2::T1::L04_Prelab_Thoracic_Wall_Updated2 OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L04_Prelab_Thoracic_Wall_Updated2 OR tag:AnkiHub_Optional::ManhattankiBL::C2::T1::L04_Prelab_Thoracic_Wall_Updated2",
+          "tags": [
+            "ManhattanProject::C2::T1::L04_Prelab_Thoracic_Wall_Updated2",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L04_Prelab_Thoracic_Wall_Updated2",
+            "AnkiHub_Optional::ManhattankiBL::C2::T1::L04_Prelab_Thoracic_Wall_Updated2"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "lectures": [
+        {
+          "label": "Plasma Proteins",
+          "code": "C2T1L05",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333539",
+          "query": "tag:ManhattanProject::C2::T1::L05_Plasma_Proteins_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L05_Plasma_Proteins_Updated",
+          "tags": [
+            "ManhattanProject::C2::T1::L05_Plasma_Proteins_Updated",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L05_Plasma_Proteins_Updated"
+          ],
+          "cards": 71
+        },
+        {
+          "label": "Hemoglobin: O2 & CO2 Carrying Properties",
+          "code": "C2T1L06",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333605",
+          "query": "tag:ManhattanProject::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties",
+          "tags": [
+            "ManhattanProject::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties"
+          ],
+          "cards": 90
+        },
+        {
+          "label": "Cellular Elements of Blood",
+          "code": "C2T1L07",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48334505",
+          "query": "tag:ManhattanProject::C2::T1::L07_Cellular_Elements_of_Blood OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L07_Cellular_Elements_of_Blood",
+          "tags": [
+            "ManhattanProject::C2::T1::L07_Cellular_Elements_of_Blood",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L07_Cellular_Elements_of_Blood"
+          ],
+          "cards": 151
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "lectures": [
+        {
+          "label": "Hemostasis & Thrombosis",
+          "code": "C2T1L08",
+          "query": "tag:ManhattanProject::C2::T1::L08_Hemostasis_and_Thrombosis OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L08_Hemostasis_and_Thrombosis",
+          "tags": [
+            "ManhattanProject::C2::T1::L08_Hemostasis_and_Thrombosis",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L08_Hemostasis_and_Thrombosis"
+          ],
+          "cards": 152
+        },
+        {
+          "label": "Autonomic Innervation of Thoracic Organs",
+          "code": "C2T1L09",
+          "query": "tag:ManhattanProject::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs",
+          "tags": [
+            "ManhattanProject::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs"
+          ],
+          "cards": 77
+        },
+        {
+          "label": "Postlab1: Thoracic Wall",
+          "code": "C2T1L10",
+          "query": "tag:ManhattanProject::C2::T1::L10_Postlab_Thoracic_Wall OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L10_Postlab_Thoracic_Wall",
+          "tags": [
+            "ManhattanProject::C2::T1::L10_Postlab_Thoracic_Wall",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L10_Postlab_Thoracic_Wall"
+          ],
+          "cards": 56
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "lectures": [
+        {
+          "label": "Fundamental Concepts of Study Design I (Diagnosis)",
+          "tags": [
+            "ManhattanProject::EBCR::L01_Study_Design_I_Diagnosis",
+            "AnkiHub_Optional::Manhattanki::EBCR::L01_Study_Design_I_Diagnosis"
+          ],
+          "query": "tag:ManhattanProject::EBCR::L01_Study_Design_I_Diagnosis OR tag:AnkiHub_Optional::Manhattanki::EBCR::L01_Study_Design_I_Diagnosis",
+          "cards": 47
+        },
+        {
+          "label": "Eicosanoids",
+          "code": "C2T1L11",
+          "query": "tag:ManhattanProject::C2::T1::L11_Eicosanoids OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L11_Eicosanoids",
+          "tags": [
+            "ManhattanProject::C2::T1::L11_Eicosanoids",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L11_Eicosanoids"
+          ],
+          "cards": 49
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "lectures": [
+        {
+          "label": "Coagulation & Platelet Disorders",
+          "code": "C2T1L12",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48155535",
+          "query": "tag:ManhattanProject::C2::T1::L12_Coagulation_and_Platelet_Disorders OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L12_Coagulation_and_Platelet_Disorders",
+          "tags": [
+            "ManhattanProject::C2::T1::L12_Coagulation_and_Platelet_Disorders",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L12_Coagulation_and_Platelet_Disorders"
+          ],
+          "cards": 142
+        },
+        {
+          "label": "Prelab2: Pericardium & Heart",
+          "code": "C2T1L13",
+          "query": "tag:ManhattanProject::C2::T1::L13_Prelab_Pericardium_and_Heart OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L13_Prelab_Pericardium_and_Heart OR tag:AnkiHub_Optional::ManhattankiBL::C2::T1::L13_Prelab_Pericardium_and_Heart",
+          "tags": [
+            "ManhattanProject::C2::T1::L13_Prelab_Pericardium_and_Heart",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L13_Prelab_Pericardium_and_Heart",
+            "AnkiHub_Optional::ManhattankiBL::C2::T1::L13_Prelab_Pericardium_and_Heart"
+          ],
+          "cards": 280
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "lectures": [
+        {
+          "label": "Biomechanical Properties of Arteries/Veins & Determinants of Blood Pressure",
+          "code": "C2T1L14",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48320881",
+          "query": "tag:ManhattanProject::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure",
+          "tags": [
+            "ManhattanProject::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure"
+          ],
+          "cards": 55
+        },
+        {
+          "label": "Microanatomy of CV System",
+          "code": "C2T1L15",
+          "query": "tag:ManhattanProject::C2::T1::L15_Microanatomy_of_CV_System OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L15_Microanatomy_of_CV_System",
+          "tags": [
+            "ManhattanProject::C2::T1::L15_Microanatomy_of_CV_System",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L15_Microanatomy_of_CV_System"
+          ],
+          "cards": 132
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "lectures": [
+        {
+          "label": "Cardiac Imaging",
+          "code": "C2T1L16",
+          "query": "tag:ManhattanProject::C2::T1::L16_Cardiac_Imaging OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L16_Cardiac_Imaging",
+          "tags": [
+            "ManhattanProject::C2::T1::L16_Cardiac_Imaging",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L16_Cardiac_Imaging"
+          ],
+          "cards": 65
+        },
+        {
+          "label": "Autonomic Regulation of CV System",
+          "code": "C2T1L17",
+          "query": "tag:ManhattanProject::C2::T1::L17_Autonomic_Regulation_of_CV_System OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L17_Autonomic_Regulation_of_CV_System",
+          "tags": [
+            "ManhattanProject::C2::T1::L17_Autonomic_Regulation_of_CV_System",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L17_Autonomic_Regulation_of_CV_System"
+          ],
+          "cards": 44
+        },
+        {
+          "label": "Iron & Heme Metabolism",
+          "code": "C2T1L18",
+          "query": "tag:ManhattanProject::C2::T1::L18_Iron_and_Heme_Metabolism OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L18_Iron_and_Heme_Metabolism",
+          "tags": [
+            "ManhattanProject::C2::T1::L18_Iron_and_Heme_Metabolism",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L18_Iron_and_Heme_Metabolism"
+          ],
+          "cards": 109
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "lectures": [
+        {
+          "label": "Autoregulation & Neural Control of Blood Flow",
+          "code": "C2T1L19",
+          "query": "tag:ManhattanProject::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow",
+          "tags": [
+            "ManhattanProject::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow"
+          ],
+          "cards": 47
+        },
+        {
+          "label": "Regulation of Coronary Blood Flow",
+          "code": "C2T1L20",
+          "query": "tag:ManhattanProject::C2::T1::L20_Regulation_of_Coronary_Blood_Flow OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L20_Regulation_of_Coronary_Blood_Flow",
+          "tags": [
+            "ManhattanProject::C2::T1::L20_Regulation_of_Coronary_Blood_Flow",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L20_Regulation_of_Coronary_Blood_Flow"
+          ],
+          "cards": 39
+        },
+        {
+          "label": "Cardiac Electrophysiology",
+          "code": "C2T1L21",
+          "query": "tag:ManhattanProject::C2::T1::L21_Cardiac_Electrophysiology OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L21_Cardiac_Electrophysiology",
+          "tags": [
+            "ManhattanProject::C2::T1::L21_Cardiac_Electrophysiology",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L21_Cardiac_Electrophysiology"
+          ],
+          "cards": 76
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "lectures": [
+        {
+          "label": "Fundamental Concepts of Study Design II (Prognosis)",
+          "tags": [
+            "ManhattanProject::EBCR::L02_Study_Design_II_Prognosis",
+            "AnkiHub_Optional::Manhattanki::EBCR::L02_Study_Design_II_Prognosis"
+          ],
+          "query": "tag:ManhattanProject::EBCR::L02_Study_Design_II_Prognosis OR tag:AnkiHub_Optional::Manhattanki::EBCR::L02_Study_Design_II_Prognosis",
+          "cards": 22
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "lectures": [
+        {
+          "label": "Cardiac Muscle Physiology",
+          "code": "C2T1L22",
+          "query": "tag:ManhattanProject::C2::T1::L22_Cardiac_Muscle_Physiology OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L22_Cardiac_Muscle_Physiology",
+          "tags": [
+            "ManhattanProject::C2::T1::L22_Cardiac_Muscle_Physiology",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L22_Cardiac_Muscle_Physiology"
+          ],
+          "cards": 51
+        },
+        {
+          "label": "The Cardiac Cycle",
+          "code": "C2T1L23",
+          "query": "tag:ManhattanProject::C2::T1::L23_The_Cardiac_Cycle OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L23_The_Cardiac_Cycle",
+          "tags": [
+            "ManhattanProject::C2::T1::L23_The_Cardiac_Cycle",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L23_The_Cardiac_Cycle"
+          ],
+          "cards": 75
+        },
+        {
+          "label": "Postlab2: Pericardium & Heart",
+          "code": "C2T1L24",
+          "query": "tag:ManhattanProject::C2::T1::L24_Postlab_Pericardium_and_Heart OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L24_Postlab_Pericardium_and_Heart",
+          "tags": [
+            "ManhattanProject::C2::T1::L24_Postlab_Pericardium_and_Heart",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L24_Postlab_Pericardium_and_Heart"
+          ],
+          "cards": 56
+        },
+        {
+          "label": "Clinical ECG",
+          "code": "C2T1L25",
+          "query": "tag:ManhattanProject::C2::T1::L25_Clinical_ECG OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L25_Clinical_ECG",
+          "tags": [
+            "ManhattanProject::C2::T1::L25_Clinical_ECG",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L25_Clinical_ECG"
+          ],
+          "cards": 77
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "lectures": [
+        {
+          "label": "EL: Sickle Cell Disease",
+          "code": "C2T1L26",
+          "query": "tag:ManhattanProject::C2::T1::L26_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L26_*",
+          "tags": [
+            "ManhattanProject::C2::T1::L26_Sickle_Cell_Disease",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L26_Sickle_Cell_Disease"
+          ]
+        },
+        {
+          "label": "Baroreceptor & Chemoreceptor Regulation",
+          "code": "C2T1L27",
+          "query": "tag:ManhattanProject::C2::T1::L27_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L27_*",
+          "tags": [
+            "ManhattanProject::C2::T1::L27_Baroreceptor_and_Chemoreceptor_Regulation",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L27_Baroreceptor_and_Chemoreceptor_Regulation"
+          ]
+        },
+        {
+          "label": "Development of Cardiovascular System",
+          "code": "C2T1L28",
+          "query": "tag:ManhattanProject::C2::T1::L28_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L28_*",
+          "tags": [
+            "ManhattanProject::C2::T1::L28_Development_of_Cardiovascular_System",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L28_Development_of_Cardiovascular_System"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "lectures": [
+        {
+          "label": "EL: Syncope & Orthostatic Hypotension",
+          "code": "C2T1L29",
+          "query": "tag:ManhattanProject::C2::T1::L29_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L29_*",
+          "tags": [
+            "ManhattanProject::C2::T1::L29_Syncope_and_Orthostatic_Hypotension",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L29_Syncope_and_Orthostatic_Hypotension"
+          ]
+        },
+        {
+          "label": "EL: Regulation of Cardiac Output",
+          "code": "C2T1L30",
+          "query": "tag:ManhattanProject::C2::T1::L30_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L30_*",
+          "tags": [
+            "ManhattanProject::C2::T1::L30_Regulation_of_Cardiac_Output",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L30_Regulation_of_Cardiac_Output"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "lectures": [
+        {
+          "label": "EL: Circulation Physiology",
+          "code": "C2T1L31",
+          "query": "tag:ManhattanProject::C2::T1::L31_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L31_*",
+          "tags": [
+            "ManhattanProject::C2::T1::L31_Circulation_Physiology",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L31_Circulation_Physiology"
+          ]
+        },
+        {
+          "label": "EL: Development of Cardiovascular System",
+          "code": "C2T1L32",
+          "query": "tag:ManhattanProject::C2::T1::L32_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L32_*",
+          "tags": [
+            "ManhattanProject::C2::T1::L32_Development_of_Cardiovascular_System",
+            "AnkiHub_Optional::Manhattanki::C2::T1::L32_Development_of_Cardiovascular_System"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "lectures": [
+        {
+          "label": "Fundamental Concepts of Study Design IIIa (Therapy)"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "lectures": [
+        {
+          "label": "Overview of Pulmonary System",
+          "code": "C2T2L01",
+          "query": "tag:ManhattanProject::C2::T2::L01_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L01_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L01_Overview_of_Pulmonary_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L01_Overview_of_Pulmonary_System"
+          ]
+        },
+        {
+          "label": "Autonomic Regulation of the Respiratory System",
+          "code": "C2T2L02",
+          "query": "tag:ManhattanProject::C2::T2::L02_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L02_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System"
+          ]
+        },
+        {
+          "label": "Overview of Lymphatic System",
+          "code": "C2T2L03",
+          "query": "tag:ManhattanProject::C2::T2::L03_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L03_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L03_Overview_of_Lymphatic_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L03_Overview_of_Lymphatic_System"
+          ]
+        },
+        {
+          "label": "Prelab3: Nasal Cavity & Larynx",
+          "code": "C2T2L04",
+          "query": "tag:ManhattanProject::C2::T2::L04_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L04_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L04_Prelab3_Nasal_Cavity_and_Larynx",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L04_Prelab3_Nasal_Cavity_and_Larynx"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "lectures": [
+        {
+          "label": "Microanatomy of Lymphoid Tissues & Organs",
+          "code": "C2T2L05",
+          "query": "tag:ManhattanProject::C2::T2::L05_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L05_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs"
+          ]
+        },
+        {
+          "label": "Microcirculation",
+          "code": "C2T2L06",
+          "query": "tag:ManhattanProject::C2::T2::L06_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L06_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L06_Microcirculation",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L06_Microcirculation"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "lectures": [
+        {
+          "label": "Fundamental Concepts of Study Design IIIb (Therapy)"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "lectures": [
+        {
+          "label": "Hematopoiesis, Bone Marrow, & Thymus",
+          "code": "C2T2L07",
+          "query": "tag:ManhattanProject::C2::T2::L07_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L07_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus"
+          ]
+        },
+        {
+          "label": "Postlab3: Nasal Cavity & Larynx",
+          "code": "C2T2L08",
+          "query": "tag:ManhattanProject::C2::T2::L08_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L08_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L08_Postlab3_Nasal_Cavity_and_Larynx",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L08_Postlab3_Nasal_Cavity_and_Larynx"
+          ]
+        },
+        {
+          "label": "Prelab4: Pleura & Lungs",
+          "code": "C2T2L09",
+          "query": "tag:ManhattanProject::C2::T2::L09_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L09_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L09_Prelab4_Pleura_and_Lungs",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L09_Prelab4_Pleura_and_Lungs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "lectures": [
+        {
+          "label": "Mechanics of Breathing & Lung Volumes",
+          "code": "C2T2L10",
+          "query": "tag:ManhattanProject::C2::T2::L10_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L10_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes"
+          ]
+        },
+        {
+          "label": "Microanatomy of Respiratory System",
+          "code": "C2T2L11",
+          "query": "tag:ManhattanProject::C2::T2::L11_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L11_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L11_Microanatomy_of_Respiratory_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L11_Microanatomy_of_Respiratory_System"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "lectures": [
+        {
+          "label": "Principles of Research Synthesis"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "lectures": [
+        {
+          "label": "Lung Ventilation",
+          "code": "C2T2L12",
+          "query": "tag:ManhattanProject::C2::T2::L12_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L12_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L12_Lung_Ventilation",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L12_Lung_Ventilation"
+          ]
+        },
+        {
+          "label": "Postlab4: Pleura & Lungs",
+          "code": "C2T2L13",
+          "query": "tag:ManhattanProject::C2::T2::L13_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L13_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L13_Postlab4_Pleura_and_Lungs",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L13_Postlab4_Pleura_and_Lungs"
+          ]
+        },
+        {
+          "label": "Clinical Heart Sounds",
+          "code": "C2T2L14",
+          "query": "tag:ManhattanProject::C2::T2::L14_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L14_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L14_Clinical_Heart_Sounds",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L14_Clinical_Heart_Sounds"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "lectures": [
+        {
+          "label": "Cell Injury & Death",
+          "code": "C2T2L15",
+          "query": "tag:ManhattanProject::C2::T2::L15_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L15_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L15_Cell_Injury_and_Death",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L15_Cell_Injury_and_Death"
+          ]
+        },
+        {
+          "label": "Development of Respiratory System",
+          "code": "C2T2L16",
+          "query": "tag:ManhattanProject::C2::T2::L16_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L16_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L16_Development_of_Respiratory_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L16_Development_of_Respiratory_System"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "lectures": [
+        {
+          "label": "Pulmonary Imaging",
+          "code": "C2T2L17",
+          "query": "tag:ManhattanProject::C2::T2::L17_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L17_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L17_Pulmonary_Imaging",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L17_Pulmonary_Imaging"
+          ]
+        },
+        {
+          "label": "EL: Development of Respiratory System",
+          "code": "C2T2L18",
+          "query": "tag:ManhattanProject::C2::T2::L18_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L18_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L18_Development_of_Respiratory_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L18_Development_of_Respiratory_System"
+          ]
+        },
+        {
+          "label": "EL: Respiratory Physiology",
+          "code": "C2T2L19",
+          "query": "tag:ManhattanProject::C2::T2::L19_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L19_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L19_Respiratory_Physiology",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L19_Respiratory_Physiology"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "lectures": [
+        {
+          "label": "EL: Cell Injury & Death",
+          "code": "C2T2L20",
+          "query": "tag:ManhattanProject::C2::T2::L20_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L20_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L20_Cell_Injury_and_Death",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L20_Cell_Injury_and_Death"
+          ]
+        },
+        {
+          "label": "VM Lab -- Cell Injury & Death",
+          "code": "C2T2L21",
+          "query": "tag:ManhattanProject::C2::T2::L21_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L21_*",
+          "tags": [
+            "ManhattanProject::C2::T2::L21_VM_Lab_Cell_Injury_and_Death",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L21_VM_Lab_Cell_Injury_and_Death"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "lectures": [
+        {
+          "label": "Basic Biostatistics I"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "lectures": [
+        {
+          "label": "Inflammation",
+          "code": "C2T3L01",
+          "query": "tag:ManhattanProject::C2::T3::L01_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L01_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L01_Inflammation",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L01_Inflammation"
+          ]
+        },
+        {
+          "label": "Prelab5: Posterior Mediastinum",
+          "code": "C2T3L02",
+          "query": "tag:ManhattanProject::C2::T3::L02_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L02_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L02_Prelab5_Posterior_Mediastinum",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L02_Prelab5_Posterior_Mediastinum"
+          ]
+        },
+        {
+          "label": "Vascular Imaging",
+          "code": "C2T3L03",
+          "query": "tag:ManhattanProject::C2::T3::L03_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L03_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L03_Vascular_Imaging",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L03_Vascular_Imaging"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "lectures": [
+        {
+          "label": "Tissue Repair",
+          "code": "C2T3L04",
+          "query": "tag:ManhattanProject::C2::T3::L04_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L04_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L04_Tissue_Repair",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L04_Tissue_Repair"
+          ]
+        },
+        {
+          "label": "EL: Inflammation & Repair",
+          "code": "C2T3L05",
+          "query": "tag:ManhattanProject::C2::T3::L05_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L05_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L05_Inflammation_and_Repair",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L05_Inflammation_and_Repair"
+          ]
+        },
+        {
+          "label": "Postlab5: Posterior Mediastinum",
+          "code": "C2T3L06",
+          "query": "tag:ManhattanProject::C2::T3::L06_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L06_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L06_Postlab5_Posterior_Mediastinum",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L06_Postlab5_Posterior_Mediastinum"
+          ]
+        },
+        {
+          "label": "CardioPulm Lab"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "lectures": [
+        {
+          "label": "Pulmonary Circulation",
+          "code": "C2T3L07",
+          "query": "tag:ManhattanProject::C2::T3::L07_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L07_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L07_Pulmonary_Circulation",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L07_Pulmonary_Circulation"
+          ]
+        },
+        {
+          "label": "EL: Heart Valve Dysfunction",
+          "code": "C2T3L08",
+          "query": "tag:ManhattanProject::C2::T3::L08_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L08_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L08_Heart_Valve_Dysfunction",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L08_Heart_Valve_Dysfunction"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "lectures": [
+        {
+          "label": "Pulmonary Gas Diffusion & Blood Transport",
+          "code": "C2T3L09",
+          "query": "tag:ManhattanProject::C2::T3::L09_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L09_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L09_Pulmonary_Gas_Diffusion_and_Blood_Transport",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L09_Pulmonary_Gas_Diffusion_and_Blood_Transport"
+          ]
+        },
+        {
+          "label": "VM Lab -- Inflammation & Repair",
+          "code": "C2T3L10",
+          "query": "tag:ManhattanProject::C2::T3::L10_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L10_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L10_VM_Lab_Inflammation_and_Repair",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L10_VM_Lab_Inflammation_and_Repair"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "lectures": [
+        {
+          "label": "Basic Biostatistics II"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "lectures": [
+        {
+          "label": "Blood Microbiology",
+          "code": "C2T3L11",
+          "query": "tag:ManhattanProject::C2::T3::L11_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L11_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L11_Blood_Microbiology",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L11_Blood_Microbiology"
+          ]
+        },
+        {
+          "label": "Bacteremia & Intravascular Bacterial Infections",
+          "code": "C2T3L12",
+          "query": "tag:ManhattanProject::C2::T3::L12_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L12_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L12_Bacteremia_and_Intravascular_Bacterial_Infections",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L12_Bacteremia_and_Intravascular_Bacterial_Infections"
+          ]
+        },
+        {
+          "label": "Microbiology of the Lung",
+          "code": "C2T3L13",
+          "query": "tag:ManhattanProject::C2::T3::L13_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L13_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L13_Microbiology_of_the_Lung",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L13_Microbiology_of_the_Lung"
+          ]
+        },
+        {
+          "label": "Bacterial Infections of Respiratory Tract",
+          "code": "C2T3L14",
+          "query": "tag:ManhattanProject::C2::T3::L14_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L14_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L14_Bacterial_Infections_of_Respiratory_Tract",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L14_Bacterial_Infections_of_Respiratory_Tract"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "lectures": [
+        {
+          "label": "Ventilation-Perfusion Matching",
+          "code": "C2T3L15",
+          "query": "tag:ManhattanProject::C2::T3::L15_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L15_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L15_Ventilation_Perfusion_Matching",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L15_Ventilation_Perfusion_Matching"
+          ]
+        },
+        {
+          "label": "Molecular & Cellular Aspects of Asthma",
+          "code": "C2T3L16",
+          "query": "tag:ManhattanProject::C2::T3::L16_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L16_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L16_Molecular_and_Cellular_Aspects_of_Asthma",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L16_Molecular_and_Cellular_Aspects_of_Asthma"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "lectures": [
+        {
+          "label": "Control of Breathing",
+          "code": "C2T3L17",
+          "query": "tag:ManhattanProject::C2::T3::L17_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L17_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L17_Control_of_Breathing",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L17_Control_of_Breathing"
+          ]
+        },
+        {
+          "label": "Disturbances of Blood Flow",
+          "code": "C2T3L18",
+          "query": "tag:ManhattanProject::C2::T3::L18_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L18_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L18_Disturbances_of_Blood_Flow",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L18_Disturbances_of_Blood_Flow"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "lectures": [
+        {
+          "label": "EL: Clinical Correlations",
+          "code": "C2T3L19",
+          "query": "tag:ManhattanProject::C2::T3::L19_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L19_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L19_Clinical_Correlations",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L19_Clinical_Correlations"
+          ]
+        },
+        {
+          "label": "EL: Disturbances of Blood Flow",
+          "code": "C2T3L20",
+          "query": "tag:ManhattanProject::C2::T3::L20_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L20_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L20_Disturbances_of_Blood_Flow",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L20_Disturbances_of_Blood_Flow"
+          ]
+        },
+        {
+          "label": "VM Lab -- Disturbances of Blood Flow",
+          "code": "C2T3L21",
+          "query": "tag:ManhattanProject::C2::T3::L21_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L21_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L21_VM_Lab_Disturbances_of_Blood_Flow",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L21_VM_Lab_Disturbances_of_Blood_Flow"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "lectures": [
+        {
+          "label": "EL: ARDS",
+          "code": "C2T3L22",
+          "query": "tag:ManhattanProject::C2::T3::L22_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L22_*",
+          "tags": [
+            "ManhattanProject::C2::T3::L22_ARDS",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L22_ARDS"
+          ]
+        }
+      ]
+    }
+  ]
+}
