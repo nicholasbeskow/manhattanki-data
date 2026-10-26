@@ -659,6 +659,33 @@
         "1472146993792": "C2T1L23",
         "1472147082508": "C2T1L23"
       }
+    },
+    {
+      "id": "2026-10-26-c2t1l07-big-picture",
+      "published": "2026-10-26T18:22:06Z",
+      "title": "L07 Cellular Elements of Blood: 6 new cards",
+      "summary": "Gaps from Dr. Wiranowska's Big Picture Key Points: eosinophil granule proteins, lymphocyte recirculation, platelet peripheral zone, basophil NCF, neutrophil lysozyme, hematocrit.",
+      "lectures": [
+        "C2T1L07"
+      ],
+      "items": {
+        "new": [
+          1793037820195,
+          1793037820243,
+          1793037820288,
+          1793037820340,
+          1793037820389,
+          1793037820439
+        ]
+      },
+      "lecture_of": {
+        "1793037820195": "C2T1L07",
+        "1793037820243": "C2T1L07",
+        "1793037820288": "C2T1L07",
+        "1793037820340": "C2T1L07",
+        "1793037820389": "C2T1L07",
+        "1793037820439": "C2T1L07"
+      }
     }
   ]
 }
