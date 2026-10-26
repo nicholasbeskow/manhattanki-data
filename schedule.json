@@ -1074,11 +1074,12 @@
         {
           "label": "Baroreceptor & Chemoreceptor Regulation",
           "code": "C2T1L27",
-          "query": "tag:ManhattanProject::C2::T1::L27_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L27_*",
+          "query": "tag:ManhattanProject::C2::T1::L27_Baroreceptor_and_Chemoreceptor_Regulation OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L27_Baroreceptor_and_Chemoreceptor_Regulation",
           "tags": [
             "ManhattanProject::C2::T1::L27_Baroreceptor_and_Chemoreceptor_Regulation",
             "AnkiHub_Optional::Manhattanki::C2::T1::L27_Baroreceptor_and_Chemoreceptor_Regulation"
-          ]
+          ],
+          "cards": 44
         },
         {
           "label": "Development of Cardiovascular System",
