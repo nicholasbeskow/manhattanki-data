@@ -1064,11 +1064,12 @@
         {
           "label": "EL: Sickle Cell Disease",
           "code": "C2T1L26",
-          "query": "tag:ManhattanProject::C2::T1::L26_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L26_*",
+          "query": "tag:ManhattanProject::C2::T1::L26_Sickle_Cell_Disease OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L26_Sickle_Cell_Disease",
           "tags": [
             "ManhattanProject::C2::T1::L26_Sickle_Cell_Disease",
             "AnkiHub_Optional::Manhattanki::C2::T1::L26_Sickle_Cell_Disease"
-          ]
+          ],
+          "cards": 62
         },
         {
           "label": "Baroreceptor & Chemoreceptor Regulation",
