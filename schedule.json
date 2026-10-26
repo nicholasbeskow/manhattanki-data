@@ -1084,11 +1084,12 @@
         {
           "label": "Development of Cardiovascular System",
           "code": "C2T1L28",
-          "query": "tag:ManhattanProject::C2::T1::L28_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L28_*",
+          "query": "tag:ManhattanProject::C2::T1::L28_Development_of_Cardiovascular_System OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L28_Development_of_Cardiovascular_System",
           "tags": [
             "ManhattanProject::C2::T1::L28_Development_of_Cardiovascular_System",
             "AnkiHub_Optional::Manhattanki::C2::T1::L28_Development_of_Cardiovascular_System"
-          ]
+          ],
+          "cards": 75
         }
       ]
     },
