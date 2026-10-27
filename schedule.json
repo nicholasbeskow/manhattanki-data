@@ -1099,11 +1099,12 @@
         {
           "label": "EL: Syncope & Orthostatic Hypotension",
           "code": "C2T1L29",
-          "query": "tag:ManhattanProject::C2::T1::L29_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L29_*",
+          "query": "tag:ManhattanProject::C2::T1::L29_Syncope_and_Orthostatic_Hypotension OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L29_Syncope_and_Orthostatic_Hypotension",
           "tags": [
             "ManhattanProject::C2::T1::L29_Syncope_and_Orthostatic_Hypotension",
             "AnkiHub_Optional::Manhattanki::C2::T1::L29_Syncope_and_Orthostatic_Hypotension"
-          ]
+          ],
+          "cards": 23
         },
         {
           "label": "EL: Regulation of Cardiac Output",
