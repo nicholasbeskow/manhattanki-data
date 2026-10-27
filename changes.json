@@ -686,6 +686,47 @@
         "1793037820389": "C2T1L07",
         "1793037820439": "C2T1L07"
       }
+    },
+    {
+      "id": "2026-10-27-c2t1l28-fetal-circulation",
+      "published": "2026-10-27T03:32:25Z",
+      "title": "L28 CV Development: 13 fetal circulation cards",
+      "summary": "The Panopto recording cut off during fetal circulation; the Teams recording has the rest. Added AnKing cards on fetal blood flow, the ductus arteriosus/venosus, umbilical vessels and their adult remnants.",
+      "lectures": [
+        "C2T1L28"
+      ],
+      "items": {
+        "tagged": [
+          1463526209818,
+          1472319948100,
+          1463945003632,
+          1472319909035,
+          1471990276789,
+          1472319935401,
+          1472319957308,
+          1472319986724,
+          1472319989820,
+          1473456819619,
+          1471980435134,
+          1463526153463,
+          1472319911691
+        ]
+      },
+      "lecture_of": {
+        "1463526209818": "C2T1L28",
+        "1472319948100": "C2T1L28",
+        "1463945003632": "C2T1L28",
+        "1472319909035": "C2T1L28",
+        "1471990276789": "C2T1L28",
+        "1472319935401": "C2T1L28",
+        "1472319957308": "C2T1L28",
+        "1472319986724": "C2T1L28",
+        "1472319989820": "C2T1L28",
+        "1473456819619": "C2T1L28",
+        "1471980435134": "C2T1L28",
+        "1463526153463": "C2T1L28",
+        "1472319911691": "C2T1L28"
+      }
     }
   ]
 }
