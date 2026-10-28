@@ -778,6 +778,23 @@
         "1489115563908": "C2T1L28",
         "1471990295755": "C2T1L28"
       }
+    },
+    {
+      "id": "2026-10-28-c2t1l29-answer-key",
+      "published": "2026-10-28T13:59:29Z",
+      "title": "L29 Syncope EL: 1 new card from the poll answer key",
+      "summary": "The with-Q&A deck's 10 polls were checked against the deck. One new card: on standing, before any reflex, pooling lowers peripheral arterial pressure (poll on slide 34). The other 9 polls were already covered.",
+      "lectures": [
+        "C2T1L29"
+      ],
+      "items": {
+        "new": [
+          1793195938686
+        ]
+      },
+      "lecture_of": {
+        "1793195938686": "C2T1L29"
+      }
     }
   ]
 }
