@@ -1124,11 +1124,12 @@
         {
           "label": "EL: Circulation Physiology",
           "code": "C2T1L31",
-          "query": "tag:ManhattanProject::C2::T1::L31_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L31_*",
+          "query": "tag:ManhattanProject::C2::T1::L31_Circulation_Physiology OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L31_Circulation_Physiology",
           "tags": [
             "ManhattanProject::C2::T1::L31_Circulation_Physiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L31_Circulation_Physiology"
-          ]
+          ],
+          "cards": 45
         },
         {
           "label": "EL: Development of Cardiovascular System",
