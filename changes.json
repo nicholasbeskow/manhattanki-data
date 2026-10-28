@@ -727,6 +727,57 @@
         "1463526153463": "C2T1L28",
         "1472319911691": "C2T1L28"
       }
+    },
+    {
+      "id": "2026-10-28-c2t1l28-slide-sweep",
+      "published": "2026-10-28T12:44:07Z",
+      "title": "L28 CV Development: 18 more AnKing cards",
+      "summary": "A second pass over the slides and lecture notes added AnKing cards on topics the deck covers: heart starts beating in week 4, urachus, 22q11/rubella-linked defects, hypoplastic left heart, pulmonary atresia, Eisenmenger shunt reversal, keeping the ductus open with PGE1, VSD as the most common defect and the non-recurrent right RLN.",
+      "lectures": [
+        "C2T1L28"
+      ],
+      "items": {
+        "tagged": [
+          1489112884330,
+          1463526252752,
+          1527342711798,
+          1516240153580,
+          1556984330180,
+          1518315720736,
+          1518315850491,
+          1518315922723,
+          1471989960544,
+          1471989983590,
+          1471989989842,
+          1471990007665,
+          1499356681125,
+          1556983656599,
+          1471990044634,
+          1521259843436,
+          1489115563908,
+          1471990295755
+        ]
+      },
+      "lecture_of": {
+        "1489112884330": "C2T1L28",
+        "1463526252752": "C2T1L28",
+        "1527342711798": "C2T1L28",
+        "1516240153580": "C2T1L28",
+        "1556984330180": "C2T1L28",
+        "1518315720736": "C2T1L28",
+        "1518315850491": "C2T1L28",
+        "1518315922723": "C2T1L28",
+        "1471989960544": "C2T1L28",
+        "1471989983590": "C2T1L28",
+        "1471989989842": "C2T1L28",
+        "1471990007665": "C2T1L28",
+        "1499356681125": "C2T1L28",
+        "1556983656599": "C2T1L28",
+        "1471990044634": "C2T1L28",
+        "1521259843436": "C2T1L28",
+        "1489115563908": "C2T1L28",
+        "1471990295755": "C2T1L28"
+      }
     }
   ]
 }
