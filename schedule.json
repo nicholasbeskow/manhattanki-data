@@ -1109,11 +1109,12 @@
         {
           "label": "EL: Regulation of Cardiac Output",
           "code": "C2T1L30",
-          "query": "tag:ManhattanProject::C2::T1::L30_* OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L30_*",
+          "query": "tag:ManhattanProject::C2::T1::L30_Regulation_of_Cardiac_Output OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L30_Regulation_of_Cardiac_Output",
           "tags": [
             "ManhattanProject::C2::T1::L30_Regulation_of_Cardiac_Output",
             "AnkiHub_Optional::Manhattanki::C2::T1::L30_Regulation_of_Cardiac_Output"
-          ]
+          ],
+          "cards": 39
         }
       ]
     },
