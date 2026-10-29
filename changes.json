@@ -893,6 +893,41 @@
         "1793290568182": "C2T1L27",
         "1519849478653": "C2T1L26"
       }
+    },
+    {
+      "id": "2026-10-29-c2t1-l20-teams-gap",
+      "published": "2026-10-29T17:11:20Z",
+      "title": "L20: Teams recording fills slides 33–35",
+      "summary": "The Teams recording covers the part Panopto missed (stenosis grading, unstable angina vs NSTEMI vs STEMI). The 4 cards from those slides now have video links, and 5 AnKing cards on unstable angina and ACS that Sharp taught there were added.",
+      "lectures": [
+        "C2T1L20"
+      ],
+      "items": {
+        "edited": [
+          1792807482359,
+          1792807482258,
+          1792807482310,
+          1792807482209
+        ],
+        "tagged": [
+          1471880428703,
+          1471880441143,
+          1471899192663,
+          1471880448151,
+          1471899057863
+        ]
+      },
+      "lecture_of": {
+        "1792807482359": "C2T1L20",
+        "1792807482258": "C2T1L20",
+        "1792807482310": "C2T1L20",
+        "1792807482209": "C2T1L20",
+        "1471880428703": "C2T1L20",
+        "1471880441143": "C2T1L20",
+        "1471899192663": "C2T1L20",
+        "1471880448151": "C2T1L20",
+        "1471899057863": "C2T1L20"
+      }
     }
   ]
 }
