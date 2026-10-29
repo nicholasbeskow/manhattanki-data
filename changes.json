@@ -848,6 +848,23 @@
         "1792516556452": "C2T1L18",
         "1471811960008": "C2T1L20"
       }
+    },
+    {
+      "id": "2026-10-29-c2t1-l19-reactive-hyperemia",
+      "published": "2026-10-29T15:55:56Z",
+      "title": "L19: reactive hyperemia mechanism (1 new card)",
+      "summary": "Slide 36 fell between the L19 and L20 Panopto recordings; the Teams recording covers it. Added: why flow overshoots after an occlusion (accumulated metabolites and low O2 dilate the downstream arterioles).",
+      "lectures": [
+        "C2T1L19"
+      ],
+      "items": {
+        "new": [
+          1793289286326
+        ]
+      },
+      "lecture_of": {
+        "1793289286326": "C2T1L19"
+      }
     }
   ]
 }
