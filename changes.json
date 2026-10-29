@@ -795,6 +795,59 @@
       "lecture_of": {
         "1793195938686": "C2T1L29"
       }
+    },
+    {
+      "id": "2026-10-29-c2t1-wk2review-coverage",
+      "published": "2026-10-29T03:07:23Z",
+      "title": "Week 2 Review SGT: 9 new cards, 4 new clozes, 1 AnKing tag",
+      "summary": "The Week 2 Review tutoring deck's 120 questions were checked against the C2T1 cards (101 already covered). Added for the gaps: heme oxygenase as rate-limiting (O2 + NADPH), mitochondrial steps of heme synthesis, transfusions/hemolysis → hemosiderosis, Crigler-Najjar type I vs II, pericytes (NO, multipotent), smooth muscle in the elastic-artery intima, fight-or-flight = sympathetic, Ca2+-triggered exocytosis, VSMCs absent from capillaries, Class A coronary vessels, internodal pathways, pacemaker rate order, sinus-rhythm P waves, and the AnKing modifiable atherosclerosis risk-factor card (L20).",
+      "lectures": [
+        "C2T1L15",
+        "C2T1L17",
+        "C2T1L18",
+        "C2T1L19",
+        "C2T1L20",
+        "C2T1L21",
+        "C2T1L25"
+      ],
+      "items": {
+        "new": [
+          1793243198598,
+          1793243198760,
+          1793243198906,
+          1793243199059,
+          1793243199206,
+          1793243199360,
+          1793243199514,
+          1793243199559,
+          1793243199610
+        ],
+        "edited": [
+          1792428517595,
+          1792428517601,
+          1792507646765,
+          1792516556452
+        ],
+        "tagged": [
+          1471811960008
+        ]
+      },
+      "lecture_of": {
+        "1793243198598": "C2T1L17",
+        "1793243198760": "C2T1L18",
+        "1793243198906": "C2T1L18",
+        "1793243199059": "C2T1L18",
+        "1793243199206": "C2T1L19",
+        "1793243199360": "C2T1L20",
+        "1793243199514": "C2T1L21",
+        "1793243199559": "C2T1L21",
+        "1793243199610": "C2T1L25",
+        "1792428517595": "C2T1L15",
+        "1792428517601": "C2T1L15",
+        "1792507646765": "C2T1L17",
+        "1792516556452": "C2T1L18",
+        "1471811960008": "C2T1L20"
+      }
     }
   ]
 }
