@@ -865,6 +865,34 @@
       "lecture_of": {
         "1793289286326": "C2T1L19"
       }
+    },
+    {
+      "id": "2026-10-29-c2t1-wk3review-coverage",
+      "published": "2026-10-29T16:16:40Z",
+      "title": "Week 3 review SGT gaps: 3 new cards + 1 AnKing tag",
+      "summary": "Checked the 77 Week 3 review tutoring questions (L26–L30). Added: why cardiac output moves arterial more than venous pressure (L30), vasodilation in vasovagal syncope (L29), BP rise in Valsalva phase 1 (L27); tagged the CRISPR/Cas9 AnKing card into L26.",
+      "lectures": [
+        "C2T1L26",
+        "C2T1L27",
+        "C2T1L29",
+        "C2T1L30"
+      ],
+      "items": {
+        "new": [
+          1793290568088,
+          1793290568131,
+          1793290568182
+        ],
+        "tagged": [
+          1519849478653
+        ]
+      },
+      "lecture_of": {
+        "1793290568088": "C2T1L30",
+        "1793290568131": "C2T1L29",
+        "1793290568182": "C2T1L27",
+        "1519849478653": "C2T1L26"
+      }
     }
   ]
 }
