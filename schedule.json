@@ -975,7 +975,7 @@
             "ManhattanProject::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow"
           ],
-          "cards": 54
+          "cards": 55
         },
         {
           "label": "Regulation of Coronary Blood Flow",
@@ -1147,7 +1147,13 @@
       "date": "2026-10-29",
       "lectures": [
         {
-          "label": "Fundamental Concepts of Study Design IIIa (Therapy)"
+          "label": "Fundamental Concepts of Study Design IIIa (Therapy)",
+          "tags": [
+            "ManhattanProject::EBCR::L03_Study_Design_IIIa_Therapy",
+            "AnkiHub_Optional::Manhattanki::EBCR::L03_Study_Design_IIIa_Therapy"
+          ],
+          "query": "tag:ManhattanProject::EBCR::L03_Study_Design_IIIa_Therapy OR tag:AnkiHub_Optional::Manhattanki::EBCR::L03_Study_Design_IIIa_Therapy",
+          "cards": 26
         }
       ]
     },
