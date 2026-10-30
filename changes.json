@@ -928,6 +928,23 @@
         "1471880448151": "C2T1L20",
         "1471899057863": "C2T1L20"
       }
+    },
+    {
+      "id": "2026-10-30-c2t1-lgt-coverage",
+      "published": "2026-10-30T13:45:18Z",
+      "title": "L21: delayed rectifier vs transient outward K⁺ channels",
+      "summary": "Checked the 118 new Large Group Tutoring questions against the C2T1 cards: 117 were already covered. One new L21 card names the K⁺ channels behind phase 3 (delayed rectifier, IKr/IKs) and phase 1 (transient outward, Ito).",
+      "lectures": [
+        "C2T1L21"
+      ],
+      "items": {
+        "new": [
+          1793367872342
+        ]
+      },
+      "lecture_of": {
+        "1793367872342": "C2T1L21"
+      }
     }
   ]
 }
