@@ -1173,11 +1173,12 @@
         {
           "label": "Autonomic Regulation of the Respiratory System",
           "code": "C2T2L02",
-          "query": "tag:ManhattanProject::C2::T2::L02_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L02_*",
+          "query": "tag:ManhattanProject::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System",
           "tags": [
             "ManhattanProject::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System",
             "AnkiHub_Optional::Manhattanki::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System"
-          ]
+          ],
+          "cards": 27
         },
         {
           "label": "Overview of Lymphatic System",
