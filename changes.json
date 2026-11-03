@@ -945,6 +945,33 @@
       "lecture_of": {
         "1793367872342": "C2T1L21"
       }
+    },
+    {
+      "id": "2026-11-03-c2t2-l01-epidemiology",
+      "published": "2026-11-03T15:30:00Z",
+      "title": "C2T2L01: epidemiology cards",
+      "summary": "3 new cards: CLRD is an epidemiological category; COPD by age and sex; asthma by sex across the lifespan. 2 AnKing smoking cards tagged.",
+      "lectures": [
+        "C2T2L01"
+      ],
+      "items": {
+        "new": [
+          1793718590874,
+          1793718590918,
+          1793718591065
+        ],
+        "tagged": [
+          1473627834849,
+          1473627980218
+        ]
+      },
+      "lecture_of": {
+        "1793718590874": "C2T2L01",
+        "1793718590918": "C2T2L01",
+        "1793718591065": "C2T2L01",
+        "1473627834849": "C2T2L01",
+        "1473627980218": "C2T2L01"
+      }
     }
   ]
 }
