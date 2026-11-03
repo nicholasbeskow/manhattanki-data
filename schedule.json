@@ -1163,11 +1163,12 @@
         {
           "label": "Overview of Pulmonary System",
           "code": "C2T2L01",
-          "query": "tag:ManhattanProject::C2::T2::L01_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L01_*",
+          "query": "tag:ManhattanProject::C2::T2::L01_Overview_of_Pulmonary_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L01_Overview_of_Pulmonary_System",
           "tags": [
             "ManhattanProject::C2::T2::L01_Overview_of_Pulmonary_System",
             "AnkiHub_Optional::Manhattanki::C2::T2::L01_Overview_of_Pulmonary_System"
-          ]
+          ],
+          "cards": 42
         },
         {
           "label": "Autonomic Regulation of the Respiratory System",
