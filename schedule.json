@@ -1193,11 +1193,13 @@
         {
           "label": "Prelab3: Nasal Cavity & Larynx",
           "code": "C2T2L04",
-          "query": "tag:ManhattanProject::C2::T2::L04_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L04_*",
+          "query": "tag:ManhattanProject::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx OR tag:AnkiHub_Optional::ManhattankiBL::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx",
           "tags": [
-            "ManhattanProject::C2::T2::L04_Prelab3_Nasal_Cavity_and_Larynx",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L04_Prelab3_Nasal_Cavity_and_Larynx"
-          ]
+            "ManhattanProject::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx",
+            "AnkiHub_Optional::ManhattankiBL::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx"
+          ],
+          "cards": 161
         }
       ]
     },
