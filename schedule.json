@@ -1183,11 +1183,12 @@
         {
           "label": "Overview of Lymphatic System",
           "code": "C2T2L03",
-          "query": "tag:ManhattanProject::C2::T2::L03_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L03_*",
+          "query": "tag:ManhattanProject::C2::T2::L03_Overview_of_the_Lymphatic_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L03_Overview_of_the_Lymphatic_System",
           "tags": [
-            "ManhattanProject::C2::T2::L03_Overview_of_Lymphatic_System",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L03_Overview_of_Lymphatic_System"
-          ]
+            "ManhattanProject::C2::T2::L03_Overview_of_the_Lymphatic_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L03_Overview_of_the_Lymphatic_System"
+          ],
+          "cards": 71
         },
         {
           "label": "Prelab3: Nasal Cavity & Larynx",
