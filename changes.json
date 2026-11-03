@@ -972,6 +972,37 @@
         "1473627834849": "C2T2L01",
         "1473627980218": "C2T2L01"
       }
+    },
+    {
+      "id": "2026-11-03-c2t2-l02-objective-gaps",
+      "published": "2026-11-03T16:10:11Z",
+      "title": "C2T2L02: 6 new cards for objectives 2–4",
+      "summary": "Autonomic Regulation of the Respiratory System: added ganglion locations (parasympathetic intrinsic, sympathetic extrinsic), presynaptic M2 autoreceptor, PDE inhibitors → cAMP, tachypnea and bradypnea cutoffs. One Extra trimmed.",
+      "lectures": [
+        "C2T2L02"
+      ],
+      "lecture_of": {
+        "1793722186450": "C2T2L02",
+        "1793722186497": "C2T2L02",
+        "1793722186547": "C2T2L02",
+        "1793722186603": "C2T2L02",
+        "1793722186647": "C2T2L02",
+        "1793722186700": "C2T2L02",
+        "1793720663599": "C2T2L02"
+      },
+      "items": {
+        "new": [
+          1793722186450,
+          1793722186497,
+          1793722186547,
+          1793722186603,
+          1793722186647,
+          1793722186700
+        ],
+        "edited": [
+          1793720663599
+        ]
+      }
     }
   ]
 }
