@@ -1168,7 +1168,13 @@
             "ManhattanProject::C2::T2::L01_Overview_of_Pulmonary_System",
             "AnkiHub_Optional::Manhattanki::C2::T2::L01_Overview_of_Pulmonary_System"
           ],
-          "cards": 49
+          "cards": 49,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ff7ad19-2952-465c-aeb9-b4e100e4b924"
+            }
+          ]
         },
         {
           "label": "Autonomic Regulation of the Respiratory System",
@@ -1178,7 +1184,13 @@
             "ManhattanProject::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System",
             "AnkiHub_Optional::Manhattanki::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System"
           ],
-          "cards": 33
+          "cards": 33,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d82583f-3080-4730-a25b-b4e100e4d052"
+            }
+          ]
         },
         {
           "label": "Overview of Lymphatic System",
@@ -1188,7 +1200,13 @@
             "ManhattanProject::C2::T2::L03_Overview_of_the_Lymphatic_System",
             "AnkiHub_Optional::Manhattanki::C2::T2::L03_Overview_of_the_Lymphatic_System"
           ],
-          "cards": 71
+          "cards": 71,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6c337cf-08f0-4ded-931e-b4e100e4f60f"
+            }
+          ]
         },
         {
           "label": "Prelab3: Nasal Cavity & Larynx",
@@ -1199,7 +1217,13 @@
             "AnkiHub_Optional::Manhattanki::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx",
             "AnkiHub_Optional::ManhattankiBL::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx"
           ],
-          "cards": 182
+          "cards": 182,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94a52dab-568b-470c-9d48-b4e100e50c9a"
+            }
+          ]
         }
       ]
     },
@@ -1223,7 +1247,13 @@
             "ManhattanProject::C2::T2::L06_Microcirculation",
             "AnkiHub_Optional::Manhattanki::C2::T2::L06_Microcirculation"
           ],
-          "cards": 66
+          "cards": 66,
+          "links": [
+            {
+              "label": "Lecture recording (2025)",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb9fe671-ffa7-4433-afbd-b4f6015329b2"
+            }
+          ]
         }
       ]
     },
