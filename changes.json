@@ -1060,6 +1060,33 @@
           1793801517417
         ]
       }
+    },
+    {
+      "id": "2026-11-04-c2t2-l04-sinus-overview",
+      "published": "2026-11-04T17:37:16Z",
+      "title": "C2T2L04: paranasal sinus overview figure",
+      "summary": "4 new image-occlusion cards on an overview of all four paranasal sinuses (anterior + lateral views, slide 11); 1 muscle note edited.",
+      "lectures": [
+        "C2T2L04"
+      ],
+      "items": {
+        "new": [
+          1793813765989,
+          1793813765990,
+          1793813765991,
+          1793813765992
+        ],
+        "edited": [
+          1793731199687
+        ]
+      },
+      "lecture_of": {
+        "1793813765989": "C2T2L04",
+        "1793813765990": "C2T2L04",
+        "1793813765991": "C2T2L04",
+        "1793813765992": "C2T2L04",
+        "1793731199687": "C2T2L04"
+      }
     }
   ]
 }
