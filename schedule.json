@@ -1261,6 +1261,15 @@
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb9fe671-ffa7-4433-afbd-b4f6015329b2"
             }
           ]
+        },
+        {
+          "label": "Imaging",
+          "optional_unlock": true,
+          "cards": 86,
+          "query": "tag:ManhattanProject::C2::T2::Imaging",
+          "tags": [
+            "ManhattanProject::C2::T2::Imaging"
+          ]
         }
       ]
     },
