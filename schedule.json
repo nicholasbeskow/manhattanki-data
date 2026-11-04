@@ -1238,7 +1238,13 @@
             "ManhattanProject::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs",
             "AnkiHub_Optional::Manhattanki::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs"
           ],
-          "cards": 134
+          "cards": 134,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bba6ffd3-457a-4162-a9a7-b4e100e58195"
+            }
+          ]
         },
         {
           "label": "Microcirculation",
