@@ -1218,11 +1218,12 @@
         {
           "label": "Microcirculation",
           "code": "C2T2L06",
-          "query": "tag:ManhattanProject::C2::T2::L06_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L06_*",
+          "query": "tag:ManhattanProject::C2::T2::L06_Microcirculation OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L06_Microcirculation",
           "tags": [
             "ManhattanProject::C2::T2::L06_Microcirculation",
             "AnkiHub_Optional::Manhattanki::C2::T2::L06_Microcirculation"
-          ]
+          ],
+          "cards": 66
         }
       ]
     },
