@@ -1003,6 +1003,63 @@
           1793720663599
         ]
       }
+    },
+    {
+      "id": "2026-11-04-c2t2-l04-structure-list-io",
+      "published": "2026-11-04T14:12:12Z",
+      "title": "C2T2L04: 21 image-occlusion cards for lab structure-list gaps",
+      "summary": "Prelab: Nasal Cavity & Larynx: labeled-figure cards for the structure-list items that had no card: ethmoid, sphenoid (and body), palatine (perpendicular plate), lacrimal bones, cribriform plate, sphenopalatine foramen, anterior nasal spine, lateral nasal and alar cartilages, thyroid horns, cricoid lamina and arch, laryngeal saccule, atrium, naso-/oropharynx, piriform recess of laryngopharynx, openings of posterior ethmoidal cells.",
+      "lectures": [
+        "C2T2L04"
+      ],
+      "lecture_of": {
+        "1793801517397": "C2T2L04",
+        "1793801517398": "C2T2L04",
+        "1793801517399": "C2T2L04",
+        "1793801517400": "C2T2L04",
+        "1793801517401": "C2T2L04",
+        "1793801517402": "C2T2L04",
+        "1793801517403": "C2T2L04",
+        "1793801517404": "C2T2L04",
+        "1793801517405": "C2T2L04",
+        "1793801517406": "C2T2L04",
+        "1793801517407": "C2T2L04",
+        "1793801517408": "C2T2L04",
+        "1793801517409": "C2T2L04",
+        "1793801517410": "C2T2L04",
+        "1793801517411": "C2T2L04",
+        "1793801517412": "C2T2L04",
+        "1793801517413": "C2T2L04",
+        "1793801517414": "C2T2L04",
+        "1793801517415": "C2T2L04",
+        "1793801517416": "C2T2L04",
+        "1793801517417": "C2T2L04"
+      },
+      "items": {
+        "new": [
+          1793801517397,
+          1793801517398,
+          1793801517399,
+          1793801517400,
+          1793801517401,
+          1793801517402,
+          1793801517403,
+          1793801517404,
+          1793801517405,
+          1793801517406,
+          1793801517407,
+          1793801517408,
+          1793801517409,
+          1793801517410,
+          1793801517411,
+          1793801517412,
+          1793801517413,
+          1793801517414,
+          1793801517415,
+          1793801517416,
+          1793801517417
+        ]
+      }
     }
   ]
 }
