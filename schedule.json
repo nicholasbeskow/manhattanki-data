@@ -1233,11 +1233,12 @@
         {
           "label": "Microanatomy of Lymphoid Tissues & Organs",
           "code": "C2T2L05",
-          "query": "tag:ManhattanProject::C2::T2::L05_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L05_*",
+          "query": "tag:ManhattanProject::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs",
           "tags": [
             "ManhattanProject::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs",
             "AnkiHub_Optional::Manhattanki::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs"
-          ]
+          ],
+          "cards": 134
         },
         {
           "label": "Microcirculation",
