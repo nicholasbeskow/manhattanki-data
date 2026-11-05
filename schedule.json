@@ -1263,12 +1263,12 @@
           ]
         },
         {
-          "label": "Imaging",
+          "label": "Imaging: Lab 3 (Nasal Cavity & Larynx)",
           "optional_unlock": true,
           "cards": 86,
-          "query": "tag:ManhattanProject::C2::T2::Imaging",
+          "query": "tag:ManhattanProject::C2::T2::Imaging::Lab3_Nasal_Cavity_and_Larynx",
           "tags": [
-            "ManhattanProject::C2::T2::Imaging"
+            "ManhattanProject::C2::T2::Imaging::Lab3_Nasal_Cavity_and_Larynx"
           ]
         }
       ]
