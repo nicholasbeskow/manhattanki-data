@@ -1277,7 +1277,13 @@
       "date": "2026-11-05",
       "lectures": [
         {
-          "label": "Fundamental Concepts of Study Design IIIb (Therapy)"
+          "label": "Fundamental Concepts of Study Design IIIb (Therapy)",
+          "tags": [
+            "ManhattanProject::EBCR::L04_Study_Design_IIIb_Therapy",
+            "AnkiHub_Optional::Manhattanki::EBCR::L04_Study_Design_IIIb_Therapy"
+          ],
+          "query": "tag:ManhattanProject::EBCR::L04_Study_Design_IIIb_Therapy OR tag:AnkiHub_Optional::Manhattanki::EBCR::L04_Study_Design_IIIb_Therapy",
+          "cards": 39
         }
       ]
     },
