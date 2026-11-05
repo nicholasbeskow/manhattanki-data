@@ -1284,6 +1284,24 @@
           ],
           "query": "tag:ManhattanProject::EBCR::L04_Study_Design_IIIb_Therapy OR tag:AnkiHub_Optional::Manhattanki::EBCR::L04_Study_Design_IIIb_Therapy",
           "cards": 39
+        },
+        {
+          "label": "Imaging: Lab 1 (Thoracic Wall)",
+          "optional_unlock": true,
+          "cards": 28,
+          "query": "tag:ManhattanProject::C2::T1::Imaging::Lab1_Thoracic_Wall",
+          "tags": [
+            "ManhattanProject::C2::T1::Imaging::Lab1_Thoracic_Wall"
+          ]
+        },
+        {
+          "label": "Imaging: Lab 2 (Pericardium & Heart)",
+          "optional_unlock": true,
+          "cards": 127,
+          "query": "tag:ManhattanProject::C2::T1::Imaging::Lab2_Pericardium_and_Heart",
+          "tags": [
+            "ManhattanProject::C2::T1::Imaging::Lab2_Pericardium_and_Heart"
+          ]
         }
       ]
     },
