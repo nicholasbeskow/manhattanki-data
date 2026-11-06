@@ -1311,11 +1311,12 @@
         {
           "label": "Hematopoiesis, Bone Marrow, & Thymus",
           "code": "C2T2L07",
-          "query": "tag:ManhattanProject::C2::T2::L07_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L07_*",
+          "query": "tag:ManhattanProject::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus",
           "tags": [
             "ManhattanProject::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus",
             "AnkiHub_Optional::Manhattanki::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus"
-          ]
+          ],
+          "cards": 194
         },
         {
           "label": "Postlab3: Nasal Cavity & Larynx",
