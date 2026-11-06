@@ -1316,7 +1316,17 @@
             "ManhattanProject::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus",
             "AnkiHub_Optional::Manhattanki::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus"
           ],
-          "cards": 194
+          "cards": 194,
+          "links": [
+            {
+              "label": "Lecture recording (2024)",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82eb74df-58fe-4859-8aa0-b20900de15c6"
+            },
+            {
+              "label": "Virtual microscopy EL recording (2024)",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89770cda-5b7c-4e02-a3a4-b20900de34be"
+            }
+          ]
         },
         {
           "label": "Postlab3: Nasal Cavity & Larynx",
