@@ -1237,6 +1237,27 @@
           1793979715991
         ]
       }
+    },
+    {
+      "id": "2026-11-08-c2t2-l08-fishbone-correction",
+      "published": "2026-11-08T21:47:34Z",
+      "title": "C2T2L08: Crofton fishbone correction",
+      "summary": "Crofton corrected the postlab: a fishbone in the piriform recess injures the internal laryngeal nerve, not the RLN. One new card.",
+      "lectures": [
+        "C2T2L08"
+      ],
+      "items": {
+        "new": [
+          1794174363678
+        ],
+        "edited": [
+          1794172526640
+        ]
+      },
+      "lecture_of": {
+        "1794174363678": "C2T2L08",
+        "1794172526640": "C2T2L08"
+      }
     }
   ]
 }
