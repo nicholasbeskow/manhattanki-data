@@ -1316,7 +1316,7 @@
             "ManhattanProject::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus",
             "AnkiHub_Optional::Manhattanki::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus"
           ],
-          "cards": 194,
+          "cards": 187,
           "links": [
             {
               "label": "Lecture recording (2024)",
@@ -1331,11 +1331,12 @@
         {
           "label": "Postlab3: Nasal Cavity & Larynx",
           "code": "C2T2L08",
-          "query": "tag:ManhattanProject::C2::T2::L08_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L08_*",
+          "query": "tag:ManhattanProject::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx",
           "tags": [
-            "ManhattanProject::C2::T2::L08_Postlab3_Nasal_Cavity_and_Larynx",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L08_Postlab3_Nasal_Cavity_and_Larynx"
-          ]
+            "ManhattanProject::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx"
+          ],
+          "cards": 77
         },
         {
           "label": "Prelab4: Pleura & Lungs",
