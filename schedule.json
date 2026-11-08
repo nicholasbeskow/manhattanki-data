@@ -1343,17 +1343,19 @@
         {
           "label": "Prelab4: Pleura & Lungs",
           "code": "C2T2L09",
-          "query": "tag:ManhattanProject::C2::T2::L09_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L09_*",
+          "query": "tag:ManhattanProject::C2::T2::L09_Prelab_Pleura_and_Lungs OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L09_Prelab_Pleura_and_Lungs OR tag:AnkiHub_Optional::ManhattankiBL::C2::T2::L09_Prelab_Pleura_and_Lungs",
           "tags": [
-            "ManhattanProject::C2::T2::L09_Prelab4_Pleura_and_Lungs",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L09_Prelab4_Pleura_and_Lungs"
+            "ManhattanProject::C2::T2::L09_Prelab_Pleura_and_Lungs",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L09_Prelab_Pleura_and_Lungs",
+            "AnkiHub_Optional::ManhattankiBL::C2::T2::L09_Prelab_Pleura_and_Lungs"
           ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c743730-5205-40f3-9681-b4fa0161845e"
             }
-          ]
+          ],
+          "cards": 141
         }
       ]
     },
