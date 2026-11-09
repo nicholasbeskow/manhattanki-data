@@ -1258,6 +1258,26 @@
         "1794174363678": "C2T2L08",
         "1794172526640": "C2T2L08"
       }
+    },
+    {
+      "id": "2026-11-09-c2t2-wk1review-coverage",
+      "published": "2026-11-09T15:55:28Z",
+      "title": "Week 1 SGT coverage add-ons (L03, L07)",
+      "summary": "Two new cards from the C2T2 Week 1 review SGT check: sites without lymphatics (L03) and the erythroid maturation order (L07).",
+      "lectures": [
+        "C2T2L03",
+        "C2T2L07"
+      ],
+      "lecture_of": {
+        "1794239707514": "C2T2L03",
+        "1794239707516": "C2T2L07"
+      },
+      "items": {
+        "new": [
+          1794239707514,
+          1794239707516
+        ]
+      }
     }
   ]
 }
