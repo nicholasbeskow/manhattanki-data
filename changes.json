@@ -1278,6 +1278,44 @@
           1794239707516
         ]
       }
+    },
+    {
+      "id": "2026-11-09-c2t2-bluelink-gapfill",
+      "published": "2026-11-09T18:52:04Z",
+      "title": "BlueLink gap fill: structure-list photos (L04, L09)",
+      "summary": "After a photo-by-photo BlueLink audit: 8 new image-occlusion cards made from BlueLink photos in the class deck's C2 practical tag (cribriform plate, ethmoid bone x2, sphenoid bone x2, thyroid cartilage, cricothyroid m. for L04; tracheal cartilages for L09), plus 2 BlueLink-deck cards added to L09 (thymic fat, left-lung pulmonary vv.).",
+      "lectures": [
+        "C2T2L04",
+        "C2T2L09"
+      ],
+      "lecture_of": {
+        "1794250043711": "C2T2L04",
+        "1794250043799": "C2T2L04",
+        "1794250043884": "C2T2L04",
+        "1794250043931": "C2T2L04",
+        "1794250043981": "C2T2L04",
+        "1794250044039": "C2T2L04",
+        "1794250044118": "C2T2L04",
+        "1794250044523": "C2T2L09",
+        "1586742697441": "C2T2L09",
+        "1586738971205": "C2T2L09"
+      },
+      "items": {
+        "new": [
+          1794250043711,
+          1794250043799,
+          1794250043884,
+          1794250043931,
+          1794250043981,
+          1794250044039,
+          1794250044118,
+          1794250044523
+        ],
+        "tagged": [
+          1586742697441,
+          1586738971205
+        ]
+      }
     }
   ]
 }
