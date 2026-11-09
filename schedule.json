@@ -1365,20 +1365,22 @@
         {
           "label": "Mechanics of Breathing & Lung Volumes",
           "code": "C2T2L10",
-          "query": "tag:ManhattanProject::C2::T2::L10_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L10_*",
+          "query": "tag:ManhattanProject::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes",
           "tags": [
             "ManhattanProject::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes",
             "AnkiHub_Optional::Manhattanki::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes"
-          ]
+          ],
+          "cards": 140
         },
         {
           "label": "Microanatomy of Respiratory System",
           "code": "C2T2L11",
-          "query": "tag:ManhattanProject::C2::T2::L11_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L11_*",
+          "query": "tag:ManhattanProject::C2::T2::L11_Microanatomy_of_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L11_Microanatomy_of_Respiratory_System",
           "tags": [
             "ManhattanProject::C2::T2::L11_Microanatomy_of_Respiratory_System",
             "AnkiHub_Optional::Manhattanki::C2::T2::L11_Microanatomy_of_Respiratory_System"
-          ]
+          ],
+          "cards": 183
         }
       ]
     },
