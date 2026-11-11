@@ -258,12 +258,6 @@
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405",
           "cards": 53,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L01/C1T3L01.apkg"
-            }
-          ],
           "tags": [
             "ManhattanProject::C1::T3::L01_Introduction_to_Microbiology",
             "AnkiHub_Optional::Manhattanki::C1::T3::L01_Introduction_to_Microbiology"
@@ -275,12 +269,6 @@
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409",
           "cards": 121,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L02/C1T3L02.apkg"
-            }
-          ],
           "tags": [
             "ManhattanProject::C1::T3::L02_Bacterial_Pathogenesis",
             "AnkiHub_Optional::Manhattanki::C1::T3::L02_Bacterial_Pathogenesis"
@@ -292,12 +280,6 @@
           "instructor": "Pross",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511",
           "cards": 86,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L03/C1T3L03.apkg"
-            }
-          ],
           "tags": [
             "ManhattanProject::C1::T3::L03_Bacterial_Flora_and_Pathogenesis",
             "AnkiHub_Optional::Manhattanki::C1::T3::L03_Bacterial_Flora_and_Pathogenesis"
@@ -325,12 +307,6 @@
           "instructor": "Anderson",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407",
           "cards": 62,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L05/C1T3L05.apkg"
-            }
-          ],
           "tags": [
             "ManhattanProject::C1::T3::L05_High-Impact_Bacterial_Infections",
             "AnkiHub_Optional::Manhattanki::C1::T3::L05_High-Impact_Bacterial_Infections"
@@ -342,12 +318,6 @@
           "instructor": "Pross",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043547",
           "cards": 99,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L06/C1T3L06.apkg"
-            }
-          ],
           "tags": [
             "ManhattanProject::C1::T3::L06_Introduction_to_Immunology_and_Innate_Immune_System",
             "AnkiHub_Optional::Manhattanki::C1::T3::L06_Introduction_to_Immunology_and_Innate_Immune_System"
@@ -359,12 +329,6 @@
           "instructor": "Mohapatra",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397",
           "cards": 82,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L07/C1T3L07.apkg"
-            }
-          ],
           "tags": [
             "ManhattanProject::C1::T3::L07_Adaptive_Immunity",
             "AnkiHub_Optional::Manhattanki::C1::T3::L07_Adaptive_Immunity"
@@ -376,12 +340,6 @@
           "instructor": "Wiranowska",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48051943",
           "cards": 51,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L08/C1T3L08.apkg"
-            }
-          ],
           "tags": [
             "ManhattanProject::C1::T3::L08_Lymph_Nodes_and_Lymphatic_System",
             "AnkiHub_Optional::Manhattanki::C1::T3::L08_Lymph_Nodes_and_Lymphatic_System"
@@ -402,12 +360,6 @@
           "code": "C1T3L09",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001",
           "cards": 70,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L09/C1T3L09.apkg"
-            }
-          ],
           "tags": [
             "ManhattanProject::C1::T3::L09_MHC_and_Antigen_Presentation",
             "AnkiHub_Optional::Manhattanki::C1::T3::L09_MHC_and_Antigen_Presentation"
@@ -419,12 +371,6 @@
           "instructor": "Pross",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059975",
           "cards": 112,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L10/C1T3L10.apkg"
-            }
-          ],
           "tags": [
             "ManhattanProject::C1::T3::L10_Cytokines_and_Complement",
             "AnkiHub_Optional::Manhattanki::C1::T3::L10_Cytokines_and_Complement"
@@ -441,12 +387,6 @@
           "instructor": "Teng",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083121",
           "cards": 74,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://github.com/nicholasbeskow/manhattanki-data/releases/download/deck-C1T3L11/C1T3L11.apkg"
-            }
-          ],
           "tags": [
             "ManhattanProject::C1::T3::L11_Introduction_to_Virology_and_Viral_Pathogenesis",
             "AnkiHub_Optional::Manhattanki::C1::T3::L11_Introduction_to_Virology_and_Viral_Pathogenesis"
