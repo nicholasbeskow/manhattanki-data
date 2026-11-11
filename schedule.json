@@ -1391,6 +1391,7 @@
         {
           "label": "Clinical Heart Sounds",
           "code": "C2T2L14",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48587961",
           "query": "tag:ManhattanProject::C2::T2::L14_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L14_*",
           "tags": [
             "ManhattanProject::C2::T2::L14_Clinical_Heart_Sounds",
