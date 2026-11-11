@@ -726,34 +726,34 @@
           "label": "Plasma Proteins",
           "code": "C2T1L05",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333539",
+          "cards": 72,
           "query": "tag:ManhattanProject::C2::T1::L05_Plasma_Proteins_Updated OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L05_Plasma_Proteins_Updated",
           "tags": [
             "ManhattanProject::C2::T1::L05_Plasma_Proteins_Updated",
             "AnkiHub_Optional::Manhattanki::C2::T1::L05_Plasma_Proteins_Updated"
-          ],
-          "cards": 72
+          ]
         },
         {
           "label": "Hemoglobin: O2 & CO2 Carrying Properties",
           "code": "C2T1L06",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333605",
+          "cards": 99,
           "query": "tag:ManhattanProject::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties",
           "tags": [
             "ManhattanProject::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties",
             "AnkiHub_Optional::Manhattanki::C2::T1::L06_Hemoglobin_O2_and_CO2_Carrying_Properties"
-          ],
-          "cards": 99
+          ]
         },
         {
           "label": "Cellular Elements of Blood",
           "code": "C2T1L07",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48334505",
+          "cards": 165,
           "query": "tag:ManhattanProject::C2::T1::L07_Cellular_Elements_of_Blood OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L07_Cellular_Elements_of_Blood",
           "tags": [
             "ManhattanProject::C2::T1::L07_Cellular_Elements_of_Blood",
             "AnkiHub_Optional::Manhattanki::C2::T1::L07_Cellular_Elements_of_Blood"
-          ],
-          "cards": 165
+          ]
         }
       ]
     },
@@ -763,32 +763,35 @@
         {
           "label": "Hemostasis & Thrombosis",
           "code": "C2T1L08",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48356947",
+          "cards": 158,
           "query": "tag:ManhattanProject::C2::T1::L08_Hemostasis_and_Thrombosis OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L08_Hemostasis_and_Thrombosis",
           "tags": [
             "ManhattanProject::C2::T1::L08_Hemostasis_and_Thrombosis",
             "AnkiHub_Optional::Manhattanki::C2::T1::L08_Hemostasis_and_Thrombosis"
-          ],
-          "cards": 158
+          ]
         },
         {
           "label": "Autonomic Innervation of Thoracic Organs",
           "code": "C2T1L09",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48353257",
+          "cards": 77,
           "query": "tag:ManhattanProject::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs",
           "tags": [
             "ManhattanProject::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs",
             "AnkiHub_Optional::Manhattanki::C2::T1::L09_Autonomic_Innervation_of_Thoracic_Organs"
-          ],
-          "cards": 77
+          ]
         },
         {
           "label": "Postlab1: Thoracic Wall",
           "code": "C2T1L10",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48353493",
+          "cards": 56,
           "query": "tag:ManhattanProject::C2::T1::L10_Postlab_Thoracic_Wall OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L10_Postlab_Thoracic_Wall",
           "tags": [
             "ManhattanProject::C2::T1::L10_Postlab_Thoracic_Wall",
             "AnkiHub_Optional::Manhattanki::C2::T1::L10_Postlab_Thoracic_Wall"
-          ],
-          "cards": 56
+          ]
         }
       ]
     },
@@ -797,22 +800,23 @@
       "lectures": [
         {
           "label": "Fundamental Concepts of Study Design I (Diagnosis)",
+          "cards": 47,
+          "query": "tag:ManhattanProject::EBCR::L01_Study_Design_I_Diagnosis OR tag:AnkiHub_Optional::Manhattanki::EBCR::L01_Study_Design_I_Diagnosis",
           "tags": [
             "ManhattanProject::EBCR::L01_Study_Design_I_Diagnosis",
             "AnkiHub_Optional::Manhattanki::EBCR::L01_Study_Design_I_Diagnosis"
-          ],
-          "query": "tag:ManhattanProject::EBCR::L01_Study_Design_I_Diagnosis OR tag:AnkiHub_Optional::Manhattanki::EBCR::L01_Study_Design_I_Diagnosis",
-          "cards": 47
+          ]
         },
         {
           "label": "Eicosanoids",
           "code": "C2T1L11",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48367963",
+          "cards": 54,
           "query": "tag:ManhattanProject::C2::T1::L11_Eicosanoids OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L11_Eicosanoids",
           "tags": [
             "ManhattanProject::C2::T1::L11_Eicosanoids",
             "AnkiHub_Optional::Manhattanki::C2::T1::L11_Eicosanoids"
-          ],
-          "cards": 54
+          ]
         }
       ]
     },
@@ -823,23 +827,24 @@
           "label": "Coagulation & Platelet Disorders",
           "code": "C2T1L12",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48155535",
+          "cards": 171,
           "query": "tag:ManhattanProject::C2::T1::L12_Coagulation_and_Platelet_Disorders OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L12_Coagulation_and_Platelet_Disorders",
           "tags": [
             "ManhattanProject::C2::T1::L12_Coagulation_and_Platelet_Disorders",
             "AnkiHub_Optional::Manhattanki::C2::T1::L12_Coagulation_and_Platelet_Disorders"
-          ],
-          "cards": 171
+          ]
         },
         {
           "label": "Prelab2: Pericardium & Heart",
           "code": "C2T1L13",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48368687",
+          "cards": 280,
           "query": "tag:ManhattanProject::C2::T1::L13_Prelab_Pericardium_and_Heart OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L13_Prelab_Pericardium_and_Heart OR tag:AnkiHub_Optional::ManhattankiBL::C2::T1::L13_Prelab_Pericardium_and_Heart",
           "tags": [
             "ManhattanProject::C2::T1::L13_Prelab_Pericardium_and_Heart",
             "AnkiHub_Optional::Manhattanki::C2::T1::L13_Prelab_Pericardium_and_Heart",
             "AnkiHub_Optional::ManhattankiBL::C2::T1::L13_Prelab_Pericardium_and_Heart"
-          ],
-          "cards": 280
+          ]
         }
       ]
     },
@@ -849,23 +854,24 @@
         {
           "label": "Biomechanical Properties of Arteries/Veins & Determinants of Blood Pressure",
           "code": "C2T1L14",
-          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48320881",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48401825",
+          "cards": 58,
           "query": "tag:ManhattanProject::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure",
           "tags": [
             "ManhattanProject::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure",
             "AnkiHub_Optional::Manhattanki::C2::T1::L14_Biomechanical_Properties_of_Arteries_Veins_and_Determinants_of_Blood_Pressure"
-          ],
-          "cards": 58
+          ]
         },
         {
           "label": "Microanatomy of CV System",
           "code": "C2T1L15",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48394249",
+          "cards": 135,
           "query": "tag:ManhattanProject::C2::T1::L15_Microanatomy_of_CV_System OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L15_Microanatomy_of_CV_System",
           "tags": [
             "ManhattanProject::C2::T1::L15_Microanatomy_of_CV_System",
             "AnkiHub_Optional::Manhattanki::C2::T1::L15_Microanatomy_of_CV_System"
-          ],
-          "cards": 135
+          ]
         }
       ]
     },
@@ -875,32 +881,35 @@
         {
           "label": "Cardiac Imaging",
           "code": "C2T1L16",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48413631",
+          "cards": 67,
           "query": "tag:ManhattanProject::C2::T1::L16_Cardiac_Imaging OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L16_Cardiac_Imaging",
           "tags": [
             "ManhattanProject::C2::T1::L16_Cardiac_Imaging",
             "AnkiHub_Optional::Manhattanki::C2::T1::L16_Cardiac_Imaging"
-          ],
-          "cards": 67
+          ]
         },
         {
           "label": "Autonomic Regulation of CV System",
           "code": "C2T1L17",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48397121",
+          "cards": 49,
           "query": "tag:ManhattanProject::C2::T1::L17_Autonomic_Regulation_of_CV_System OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L17_Autonomic_Regulation_of_CV_System",
           "tags": [
             "ManhattanProject::C2::T1::L17_Autonomic_Regulation_of_CV_System",
             "AnkiHub_Optional::Manhattanki::C2::T1::L17_Autonomic_Regulation_of_CV_System"
-          ],
-          "cards": 49
+          ]
         },
         {
           "label": "Iron & Heme Metabolism",
           "code": "C2T1L18",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48401313",
+          "cards": 139,
           "query": "tag:ManhattanProject::C2::T1::L18_Iron_and_Heme_Metabolism OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L18_Iron_and_Heme_Metabolism",
           "tags": [
             "ManhattanProject::C2::T1::L18_Iron_and_Heme_Metabolism",
             "AnkiHub_Optional::Manhattanki::C2::T1::L18_Iron_and_Heme_Metabolism"
-          ],
-          "cards": 139
+          ]
         }
       ]
     },
@@ -910,32 +919,35 @@
         {
           "label": "Autoregulation & Neural Control of Blood Flow",
           "code": "C2T1L19",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48120323",
+          "cards": 55,
           "query": "tag:ManhattanProject::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow",
           "tags": [
             "ManhattanProject::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L19_Autoregulation_and_Neural_Control_of_Blood_Flow"
-          ],
-          "cards": 55
+          ]
         },
         {
           "label": "Regulation of Coronary Blood Flow",
           "code": "C2T1L20",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48120367",
+          "cards": 51,
           "query": "tag:ManhattanProject::C2::T1::L20_Regulation_of_Coronary_Blood_Flow OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L20_Regulation_of_Coronary_Blood_Flow",
           "tags": [
             "ManhattanProject::C2::T1::L20_Regulation_of_Coronary_Blood_Flow",
             "AnkiHub_Optional::Manhattanki::C2::T1::L20_Regulation_of_Coronary_Blood_Flow"
-          ],
-          "cards": 51
+          ]
         },
         {
           "label": "Cardiac Electrophysiology",
           "code": "C2T1L21",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48410913",
+          "cards": 88,
           "query": "tag:ManhattanProject::C2::T1::L21_Cardiac_Electrophysiology OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L21_Cardiac_Electrophysiology",
           "tags": [
             "ManhattanProject::C2::T1::L21_Cardiac_Electrophysiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L21_Cardiac_Electrophysiology"
-          ],
-          "cards": 88
+          ]
         }
       ]
     },
@@ -944,12 +956,12 @@
       "lectures": [
         {
           "label": "Fundamental Concepts of Study Design II (Prognosis)",
+          "cards": 22,
+          "query": "tag:ManhattanProject::EBCR::L02_Study_Design_II_Prognosis OR tag:AnkiHub_Optional::Manhattanki::EBCR::L02_Study_Design_II_Prognosis",
           "tags": [
             "ManhattanProject::EBCR::L02_Study_Design_II_Prognosis",
             "AnkiHub_Optional::Manhattanki::EBCR::L02_Study_Design_II_Prognosis"
-          ],
-          "query": "tag:ManhattanProject::EBCR::L02_Study_Design_II_Prognosis OR tag:AnkiHub_Optional::Manhattanki::EBCR::L02_Study_Design_II_Prognosis",
-          "cards": 22
+          ]
         }
       ]
     },
@@ -959,42 +971,46 @@
         {
           "label": "Cardiac Muscle Physiology",
           "code": "C2T1L22",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48430267",
+          "cards": 54,
           "query": "tag:ManhattanProject::C2::T1::L22_Cardiac_Muscle_Physiology OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L22_Cardiac_Muscle_Physiology",
           "tags": [
             "ManhattanProject::C2::T1::L22_Cardiac_Muscle_Physiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L22_Cardiac_Muscle_Physiology"
-          ],
-          "cards": 54
+          ]
         },
         {
           "label": "The Cardiac Cycle",
           "code": "C2T1L23",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48430265",
+          "cards": 75,
           "query": "tag:ManhattanProject::C2::T1::L23_The_Cardiac_Cycle OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L23_The_Cardiac_Cycle",
           "tags": [
             "ManhattanProject::C2::T1::L23_The_Cardiac_Cycle",
             "AnkiHub_Optional::Manhattanki::C2::T1::L23_The_Cardiac_Cycle"
-          ],
-          "cards": 75
+          ]
         },
         {
           "label": "Postlab2: Pericardium & Heart",
           "code": "C2T1L24",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48428555",
+          "cards": 56,
           "query": "tag:ManhattanProject::C2::T1::L24_Postlab_Pericardium_and_Heart OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L24_Postlab_Pericardium_and_Heart",
           "tags": [
             "ManhattanProject::C2::T1::L24_Postlab_Pericardium_and_Heart",
             "AnkiHub_Optional::Manhattanki::C2::T1::L24_Postlab_Pericardium_and_Heart"
-          ],
-          "cards": 56
+          ]
         },
         {
           "label": "Clinical ECG",
           "code": "C2T1L25",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48430565",
+          "cards": 79,
           "query": "tag:ManhattanProject::C2::T1::L25_Clinical_ECG OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L25_Clinical_ECG",
           "tags": [
             "ManhattanProject::C2::T1::L25_Clinical_ECG",
             "AnkiHub_Optional::Manhattanki::C2::T1::L25_Clinical_ECG"
-          ],
-          "cards": 79
+          ]
         }
       ]
     },
@@ -1004,32 +1020,35 @@
         {
           "label": "EL: Sickle Cell Disease",
           "code": "C2T1L26",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48443455",
+          "cards": 63,
           "query": "tag:ManhattanProject::C2::T1::L26_Sickle_Cell_Disease OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L26_Sickle_Cell_Disease",
           "tags": [
             "ManhattanProject::C2::T1::L26_Sickle_Cell_Disease",
             "AnkiHub_Optional::Manhattanki::C2::T1::L26_Sickle_Cell_Disease"
-          ],
-          "cards": 63
+          ]
         },
         {
           "label": "Baroreceptor & Chemoreceptor Regulation",
           "code": "C2T1L27",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48440813",
+          "cards": 45,
           "query": "tag:ManhattanProject::C2::T1::L27_Baroreceptor_and_Chemoreceptor_Regulation OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L27_Baroreceptor_and_Chemoreceptor_Regulation",
           "tags": [
             "ManhattanProject::C2::T1::L27_Baroreceptor_and_Chemoreceptor_Regulation",
             "AnkiHub_Optional::Manhattanki::C2::T1::L27_Baroreceptor_and_Chemoreceptor_Regulation"
-          ],
-          "cards": 45
+          ]
         },
         {
           "label": "Development of Cardiovascular System",
           "code": "C2T1L28",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48362745",
+          "cards": 112,
           "query": "tag:ManhattanProject::C2::T1::L28_Development_of_Cardiovascular_System OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L28_Development_of_Cardiovascular_System",
           "tags": [
             "ManhattanProject::C2::T1::L28_Development_of_Cardiovascular_System",
             "AnkiHub_Optional::Manhattanki::C2::T1::L28_Development_of_Cardiovascular_System"
-          ],
-          "cards": 112
+          ]
         }
       ]
     },
@@ -1039,22 +1058,24 @@
         {
           "label": "EL: Syncope & Orthostatic Hypotension",
           "code": "C2T1L29",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48449141",
+          "cards": 25,
           "query": "tag:ManhattanProject::C2::T1::L29_Syncope_and_Orthostatic_Hypotension OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L29_Syncope_and_Orthostatic_Hypotension",
           "tags": [
             "ManhattanProject::C2::T1::L29_Syncope_and_Orthostatic_Hypotension",
             "AnkiHub_Optional::Manhattanki::C2::T1::L29_Syncope_and_Orthostatic_Hypotension"
-          ],
-          "cards": 25
+          ]
         },
         {
           "label": "EL: Regulation of Cardiac Output",
           "code": "C2T1L30",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48449175",
+          "cards": 40,
           "query": "tag:ManhattanProject::C2::T1::L30_Regulation_of_Cardiac_Output OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L30_Regulation_of_Cardiac_Output",
           "tags": [
             "ManhattanProject::C2::T1::L30_Regulation_of_Cardiac_Output",
             "AnkiHub_Optional::Manhattanki::C2::T1::L30_Regulation_of_Cardiac_Output"
-          ],
-          "cards": 40
+          ]
         }
       ]
     },
@@ -1064,22 +1085,23 @@
         {
           "label": "EL: Circulation Physiology",
           "code": "C2T1L31",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48405991",
+          "cards": 45,
           "query": "tag:ManhattanProject::C2::T1::L31_Circulation_Physiology OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L31_Circulation_Physiology",
           "tags": [
             "ManhattanProject::C2::T1::L31_Circulation_Physiology",
             "AnkiHub_Optional::Manhattanki::C2::T1::L31_Circulation_Physiology"
-          ],
-          "cards": 45
+          ]
         },
         {
           "label": "EL: Development of Cardiovascular System",
           "code": "C2T1L32",
+          "cards": 76,
           "query": "tag:ManhattanProject::C2::T1::L32_Development_of_Cardiovascular_System OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L32_Development_of_Cardiovascular_System",
           "tags": [
             "ManhattanProject::C2::T1::L32_Development_of_Cardiovascular_System",
             "AnkiHub_Optional::Manhattanki::C2::T1::L32_Development_of_Cardiovascular_System"
-          ],
-          "cards": 76
+          ]
         }
       ]
     },
@@ -1088,12 +1110,12 @@
       "lectures": [
         {
           "label": "Fundamental Concepts of Study Design IIIa (Therapy)",
+          "cards": 26,
+          "query": "tag:ManhattanProject::EBCR::L03_Study_Design_IIIa_Therapy OR tag:AnkiHub_Optional::Manhattanki::EBCR::L03_Study_Design_IIIa_Therapy",
           "tags": [
             "ManhattanProject::EBCR::L03_Study_Design_IIIa_Therapy",
             "AnkiHub_Optional::Manhattanki::EBCR::L03_Study_Design_IIIa_Therapy"
-          ],
-          "query": "tag:ManhattanProject::EBCR::L03_Study_Design_IIIa_Therapy OR tag:AnkiHub_Optional::Manhattanki::EBCR::L03_Study_Design_IIIa_Therapy",
-          "cards": 26
+          ]
         }
       ]
     },
@@ -1103,66 +1125,70 @@
         {
           "label": "Overview of Pulmonary System",
           "code": "C2T2L01",
-          "query": "tag:ManhattanProject::C2::T2::L01_Overview_of_Pulmonary_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L01_Overview_of_Pulmonary_System",
-          "tags": [
-            "ManhattanProject::C2::T2::L01_Overview_of_Pulmonary_System",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L01_Overview_of_Pulmonary_System"
-          ],
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48502193",
           "cards": 49,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ff7ad19-2952-465c-aeb9-b4e100e4b924"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L01_Overview_of_Pulmonary_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L01_Overview_of_Pulmonary_System",
+          "tags": [
+            "ManhattanProject::C2::T2::L01_Overview_of_Pulmonary_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L01_Overview_of_Pulmonary_System"
           ]
         },
         {
           "label": "Autonomic Regulation of the Respiratory System",
           "code": "C2T2L02",
-          "query": "tag:ManhattanProject::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System",
-          "tags": [
-            "ManhattanProject::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System"
-          ],
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48502219",
           "cards": 33,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d82583f-3080-4730-a25b-b4e100e4d052"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System",
+          "tags": [
+            "ManhattanProject::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L02_Autonomic_Regulation_of_the_Respiratory_System"
           ]
         },
         {
           "label": "Overview of Lymphatic System",
           "code": "C2T2L03",
-          "query": "tag:ManhattanProject::C2::T2::L03_Overview_of_the_Lymphatic_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L03_Overview_of_the_Lymphatic_System",
-          "tags": [
-            "ManhattanProject::C2::T2::L03_Overview_of_the_Lymphatic_System",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L03_Overview_of_the_Lymphatic_System"
-          ],
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48508003",
           "cards": 72,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6c337cf-08f0-4ded-931e-b4e100e4f60f"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L03_Overview_of_the_Lymphatic_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L03_Overview_of_the_Lymphatic_System",
+          "tags": [
+            "ManhattanProject::C2::T2::L03_Overview_of_the_Lymphatic_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L03_Overview_of_the_Lymphatic_System"
           ]
         },
         {
           "label": "Prelab3: Nasal Cavity & Larynx",
           "code": "C2T2L04",
-          "query": "tag:ManhattanProject::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx OR tag:AnkiHub_Optional::ManhattankiBL::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx",
-          "tags": [
-            "ManhattanProject::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx",
-            "AnkiHub_Optional::ManhattankiBL::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx"
-          ],
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48508853",
           "cards": 193,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94a52dab-568b-470c-9d48-b4e100e50c9a"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx OR tag:AnkiHub_Optional::ManhattankiBL::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx",
+          "tags": [
+            "ManhattanProject::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx",
+            "AnkiHub_Optional::ManhattankiBL::C2::T2::L04_Prelab_Nasal_Cavity_and_Larynx"
           ]
         }
       ]
@@ -1173,33 +1199,35 @@
         {
           "label": "Microanatomy of Lymphoid Tissues & Organs",
           "code": "C2T2L05",
-          "query": "tag:ManhattanProject::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs",
-          "tags": [
-            "ManhattanProject::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs"
-          ],
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48509747",
           "cards": 134,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bba6ffd3-457a-4162-a9a7-b4e100e58195"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs",
+          "tags": [
+            "ManhattanProject::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L05_Microanatomy_of_Lymphoid_Tissues_and_Organs"
           ]
         },
         {
           "label": "Microcirculation",
           "code": "C2T2L06",
-          "query": "tag:ManhattanProject::C2::T2::L06_Microcirculation OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L06_Microcirculation",
-          "tags": [
-            "ManhattanProject::C2::T2::L06_Microcirculation",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L06_Microcirculation"
-          ],
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48509267",
           "cards": 66,
           "links": [
             {
               "label": "Lecture recording (2025)",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb9fe671-ffa7-4433-afbd-b4f6015329b2"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L06_Microcirculation OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L06_Microcirculation",
+          "tags": [
+            "ManhattanProject::C2::T2::L06_Microcirculation",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L06_Microcirculation"
           ]
         },
         {
@@ -1218,12 +1246,12 @@
       "lectures": [
         {
           "label": "Fundamental Concepts of Study Design IIIb (Therapy)",
+          "cards": 39,
+          "query": "tag:ManhattanProject::EBCR::L04_Study_Design_IIIb_Therapy OR tag:AnkiHub_Optional::Manhattanki::EBCR::L04_Study_Design_IIIb_Therapy",
           "tags": [
             "ManhattanProject::EBCR::L04_Study_Design_IIIb_Therapy",
             "AnkiHub_Optional::Manhattanki::EBCR::L04_Study_Design_IIIb_Therapy"
-          ],
-          "query": "tag:ManhattanProject::EBCR::L04_Study_Design_IIIb_Therapy OR tag:AnkiHub_Optional::Manhattanki::EBCR::L04_Study_Design_IIIb_Therapy",
-          "cards": 39
+          ]
         },
         {
           "label": "Imaging: Lab 1 (Thoracic Wall)",
@@ -1251,51 +1279,54 @@
         {
           "label": "Hematopoiesis, Bone Marrow, & Thymus",
           "code": "C2T2L07",
-          "query": "tag:ManhattanProject::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus",
-          "tags": [
-            "ManhattanProject::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus"
-          ],
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48532711",
           "cards": 188,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aeb4f3ab-dcd2-4952-9df7-b4fa01618454"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus",
+          "tags": [
+            "ManhattanProject::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L07_Hematopoiesis_Bone_Marrow_and_Thymus"
           ]
         },
         {
           "label": "Postlab3: Nasal Cavity & Larynx",
           "code": "C2T2L08",
-          "query": "tag:ManhattanProject::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx",
-          "tags": [
-            "ManhattanProject::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx"
-          ],
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48536451",
           "cards": 79,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26693bdd-9b5f-42de-98c0-b4fa0161845b"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx",
+          "tags": [
+            "ManhattanProject::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L08_Postlab_Nasal_Cavity_and_Larynx"
           ]
         },
         {
           "label": "Prelab4: Pleura & Lungs",
           "code": "C2T2L09",
-          "query": "tag:ManhattanProject::C2::T2::L09_Prelab_Pleura_and_Lungs OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L09_Prelab_Pleura_and_Lungs OR tag:AnkiHub_Optional::ManhattankiBL::C2::T2::L09_Prelab_Pleura_and_Lungs",
-          "tags": [
-            "ManhattanProject::C2::T2::L09_Prelab_Pleura_and_Lungs",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L09_Prelab_Pleura_and_Lungs",
-            "AnkiHub_Optional::ManhattankiBL::C2::T2::L09_Prelab_Pleura_and_Lungs"
-          ],
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48536207",
+          "cards": 144,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c743730-5205-40f3-9681-b4fa0161845e"
             }
           ],
-          "cards": 144
+          "query": "tag:ManhattanProject::C2::T2::L09_Prelab_Pleura_and_Lungs OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L09_Prelab_Pleura_and_Lungs OR tag:AnkiHub_Optional::ManhattankiBL::C2::T2::L09_Prelab_Pleura_and_Lungs",
+          "tags": [
+            "ManhattanProject::C2::T2::L09_Prelab_Pleura_and_Lungs",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L09_Prelab_Pleura_and_Lungs",
+            "AnkiHub_Optional::ManhattankiBL::C2::T2::L09_Prelab_Pleura_and_Lungs"
+          ]
         }
       ]
     },
@@ -1305,22 +1336,24 @@
         {
           "label": "Mechanics of Breathing & Lung Volumes",
           "code": "C2T2L10",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48562393",
+          "cards": 140,
           "query": "tag:ManhattanProject::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes",
           "tags": [
             "ManhattanProject::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes",
             "AnkiHub_Optional::Manhattanki::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes"
-          ],
-          "cards": 140
+          ]
         },
         {
           "label": "Microanatomy of Respiratory System",
           "code": "C2T2L11",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48557675",
+          "cards": 183,
           "query": "tag:ManhattanProject::C2::T2::L11_Microanatomy_of_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L11_Microanatomy_of_Respiratory_System",
           "tags": [
             "ManhattanProject::C2::T2::L11_Microanatomy_of_Respiratory_System",
             "AnkiHub_Optional::Manhattanki::C2::T2::L11_Microanatomy_of_Respiratory_System"
-          ],
-          "cards": 183
+          ]
         }
       ]
     },
@@ -1338,6 +1371,7 @@
         {
           "label": "Lung Ventilation",
           "code": "C2T2L12",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48550945",
           "query": "tag:ManhattanProject::C2::T2::L12_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L12_*",
           "tags": [
             "ManhattanProject::C2::T2::L12_Lung_Ventilation",
@@ -1347,6 +1381,7 @@
         {
           "label": "Postlab4: Pleura & Lungs",
           "code": "C2T2L13",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48550573",
           "query": "tag:ManhattanProject::C2::T2::L13_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L13_*",
           "tags": [
             "ManhattanProject::C2::T2::L13_Postlab4_Pleura_and_Lungs",
@@ -1379,6 +1414,7 @@
         {
           "label": "Development of Respiratory System",
           "code": "C2T2L16",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48440739",
           "query": "tag:ManhattanProject::C2::T2::L16_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L16_*",
           "tags": [
             "ManhattanProject::C2::T2::L16_Development_of_Respiratory_System",
@@ -1402,6 +1438,7 @@
         {
           "label": "EL: Development of Respiratory System",
           "code": "C2T2L18",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48440743",
           "query": "tag:ManhattanProject::C2::T2::L18_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L18_*",
           "tags": [
             "ManhattanProject::C2::T2::L18_Development_of_Respiratory_System",
@@ -1411,6 +1448,7 @@
         {
           "label": "EL: Respiratory Physiology",
           "code": "C2T2L19",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48406489",
           "query": "tag:ManhattanProject::C2::T2::L19_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L19_*",
           "tags": [
             "ManhattanProject::C2::T2::L19_Respiratory_Physiology",
