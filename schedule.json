@@ -1361,7 +1361,13 @@
       "date": "2026-11-12",
       "lectures": [
         {
-          "label": "Principles of Research Synthesis"
+          "label": "Principles of Research Synthesis",
+          "cards": 21,
+          "query": "tag:ManhattanProject::EBCR::L05_Principles_of_Research_Synthesis OR tag:AnkiHub_Optional::Manhattanki::EBCR::L05_Principles_of_Research_Synthesis",
+          "tags": [
+            "ManhattanProject::EBCR::L05_Principles_of_Research_Synthesis",
+            "AnkiHub_Optional::Manhattanki::EBCR::L05_Principles_of_Research_Synthesis"
+          ]
         }
       ]
     },
