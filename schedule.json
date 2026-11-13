@@ -1342,6 +1342,12 @@
           "tags": [
             "ManhattanProject::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes",
             "AnkiHub_Optional::Manhattanki::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes"
+          ],
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=85c1d2e8-9b73-4dcf-ba06-b50100f51a13"
+            }
           ]
         },
         {
@@ -1353,6 +1359,12 @@
           "tags": [
             "ManhattanProject::C2::T2::L11_Microanatomy_of_Respiratory_System",
             "AnkiHub_Optional::Manhattanki::C2::T2::L11_Microanatomy_of_Respiratory_System"
+          ],
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b705be7-68f0-4f66-bb30-b50100f51a19"
+            }
           ]
         }
       ]
