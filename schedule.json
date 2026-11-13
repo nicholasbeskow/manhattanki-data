@@ -1390,31 +1390,34 @@
           "label": "Lung Ventilation",
           "code": "C2T2L12",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48550945",
-          "query": "tag:ManhattanProject::C2::T2::L12_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L12_*",
+          "query": "tag:ManhattanProject::C2::T2::L12_Lung_Ventilation OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L12_Lung_Ventilation",
           "tags": [
             "ManhattanProject::C2::T2::L12_Lung_Ventilation",
             "AnkiHub_Optional::Manhattanki::C2::T2::L12_Lung_Ventilation"
-          ]
+          ],
+          "cards": 95
         },
         {
           "label": "Postlab4: Pleura & Lungs",
           "code": "C2T2L13",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48550573",
-          "query": "tag:ManhattanProject::C2::T2::L13_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L13_*",
+          "query": "tag:ManhattanProject::C2::T2::L13_Postlab_Pleura_and_Lungs OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L13_Postlab_Pleura_and_Lungs",
           "tags": [
-            "ManhattanProject::C2::T2::L13_Postlab4_Pleura_and_Lungs",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L13_Postlab4_Pleura_and_Lungs"
-          ]
+            "ManhattanProject::C2::T2::L13_Postlab_Pleura_and_Lungs",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L13_Postlab_Pleura_and_Lungs"
+          ],
+          "cards": 64
         },
         {
           "label": "Clinical Heart Sounds",
           "code": "C2T2L14",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48587961",
-          "query": "tag:ManhattanProject::C2::T2::L14_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L14_*",
+          "query": "tag:ManhattanProject::C2::T2::L14_Clinical_Heart_Sounds OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L14_Clinical_Heart_Sounds",
           "tags": [
             "ManhattanProject::C2::T2::L14_Clinical_Heart_Sounds",
             "AnkiHub_Optional::Manhattanki::C2::T2::L14_Clinical_Heart_Sounds"
-          ]
+          ],
+          "cards": 105
         }
       ]
     },
