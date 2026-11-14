@@ -1338,16 +1338,16 @@
           "code": "C2T2L10",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48562393",
           "cards": 140,
-          "query": "tag:ManhattanProject::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes",
-          "tags": [
-            "ManhattanProject::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=85c1d2e8-9b73-4dcf-ba06-b50100f51a13"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes",
+          "tags": [
+            "ManhattanProject::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L10_Mechanics_of_Breathing_and_Lung_Volumes"
           ]
         },
         {
@@ -1355,16 +1355,16 @@
           "code": "C2T2L11",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48557675",
           "cards": 183,
-          "query": "tag:ManhattanProject::C2::T2::L11_Microanatomy_of_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L11_Microanatomy_of_Respiratory_System",
-          "tags": [
-            "ManhattanProject::C2::T2::L11_Microanatomy_of_Respiratory_System",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L11_Microanatomy_of_Respiratory_System"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b705be7-68f0-4f66-bb30-b50100f51a19"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L11_Microanatomy_of_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L11_Microanatomy_of_Respiratory_System",
+          "tags": [
+            "ManhattanProject::C2::T2::L11_Microanatomy_of_Respiratory_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L11_Microanatomy_of_Respiratory_System"
           ]
         }
       ]
@@ -1390,51 +1390,51 @@
           "label": "Lung Ventilation",
           "code": "C2T2L12",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48550945",
-          "query": "tag:ManhattanProject::C2::T2::L12_Lung_Ventilation OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L12_Lung_Ventilation",
-          "tags": [
-            "ManhattanProject::C2::T2::L12_Lung_Ventilation",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L12_Lung_Ventilation"
-          ],
           "cards": 95,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=03b4e176-a0b0-4fae-bd4a-b501013616e9"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L12_Lung_Ventilation OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L12_Lung_Ventilation",
+          "tags": [
+            "ManhattanProject::C2::T2::L12_Lung_Ventilation",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L12_Lung_Ventilation"
           ]
         },
         {
           "label": "Postlab4: Pleura & Lungs",
           "code": "C2T2L13",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48550573",
-          "query": "tag:ManhattanProject::C2::T2::L13_Postlab_Pleura_and_Lungs OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L13_Postlab_Pleura_and_Lungs",
-          "tags": [
-            "ManhattanProject::C2::T2::L13_Postlab_Pleura_and_Lungs",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L13_Postlab_Pleura_and_Lungs"
-          ],
           "cards": 64,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47960a59-799e-4059-829d-b501013616eb"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L13_Postlab_Pleura_and_Lungs OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L13_Postlab_Pleura_and_Lungs",
+          "tags": [
+            "ManhattanProject::C2::T2::L13_Postlab_Pleura_and_Lungs",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L13_Postlab_Pleura_and_Lungs"
           ]
         },
         {
           "label": "Clinical Heart Sounds",
           "code": "C2T2L14",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48587961",
-          "query": "tag:ManhattanProject::C2::T2::L14_Clinical_Heart_Sounds OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L14_Clinical_Heart_Sounds",
-          "tags": [
-            "ManhattanProject::C2::T2::L14_Clinical_Heart_Sounds",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L14_Clinical_Heart_Sounds"
-          ],
           "cards": 105,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e00209a9-23bf-4ad5-9899-b501013765d8"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L14_Clinical_Heart_Sounds OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L14_Clinical_Heart_Sounds",
+          "tags": [
+            "ManhattanProject::C2::T2::L14_Clinical_Heart_Sounds",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L14_Clinical_Heart_Sounds"
           ]
         }
       ]
@@ -1445,6 +1445,7 @@
         {
           "label": "Cell Injury & Death",
           "code": "C2T2L15",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48615063",
           "query": "tag:ManhattanProject::C2::T2::L15_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L15_*",
           "tags": [
             "ManhattanProject::C2::T2::L15_Cell_Injury_and_Death",
