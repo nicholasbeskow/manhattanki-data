@@ -1395,7 +1395,13 @@
             "ManhattanProject::C2::T2::L12_Lung_Ventilation",
             "AnkiHub_Optional::Manhattanki::C2::T2::L12_Lung_Ventilation"
           ],
-          "cards": 95
+          "cards": 95,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=03b4e176-a0b0-4fae-bd4a-b501013616e9"
+            }
+          ]
         },
         {
           "label": "Postlab4: Pleura & Lungs",
@@ -1406,7 +1412,13 @@
             "ManhattanProject::C2::T2::L13_Postlab_Pleura_and_Lungs",
             "AnkiHub_Optional::Manhattanki::C2::T2::L13_Postlab_Pleura_and_Lungs"
           ],
-          "cards": 64
+          "cards": 64,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47960a59-799e-4059-829d-b501013616eb"
+            }
+          ]
         },
         {
           "label": "Clinical Heart Sounds",
@@ -1417,7 +1429,13 @@
             "ManhattanProject::C2::T2::L14_Clinical_Heart_Sounds",
             "AnkiHub_Optional::Manhattanki::C2::T2::L14_Clinical_Heart_Sounds"
           ],
-          "cards": 105
+          "cards": 105,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e00209a9-23bf-4ad5-9899-b501013765d8"
+            }
+          ]
         }
       ]
     },
