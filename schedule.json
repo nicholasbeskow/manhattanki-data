@@ -1504,6 +1504,7 @@
         {
           "label": "EL: Cell Injury & Death",
           "code": "C2T2L20",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48629187",
           "query": "tag:ManhattanProject::C2::T2::L20_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L20_*",
           "tags": [
             "ManhattanProject::C2::T2::L20_Cell_Injury_and_Death",
