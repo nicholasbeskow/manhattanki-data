@@ -1316,6 +1316,23 @@
           1586738971205
         ]
       }
+    },
+    {
+      "id": "2026-11-16-c2t2-peer-sgt-coverage",
+      "published": "2026-11-16T15:40:38Z",
+      "title": "Peer SGT check: equal pressure point (L10)",
+      "summary": "Checked the 32 new peer-tutoring SGT questions against the C2T2 cards. One gap: a new L10 card on the equal pressure point (where airway pressure equals intrapleural pressure), which Dr. Dean walked through with numbers.",
+      "lectures": [
+        "C2T2L10"
+      ],
+      "lecture_of": {
+        "1794843620259": "C2T2L10"
+      },
+      "items": {
+        "new": [
+          1794843620259
+        ]
+      }
     }
   ]
 }
