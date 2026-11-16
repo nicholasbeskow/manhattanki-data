@@ -1446,11 +1446,12 @@
           "label": "Cell Injury & Death",
           "code": "C2T2L15",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48615063",
-          "query": "tag:ManhattanProject::C2::T2::L15_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L15_*",
+          "query": "tag:ManhattanProject::C2::T2::L15_Cell_Injury_and_Death OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L15_Cell_Injury_and_Death",
           "tags": [
             "ManhattanProject::C2::T2::L15_Cell_Injury_and_Death",
             "AnkiHub_Optional::Manhattanki::C2::T2::L15_Cell_Injury_and_Death"
-          ]
+          ],
+          "cards": 170
         },
         {
           "label": "Development of Respiratory System",
