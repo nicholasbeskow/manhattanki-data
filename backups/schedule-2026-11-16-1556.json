@@ -1463,11 +1463,12 @@
           "label": "Development of Respiratory System",
           "code": "C2T2L16",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48440739",
-          "query": "tag:ManhattanProject::C2::T2::L16_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L16_*",
+          "query": "tag:ManhattanProject::C2::T2::L16_Development_of_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L16_Development_of_Respiratory_System",
           "tags": [
             "ManhattanProject::C2::T2::L16_Development_of_Respiratory_System",
             "AnkiHub_Optional::Manhattanki::C2::T2::L16_Development_of_Respiratory_System"
-          ]
+          ],
+          "cards": 71
         }
       ]
     },
