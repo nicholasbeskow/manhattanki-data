@@ -1451,7 +1451,13 @@
             "ManhattanProject::C2::T2::L15_Cell_Injury_and_Death",
             "AnkiHub_Optional::Manhattanki::C2::T2::L15_Cell_Injury_and_Death"
           ],
-          "cards": 170
+          "cards": 170,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6594c4b-9656-4c6b-93c2-b4e100e61f68"
+            }
+          ]
         },
         {
           "label": "Development of Respiratory System",
