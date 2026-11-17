@@ -1507,7 +1507,13 @@
             "ManhattanProject::C2::T2::L18_Development_of_Respiratory_System",
             "AnkiHub_Optional::Manhattanki::C2::T2::L18_Development_of_Respiratory_System"
           ],
-          "cards": 23
+          "cards": 23,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84195b5a-88ff-48bf-a77a-b4f1011efa09"
+            }
+          ]
         },
         {
           "label": "EL: Respiratory Physiology",
