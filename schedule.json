@@ -1524,7 +1524,13 @@
             "ManhattanProject::C2::T2::L19_Respiratory_Physiology",
             "AnkiHub_Optional::Manhattanki::C2::T2::L19_Respiratory_Physiology"
           ],
-          "cards": 35
+          "cards": 35,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38d64cbb-9c08-4786-a750-b4f1011f0f69"
+            }
+          ]
         }
       ]
     },

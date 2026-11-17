@@ -1519,11 +1519,12 @@
           "label": "EL: Respiratory Physiology",
           "code": "C2T2L19",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48406489",
-          "query": "tag:ManhattanProject::C2::T2::L19_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L19_*",
+          "query": "tag:ManhattanProject::C2::T2::L19_Respiratory_Physiology OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L19_Respiratory_Physiology",
           "tags": [
             "ManhattanProject::C2::T2::L19_Respiratory_Physiology",
             "AnkiHub_Optional::Manhattanki::C2::T2::L19_Respiratory_Physiology"
-          ]
+          ],
+          "cards": 35
         }
       ]
     },
