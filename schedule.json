@@ -1446,34 +1446,34 @@
           "label": "Cell Injury & Death",
           "code": "C2T2L15",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48615063",
-          "query": "tag:ManhattanProject::C2::T2::L15_Cell_Injury_and_Death OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L15_Cell_Injury_and_Death",
-          "tags": [
-            "ManhattanProject::C2::T2::L15_Cell_Injury_and_Death",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L15_Cell_Injury_and_Death"
-          ],
           "cards": 170,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6594c4b-9656-4c6b-93c2-b4e100e61f68"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L15_Cell_Injury_and_Death OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L15_Cell_Injury_and_Death",
+          "tags": [
+            "ManhattanProject::C2::T2::L15_Cell_Injury_and_Death",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L15_Cell_Injury_and_Death"
           ]
         },
         {
           "label": "Development of Respiratory System",
           "code": "C2T2L16",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48440739",
-          "query": "tag:ManhattanProject::C2::T2::L16_Development_of_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L16_Development_of_Respiratory_System",
-          "tags": [
-            "ManhattanProject::C2::T2::L16_Development_of_Respiratory_System",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L16_Development_of_Respiratory_System"
-          ],
           "cards": 71,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df2d0459-061e-4ea0-a1f5-b4e100e635aa"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L16_Development_of_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L16_Development_of_Respiratory_System",
+          "tags": [
+            "ManhattanProject::C2::T2::L16_Development_of_Respiratory_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L16_Development_of_Respiratory_System"
           ]
         }
       ]
@@ -1484,6 +1484,7 @@
         {
           "label": "Pulmonary Imaging",
           "code": "C2T2L17",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48653625",
           "query": "tag:ManhattanProject::C2::T2::L17_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L17_*",
           "tags": [
             "ManhattanProject::C2::T2::L17_Pulmonary_Imaging",
