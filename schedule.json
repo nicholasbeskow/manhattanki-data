@@ -1485,11 +1485,12 @@
           "label": "Pulmonary Imaging",
           "code": "C2T2L17",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48653625",
-          "query": "tag:ManhattanProject::C2::T2::L17_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L17_*",
+          "query": "tag:ManhattanProject::C2::T2::L17_Pulmonary_Imaging OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L17_Pulmonary_Imaging",
           "tags": [
             "ManhattanProject::C2::T2::L17_Pulmonary_Imaging",
             "AnkiHub_Optional::Manhattanki::C2::T2::L17_Pulmonary_Imaging"
-          ]
+          ],
+          "cards": 63
         },
         {
           "label": "EL: Development of Respiratory System",
