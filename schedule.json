@@ -1541,11 +1541,12 @@
           "label": "EL: Cell Injury & Death",
           "code": "C2T2L20",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48629187",
-          "query": "tag:ManhattanProject::C2::T2::L20_* OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L20_*",
+          "query": "tag:ManhattanProject::C2::T2::L20_Cell_Injury_and_Death OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L20_Cell_Injury_and_Death",
           "tags": [
             "ManhattanProject::C2::T2::L20_Cell_Injury_and_Death",
             "AnkiHub_Optional::Manhattanki::C2::T2::L20_Cell_Injury_and_Death"
-          ]
+          ],
+          "cards": 4
         },
         {
           "label": "VM Lab -- Cell Injury & Death",
