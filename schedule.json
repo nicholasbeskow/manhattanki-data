@@ -1485,51 +1485,51 @@
           "label": "Pulmonary Imaging",
           "code": "C2T2L17",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48653625",
-          "query": "tag:ManhattanProject::C2::T2::L17_Pulmonary_Imaging OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L17_Pulmonary_Imaging",
-          "tags": [
-            "ManhattanProject::C2::T2::L17_Pulmonary_Imaging",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L17_Pulmonary_Imaging"
-          ],
           "cards": 63,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62cfdfbf-040c-4998-8a64-b4e100e65ac0"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L17_Pulmonary_Imaging OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L17_Pulmonary_Imaging",
+          "tags": [
+            "ManhattanProject::C2::T2::L17_Pulmonary_Imaging",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L17_Pulmonary_Imaging"
           ]
         },
         {
           "label": "EL: Development of Respiratory System",
           "code": "C2T2L18",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48440743",
-          "query": "tag:ManhattanProject::C2::T2::L18_Development_of_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L18_Development_of_Respiratory_System",
-          "tags": [
-            "ManhattanProject::C2::T2::L18_Development_of_Respiratory_System",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L18_Development_of_Respiratory_System"
-          ],
           "cards": 23,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84195b5a-88ff-48bf-a77a-b4f1011efa09"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L18_Development_of_Respiratory_System OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L18_Development_of_Respiratory_System",
+          "tags": [
+            "ManhattanProject::C2::T2::L18_Development_of_Respiratory_System",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L18_Development_of_Respiratory_System"
           ]
         },
         {
           "label": "EL: Respiratory Physiology",
           "code": "C2T2L19",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48406489",
-          "query": "tag:ManhattanProject::C2::T2::L19_Respiratory_Physiology OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L19_Respiratory_Physiology",
-          "tags": [
-            "ManhattanProject::C2::T2::L19_Respiratory_Physiology",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L19_Respiratory_Physiology"
-          ],
           "cards": 35,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38d64cbb-9c08-4786-a750-b4f1011f0f69"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L19_Respiratory_Physiology OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L19_Respiratory_Physiology",
+          "tags": [
+            "ManhattanProject::C2::T2::L19_Respiratory_Physiology",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L19_Respiratory_Physiology"
           ]
         }
       ]
@@ -1540,18 +1540,18 @@
         {
           "label": "EL: Cell Injury & Death",
           "code": "C2T2L20",
-          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48629187",
-          "query": "tag:ManhattanProject::C2::T2::L20_Cell_Injury_and_Death OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L20_Cell_Injury_and_Death",
-          "tags": [
-            "ManhattanProject::C2::T2::L20_Cell_Injury_and_Death",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L20_Cell_Injury_and_Death"
-          ],
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48667801",
           "cards": 4,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfdcf3b8-7d6a-4047-b0f1-b4f1011f4f88"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L20_Cell_Injury_and_Death OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L20_Cell_Injury_and_Death",
+          "tags": [
+            "ManhattanProject::C2::T2::L20_Cell_Injury_and_Death",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L20_Cell_Injury_and_Death"
           ]
         },
         {
