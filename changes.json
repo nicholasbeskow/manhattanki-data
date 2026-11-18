@@ -1460,6 +1460,49 @@
           1794258792952
         ]
       }
+    },
+    {
+      "id": "2026-11-18-c2t2-l17-io-orientation-fix",
+      "published": "2026-11-18T18:19:47Z",
+      "title": "L17 Pulmonary Imaging: sagittal CT images un-mirrored",
+      "summary": "Slides 50/51 sagittal CT occlusion images were mirrored relative to the slide, so arrows pointed to the wrong lobes/fissures. Fixed images; slide 32 esophagus label completed; new left main bronchus mask on slide 48.",
+      "lecture_of": {
+        "1795025160693": "C2T2L17",
+        "1794927165014": "C2T2L17",
+        "1794927165015": "C2T2L17",
+        "1794927165016": "C2T2L17",
+        "1794927165017": "C2T2L17",
+        "1794927165021": "C2T2L17",
+        "1794927165022": "C2T2L17",
+        "1794927165023": "C2T2L17",
+        "1794927165024": "C2T2L17",
+        "1794927165025": "C2T2L17",
+        "1794927165026": "C2T2L17",
+        "1794927165027": "C2T2L17",
+        "1794927165028": "C2T2L17"
+      },
+      "lectures": [
+        "C2T2L17"
+      ],
+      "items": {
+        "new": [
+          1795025160693
+        ],
+        "edited": [
+          1794927165014,
+          1794927165015,
+          1794927165016,
+          1794927165017,
+          1794927165021,
+          1794927165022,
+          1794927165023,
+          1794927165024,
+          1794927165025,
+          1794927165026,
+          1794927165027,
+          1794927165028
+        ]
+      }
     }
   ]
 }
