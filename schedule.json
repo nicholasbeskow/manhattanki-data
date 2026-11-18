@@ -1562,7 +1562,13 @@
             "ManhattanProject::C2::T2::L21_VM_Lab_Cell_Injury_and_Death",
             "AnkiHub_Optional::Manhattanki::C2::T2::L21_VM_Lab_Cell_Injury_and_Death"
           ],
-          "cards": 32
+          "cards": 32,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf56df88-3455-439c-b255-b4f1011f6c16"
+            }
+          ]
         }
       ]
     },
