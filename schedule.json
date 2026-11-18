@@ -1546,7 +1546,13 @@
             "ManhattanProject::C2::T2::L20_Cell_Injury_and_Death",
             "AnkiHub_Optional::Manhattanki::C2::T2::L20_Cell_Injury_and_Death"
           ],
-          "cards": 4
+          "cards": 4,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfdcf3b8-7d6a-4047-b0f1-b4f1011f4f88"
+            }
+          ]
         },
         {
           "label": "VM Lab -- Cell Injury & Death",
