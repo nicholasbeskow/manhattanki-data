@@ -1503,6 +1503,26 @@
           1794927165028
         ]
       }
+    },
+    {
+      "id": "2026-11-20-c2t2-l05-lymphadenitis",
+      "published": "2026-11-20T02:11:47Z",
+      "title": "L05 Lymphoid Organs: reactive lymphadenitis card",
+      "summary": "Wiranowska's Big Picture Key Points handout (posted 11/18) lists lymphadenitis; one new card: reactive lymphadenitis enlarges nodes through edema + nodule hyperplasia.",
+      "lecture_of": {
+        "1795140301019": "C2T2L05"
+      },
+      "lectures": [
+        "C2T2L05"
+      ],
+      "items": {
+        "new": [
+          1795140301019
+        ],
+        "edited": [],
+        "tagged": [],
+        "untagged": []
+      }
     }
   ]
 }
