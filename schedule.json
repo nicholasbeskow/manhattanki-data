@@ -1576,7 +1576,13 @@
       "date": "2026-11-19",
       "lectures": [
         {
-          "label": "Basic Biostatistics I"
+          "label": "Basic Biostatistics I",
+          "tags": [
+            "ManhattanProject::EBCR::L06_Basic_Biostatistics_I",
+            "AnkiHub_Optional::Manhattanki::EBCR::L06_Basic_Biostatistics_I"
+          ],
+          "query": "tag:ManhattanProject::EBCR::L06_Basic_Biostatistics_I OR tag:AnkiHub_Optional::Manhattanki::EBCR::L06_Basic_Biostatistics_I",
+          "cards": 36
         }
       ]
     },
