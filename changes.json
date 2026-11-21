@@ -1523,6 +1523,63 @@
         "tagged": [],
         "untagged": []
       }
+    },
+    {
+      "id": "2026-11-21-c2t2-sgt-samuel-wk2-coverage",
+      "published": "2026-11-21T16:51:57Z",
+      "title": "C2T2: gaps from Samuel + Week 2 review SGT questions",
+      "summary": "139 SGT questions checked; 123 already covered. 7 new cards, 3 new clozes on existing cards (bronchiole goblet cells, TE septum week 5, 24-26 wk survival), 3 AnKing cards added (sarcoid restrictive, thymoma, MVP murmur).",
+      "lecture_of": {
+        "1795279875620": "C2T2L02",
+        "1795279876163": "C2T2L06",
+        "1795279876639": "C2T2L07",
+        "1795279877140": "C2T2L12",
+        "1795279877663": "C2T2L17",
+        "1795279877712": "C2T2L17",
+        "1795279878312": "C2T2L20",
+        "1794258791971": "C2T2L11",
+        "1794862478207": "C2T2L16",
+        "1794930294109": "C2T2L18",
+        "1473638623505": "C2T2L01",
+        "1486952585000": "C2T2L03",
+        "1471558805917": "C2T2L14"
+      },
+      "lectures": [
+        "C2T2L01",
+        "C2T2L02",
+        "C2T2L03",
+        "C2T2L06",
+        "C2T2L07",
+        "C2T2L11",
+        "C2T2L12",
+        "C2T2L14",
+        "C2T2L16",
+        "C2T2L17",
+        "C2T2L18",
+        "C2T2L20"
+      ],
+      "items": {
+        "new": [
+          1795279875620,
+          1795279876163,
+          1795279876639,
+          1795279877140,
+          1795279877663,
+          1795279877712,
+          1795279878312
+        ],
+        "edited": [
+          1794258791971,
+          1794862478207,
+          1794930294109
+        ],
+        "tagged": [
+          1473638623505,
+          1486952585000,
+          1471558805917
+        ],
+        "untagged": []
+      }
     }
   ]
 }
