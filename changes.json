@@ -1580,6 +1580,61 @@
         ],
         "untagged": []
       }
+    },
+    {
+      "id": "2026-11-22-c2t2-lgt-sgt-coverage",
+      "published": "2026-11-22T02:47:05Z",
+      "title": "C2T2: gaps from Large Group (general + anatomy) and Week 3 / Week 6 SGT questions",
+      "summary": "278 practice questions checked (LGT general + worksheet, LGT anatomy, Week 3 review SGT, Erika & Ariel Week 6 SGT). 8 new cards (lung secondary functions, pneumonia imaging, steatosis, necrosis repair, lung lymph route, physiologic vs pathologic hypertrophy) and 6 new clozes on existing cards (cisterna chyli, laryngeal ventricle, middle-lobe auscultation, splenic stab pleura, Duchenne pseudohypertrophy, dry gangrene).",
+      "lecture_of": {
+        "1795315597516": "C2T2L01",
+        "1795315597959": "C2T2L01",
+        "1795315598382": "C2T2L17",
+        "1795315598909": "C2T2L21",
+        "1795315599433": "C2T2L21",
+        "1795315599958": "C2T2L21",
+        "1795315600484": "C2T2L09",
+        "1795315601033": "C2T2L15",
+        "1793724423268": "C2T2L03",
+        "1794172526641": "C2T2L08",
+        "1794178276582": "C2T2L09",
+        "1794592755250": "C2T2L13",
+        "1794857931820": "C2T2L15",
+        "1795016589924": "C2T2L20"
+      },
+      "lectures": [
+        "C2T2L01",
+        "C2T2L03",
+        "C2T2L08",
+        "C2T2L09",
+        "C2T2L13",
+        "C2T2L15",
+        "C2T2L17",
+        "C2T2L20",
+        "C2T2L21"
+      ],
+      "items": {
+        "new": [
+          1795315597516,
+          1795315597959,
+          1795315598382,
+          1795315598909,
+          1795315599433,
+          1795315599958,
+          1795315600484,
+          1795315601033
+        ],
+        "edited": [
+          1793724423268,
+          1794172526641,
+          1794178276582,
+          1794592755250,
+          1794857931820,
+          1795016589924
+        ],
+        "tagged": [],
+        "untagged": []
+      }
     }
   ]
 }
