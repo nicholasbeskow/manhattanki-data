@@ -1557,17 +1557,17 @@
         {
           "label": "VM Lab -- Cell Injury & Death",
           "code": "C2T2L21",
-          "query": "tag:ManhattanProject::C2::T2::L21_VM_Lab_Cell_Injury_and_Death OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L21_VM_Lab_Cell_Injury_and_Death",
-          "tags": [
-            "ManhattanProject::C2::T2::L21_VM_Lab_Cell_Injury_and_Death",
-            "AnkiHub_Optional::Manhattanki::C2::T2::L21_VM_Lab_Cell_Injury_and_Death"
-          ],
           "cards": 36,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf56df88-3455-439c-b255-b4f1011f6c16"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T2::L21_VM_Lab_Cell_Injury_and_Death OR tag:AnkiHub_Optional::Manhattanki::C2::T2::L21_VM_Lab_Cell_Injury_and_Death",
+          "tags": [
+            "ManhattanProject::C2::T2::L21_VM_Lab_Cell_Injury_and_Death",
+            "AnkiHub_Optional::Manhattanki::C2::T2::L21_VM_Lab_Cell_Injury_and_Death"
           ]
         }
       ]
@@ -1577,12 +1577,12 @@
       "lectures": [
         {
           "label": "Basic Biostatistics I",
+          "cards": 36,
+          "query": "tag:ManhattanProject::EBCR::L06_Basic_Biostatistics_I OR tag:AnkiHub_Optional::Manhattanki::EBCR::L06_Basic_Biostatistics_I",
           "tags": [
             "ManhattanProject::EBCR::L06_Basic_Biostatistics_I",
             "AnkiHub_Optional::Manhattanki::EBCR::L06_Basic_Biostatistics_I"
-          ],
-          "query": "tag:ManhattanProject::EBCR::L06_Basic_Biostatistics_I OR tag:AnkiHub_Optional::Manhattanki::EBCR::L06_Basic_Biostatistics_I",
-          "cards": 36
+          ]
         }
       ]
     },
@@ -1592,6 +1592,7 @@
         {
           "label": "Inflammation",
           "code": "C2T3L01",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48718365",
           "query": "tag:ManhattanProject::C2::T3::L01_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L01_*",
           "tags": [
             "ManhattanProject::C2::T3::L01_Inflammation",
