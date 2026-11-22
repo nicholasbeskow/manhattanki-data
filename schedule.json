@@ -1126,7 +1126,7 @@
           "label": "Overview of Pulmonary System",
           "code": "C2T2L01",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48502193",
-          "cards": 51,
+          "cards": 54,
           "links": [
             {
               "label": "Lecture recording",
@@ -1160,7 +1160,7 @@
           "label": "Overview of Lymphatic System",
           "code": "C2T2L03",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48508003",
-          "cards": 75,
+          "cards": 76,
           "links": [
             {
               "label": "Lecture recording",
@@ -1297,7 +1297,7 @@
           "label": "Postlab3: Nasal Cavity & Larynx",
           "code": "C2T2L08",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48536451",
-          "cards": 79,
+          "cards": 80,
           "links": [
             {
               "label": "Lecture recording",
@@ -1314,7 +1314,7 @@
           "label": "Prelab4: Pleura & Lungs",
           "code": "C2T2L09",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48536207",
-          "cards": 144,
+          "cards": 147,
           "links": [
             {
               "label": "Lecture recording",
@@ -1407,7 +1407,7 @@
           "label": "Postlab4: Pleura & Lungs",
           "code": "C2T2L13",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48550573",
-          "cards": 65,
+          "cards": 67,
           "links": [
             {
               "label": "Lecture recording",
@@ -1446,7 +1446,7 @@
           "label": "Cell Injury & Death",
           "code": "C2T2L15",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48615063",
-          "cards": 170,
+          "cards": 173,
           "links": [
             {
               "label": "Lecture recording",
@@ -1485,7 +1485,7 @@
           "label": "Pulmonary Imaging",
           "code": "C2T2L17",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48653625",
-          "cards": 67,
+          "cards": 68,
           "links": [
             {
               "label": "Lecture recording",
@@ -1541,7 +1541,7 @@
           "label": "EL: Cell Injury & Death",
           "code": "C2T2L20",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48667801",
-          "cards": 5,
+          "cards": 6,
           "links": [
             {
               "label": "Lecture recording",
@@ -1562,7 +1562,7 @@
             "ManhattanProject::C2::T2::L21_VM_Lab_Cell_Injury_and_Death",
             "AnkiHub_Optional::Manhattanki::C2::T2::L21_VM_Lab_Cell_Injury_and_Death"
           ],
-          "cards": 32,
+          "cards": 36,
           "links": [
             {
               "label": "Lecture recording",
