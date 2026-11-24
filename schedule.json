@@ -1609,11 +1609,13 @@
         {
           "label": "Prelab5: Posterior Mediastinum",
           "code": "C2T3L02",
-          "query": "tag:ManhattanProject::C2::T3::L02_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L02_*",
+          "query": "tag:ManhattanProject::C2::T3::L02_Prelab5_Posterior_Mediastinum OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L02_Prelab5_Posterior_Mediastinum OR tag:AnkiHub_Optional::ManhattankiBL::C2::T3::L02_Prelab5_Posterior_Mediastinum",
           "tags": [
             "ManhattanProject::C2::T3::L02_Prelab5_Posterior_Mediastinum",
-            "AnkiHub_Optional::Manhattanki::C2::T3::L02_Prelab5_Posterior_Mediastinum"
-          ]
+            "AnkiHub_Optional::Manhattanki::C2::T3::L02_Prelab5_Posterior_Mediastinum",
+            "AnkiHub_Optional::ManhattankiBL::C2::T3::L02_Prelab5_Posterior_Mediastinum"
+          ],
+          "cards": 82
         },
         {
           "label": "Vascular Imaging",
