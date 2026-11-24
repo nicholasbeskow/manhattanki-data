@@ -1598,7 +1598,13 @@
             "ManhattanProject::C2::T3::L01_Inflammation",
             "AnkiHub_Optional::Manhattanki::C2::T3::L01_Inflammation"
           ],
-          "cards": 105
+          "cards": 105,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ddf5c9bc-ea01-4e4d-bfca-b4e100e677d6"
+            }
+          ]
         },
         {
           "label": "Prelab5: Posterior Mediastinum",
