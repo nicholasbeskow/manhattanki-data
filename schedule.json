@@ -1615,7 +1615,13 @@
             "AnkiHub_Optional::Manhattanki::C2::T3::L02_Prelab5_Posterior_Mediastinum",
             "AnkiHub_Optional::ManhattankiBL::C2::T3::L02_Prelab5_Posterior_Mediastinum"
           ],
-          "cards": 82
+          "cards": 82,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a5e74e1-7465-487a-ab7b-b4e100e69c6a"
+            }
+          ]
         },
         {
           "label": "Vascular Imaging",
