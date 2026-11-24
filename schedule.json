@@ -1626,11 +1626,12 @@
         {
           "label": "Vascular Imaging",
           "code": "C2T3L03",
-          "query": "tag:ManhattanProject::C2::T3::L03_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L03_*",
+          "query": "tag:ManhattanProject::C2::T3::L03_Vascular_Imaging OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L03_Vascular_Imaging",
           "tags": [
             "ManhattanProject::C2::T3::L03_Vascular_Imaging",
             "AnkiHub_Optional::Manhattanki::C2::T3::L03_Vascular_Imaging"
-          ]
+          ],
+          "cards": 74
         }
       ]
     },
