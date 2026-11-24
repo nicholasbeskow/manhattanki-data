@@ -1390,7 +1390,7 @@
           "label": "Lung Ventilation",
           "code": "C2T2L12",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48550945",
-          "cards": 96,
+          "cards": 99,
           "links": [
             {
               "label": "Lecture recording",
@@ -1424,7 +1424,7 @@
           "label": "Clinical Heart Sounds",
           "code": "C2T2L14",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48587961",
-          "cards": 106,
+          "cards": 108,
           "links": [
             {
               "label": "Lecture recording",
@@ -1446,7 +1446,7 @@
           "label": "Cell Injury & Death",
           "code": "C2T2L15",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48615063",
-          "cards": 173,
+          "cards": 175,
           "links": [
             {
               "label": "Lecture recording",
@@ -1593,11 +1593,12 @@
           "label": "Inflammation",
           "code": "C2T3L01",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48718365",
-          "query": "tag:ManhattanProject::C2::T3::L01_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L01_*",
+          "query": "tag:ManhattanProject::C2::T3::L01_Inflammation OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L01_Inflammation",
           "tags": [
             "ManhattanProject::C2::T3::L01_Inflammation",
             "AnkiHub_Optional::Manhattanki::C2::T3::L01_Inflammation"
-          ]
+          ],
+          "cards": 105
         },
         {
           "label": "Prelab5: Posterior Mediastinum",
