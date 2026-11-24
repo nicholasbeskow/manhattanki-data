@@ -1631,7 +1631,13 @@
             "ManhattanProject::C2::T3::L03_Vascular_Imaging",
             "AnkiHub_Optional::Manhattanki::C2::T3::L03_Vascular_Imaging"
           ],
-          "cards": 74
+          "cards": 74,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa8c85ba-6715-4a2c-a06f-b4e100e6d1c5"
+            }
+          ]
         }
       ]
     },
