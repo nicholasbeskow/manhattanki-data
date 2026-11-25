@@ -1593,50 +1593,51 @@
           "label": "Inflammation",
           "code": "C2T3L01",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48718365",
-          "query": "tag:ManhattanProject::C2::T3::L01_Inflammation OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L01_Inflammation",
-          "tags": [
-            "ManhattanProject::C2::T3::L01_Inflammation",
-            "AnkiHub_Optional::Manhattanki::C2::T3::L01_Inflammation"
-          ],
           "cards": 105,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ddf5c9bc-ea01-4e4d-bfca-b4e100e677d6"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T3::L01_Inflammation OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L01_Inflammation",
+          "tags": [
+            "ManhattanProject::C2::T3::L01_Inflammation",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L01_Inflammation"
           ]
         },
         {
           "label": "Prelab5: Posterior Mediastinum",
           "code": "C2T3L02",
-          "query": "tag:ManhattanProject::C2::T3::L02_Prelab5_Posterior_Mediastinum OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L02_Prelab5_Posterior_Mediastinum OR tag:AnkiHub_Optional::ManhattankiBL::C2::T3::L02_Prelab5_Posterior_Mediastinum",
-          "tags": [
-            "ManhattanProject::C2::T3::L02_Prelab5_Posterior_Mediastinum",
-            "AnkiHub_Optional::Manhattanki::C2::T3::L02_Prelab5_Posterior_Mediastinum",
-            "AnkiHub_Optional::ManhattankiBL::C2::T3::L02_Prelab5_Posterior_Mediastinum"
-          ],
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48728621",
           "cards": 82,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a5e74e1-7465-487a-ab7b-b4e100e69c6a"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T3::L02_Prelab5_Posterior_Mediastinum OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L02_Prelab5_Posterior_Mediastinum OR tag:AnkiHub_Optional::ManhattankiBL::C2::T3::L02_Prelab5_Posterior_Mediastinum",
+          "tags": [
+            "ManhattanProject::C2::T3::L02_Prelab5_Posterior_Mediastinum",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L02_Prelab5_Posterior_Mediastinum",
+            "AnkiHub_Optional::ManhattankiBL::C2::T3::L02_Prelab5_Posterior_Mediastinum"
           ]
         },
         {
           "label": "Vascular Imaging",
           "code": "C2T3L03",
-          "query": "tag:ManhattanProject::C2::T3::L03_Vascular_Imaging OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L03_Vascular_Imaging",
-          "tags": [
-            "ManhattanProject::C2::T3::L03_Vascular_Imaging",
-            "AnkiHub_Optional::Manhattanki::C2::T3::L03_Vascular_Imaging"
-          ],
           "cards": 74,
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa8c85ba-6715-4a2c-a06f-b4e100e6d1c5"
             }
+          ],
+          "query": "tag:ManhattanProject::C2::T3::L03_Vascular_Imaging OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L03_Vascular_Imaging",
+          "tags": [
+            "ManhattanProject::C2::T3::L03_Vascular_Imaging",
+            "AnkiHub_Optional::Manhattanki::C2::T3::L03_Vascular_Imaging"
           ]
         }
       ]
@@ -1665,6 +1666,7 @@
         {
           "label": "Postlab5: Posterior Mediastinum",
           "code": "C2T3L06",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48729097",
           "query": "tag:ManhattanProject::C2::T3::L06_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L06_*",
           "tags": [
             "ManhattanProject::C2::T3::L06_Postlab5_Posterior_Mediastinum",
@@ -1745,6 +1747,7 @@
         {
           "label": "Bacteremia & Intravascular Bacterial Infections",
           "code": "C2T3L12",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48731393",
           "query": "tag:ManhattanProject::C2::T3::L12_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L12_*",
           "tags": [
             "ManhattanProject::C2::T3::L12_Bacteremia_and_Intravascular_Bacterial_Infections",
@@ -1754,6 +1757,7 @@
         {
           "label": "Microbiology of the Lung",
           "code": "C2T3L13",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48731397",
           "query": "tag:ManhattanProject::C2::T3::L13_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L13_*",
           "tags": [
             "ManhattanProject::C2::T3::L13_Microbiology_of_the_Lung",
@@ -1763,6 +1767,7 @@
         {
           "label": "Bacterial Infections of Respiratory Tract",
           "code": "C2T3L14",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48731399",
           "query": "tag:ManhattanProject::C2::T3::L14_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L14_*",
           "tags": [
             "ManhattanProject::C2::T3::L14_Bacterial_Infections_of_Respiratory_Tract",
