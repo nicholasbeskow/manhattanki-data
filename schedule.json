@@ -1648,6 +1648,7 @@
         {
           "label": "Tissue Repair",
           "code": "C2T3L04",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48769095",
           "query": "tag:ManhattanProject::C2::T3::L04_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L04_*",
           "tags": [
             "ManhattanProject::C2::T3::L04_Tissue_Repair",
@@ -1657,6 +1658,7 @@
         {
           "label": "EL: Inflammation & Repair",
           "code": "C2T3L05",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48769129",
           "query": "tag:ManhattanProject::C2::T3::L05_* OR tag:AnkiHub_Optional::Manhattanki::C2::T3::L05_*",
           "tags": [
             "ManhattanProject::C2::T3::L05_Inflammation_and_Repair",
